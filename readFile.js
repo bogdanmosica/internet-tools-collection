@@ -8,7 +8,7 @@ const regex = require("./regex");
 const { getTitles, getLinks } = require("./regex.test");
 
 const readFile = () => {
-	return fs.readFile("./readme.md", "utf8", function (err, data) {
+	return fs.readFile("./collection.md", "utf8", function (err, data) {
 		if (err) {
 			return console.log(err);
 		}
@@ -128,8 +128,7 @@ const readFile = () => {
 				},
 				markdownModelContent
 			);
-			console.log(markdownModel);
-			fs.writeFileSync("./collection.md", json2md(markdownModel));
+			fs.writeFileSync("./readme.md", json2md(markdownModel));
 		});
 	});
 };
