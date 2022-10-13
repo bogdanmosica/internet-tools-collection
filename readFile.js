@@ -110,7 +110,7 @@ const readFile = () => {
 						link: {
 							title: `<img src=${
 								image ||
-								"https://cdn.dribbble.com/users/88213/screenshots/8560585/media/7263b7aaa8077a322b0f12a7cd7c7404.png?compress=1&resize=400x300&vertical=top"
+								"https://i.pinimg.com/originals/7c/1c/a4/7c1ca448be31c489fb66214ea3ae6deb.jpg"
 							} width="300" />`,
 							source: url,
 						},
