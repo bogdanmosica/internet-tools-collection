@@ -61,7 +61,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [3. Rytr · Best AI Writer, Content Generator & Writing Assistant](https://rytr.me/)
+## [3. Rytr - Best AI Writer, Content Generator & Writing Assistant](https://rytr.me/)
 
 [<img src='https://storage.googleapis.com/rytr-me/public/image/logo-spaced.png' width="300" />](https://rytr.me/)
 
@@ -79,16 +79,16 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [5. Kinetix | Take yourself to the Metaverse](https://kinetix.tech/)
+## [5. Kinetix Tech](https://kinetix.tech/)
 
 [<img src='/social-post-image.png' width="300" />](https://kinetix.tech/)
 
-> Kinetix is a platform that enables creators to turn any video into a 3D animation using deep learning. Our ambition is to empower the community of creators by providing them with AI-assisted tools that facilitate and accelerate their work while unleashing their creativity.
+> Kinetix is a no-code 3D creation tool powered by Artificial Intelligence. The web-based platform leverages AI motion capture to convert a video into a 3D animation and lets you customize your avatars and environments. We make 3D animation accessible to every creator so they can create engaging stories.
 
 
 ---
 
-## [6. Vocal Remover | Isolate Voice & Instrumental Online | LALAL.AI](https://www.lalal.ai/)
+## [6. LALAL.AI: 100% AI-Powered Vocal and Instrumental Tracks Remover](https://www.lalal.ai/)
 
 [<img src='https://s.lalal.ai/share/share-default.png' width="300" />](https://www.lalal.ai/)
 
@@ -142,20 +142,20 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [12. Hypnogram](https://hypnogram.xyz/)
+## [12. hypnogram.xyz](https://hypnogram.xyz/)
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://hypnogram.xyz/)
 
-> 
+> Generate images from text descriptions using AI
 
 
 ---
 
-## [13. FakeYou, Your Deep Fake Text to Speech Website.](https://fakeyou.com/)
+## [13. FakeYou. Deep Fake Text to Speech.](https://fakeyou.com/)
 
 [<img src='/apple-touch-icon.png' width="300" />](https://fakeyou.com/)
 
-> FakeYou. You can make deep fake text to speech audio and lip synced video.
+> FakeYou is a text to speech wonderland where all of your dreams come true.
 
 
 ---
@@ -164,7 +164,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 [<img src='https://www.craiyon.com/craiyon_preview.png' width="300" />](https://www.craiyon.com/)
 
-> Craiyon is an AI model that can draw images from any text prompt!
+> Craiyon, formerly DALL-E mini, is an AI model that can draw images from any text prompt! 
 
 
 ---
@@ -178,11 +178,11 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [16. Writely Ai](https://www.writelyai.com/)
+## [16. Writely | Using AI to Improve Your Writing](https://www.writelyai.com/)
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://www.writelyai.com/)
 
-> 
+> Making the art of writing accessible to all
 
 
 ---
@@ -196,11 +196,11 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [18. Typeform App for Unbounce | Unbounce Apps](https://unbounce.com/product/smart-copy/)
+## [18. Smart Copy - AI Copywriting Assistant | Unbounce](https://unbounce.com/product/smart-copy/)
 
 [<img src='https://d9hhrg4mnvzow.cloudfront.net/p.unbounce.com/unbounce-apps-typeform-feature-page-012022/9bdc7dc0-typeform-open-graph.jpg' width="300" />](https://unbounce.com/product/smart-copy/)
 
-> Create conversational forms, quizzes, and surveys on your landing page with Smart Builder’s new Typeform app—and watch your completion rates soar.
+> Generate creative AI copy on-the-spot across your favourite tools
 
 
 ---
@@ -214,16 +214,16 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [20. NVIDIA Canvas : Harness The Power Of AI](https://www.nvidia.com/en-us/studio/canvas/)
+## [20. NVIDIA Canvas: Turn Simple Brushstrokes into Realistic Images](https://www.nvidia.com/en-us/studio/canvas/)
 
 [<img src='https://www.nvidia.com/content/dam/en-zz/Solutions/studio/canvas/canvas-og-1200-630px.jpg' width="300" />](https://www.nvidia.com/en-us/studio/canvas/)
 
-> Create Backgrounds Quickly, or Speed up your Concept Exploration.
+> Create backgrounds quickly, or speed up your concept exploration so you can spend more time visualizing ideas with the help of NVIDIA Canvas.
 
 
 ---
 
-## [21. Hotpot.ai](https://hotpot.ai/)
+## [21. Hotpot.ai - Hotpot.ai](https://hotpot.ai/)
 
 [<img src='https://hotpot.ai/images/site/ogDefaultImage.jpg' width="300" />](https://hotpot.ai/)
 
@@ -241,11 +241,11 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [23. Answer The Public](https://answerthepublic.com/)
+## [23. Search listening tool for market, customer & content research - AnswerThePublic](https://answerthepublic.com/)
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://answerthepublic.com/)
 
-> 
+> Use our free tool to get instant, raw search insights, direct from the minds of your customers. Upgrade to a paid plan to monitor for new ways that people talk & ask questions about your brand, product or topic.
 
 
 ---
@@ -254,16 +254,16 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 [<img src='https://d21b0h47110qhi.cloudfront.net/old-free/group-3540-E88weKteT5jilx5.png' width="300" />](https://topicmojo.com/)
 
-> Topic Mojo audience insights
+> Discover unique & newest queries around any topic and find what your customers are searching for. Pulling data from 50+ sources to enhance your topic research.
 
 
 ---
 
-## [25. Img Larger](https://imglarger.com/)
+## [25. AI Image Enlarger | Enlarge Image Without Losing Quality!](https://imglarger.com/)
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://imglarger.com/)
 
-> 
+> AI Image Enlarger is a FREE online image enlarger that could upscale and enhance small images automatically. Make jpg/png pictures big without losing quality.
 
 
 ---
@@ -281,7 +281,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 [<img src='%PUBLIC_URL%/cube_logo.png' width="300" />](https://www.kaedim3d.com/webapp)
 
-> Platform for turning image to 3D model.
+> AI for turning 2D images, sketches and photos to 3D models in seconds.
 
 
 ---
@@ -322,7 +322,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [32. Most downloaded Instagram Captions App (+more creator tools) - CaptionPlus](https://captionplus.app/)
+## [32. Most downloaded Instagram Captions App (+more creator tools)](https://captionplus.app/)
 
 [<img src='https://captionplus.app/img/captionplus-app-featured.png' width="300" />](https://captionplus.app/)
 
@@ -331,19 +331,11 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [33. Writecream - Best AI Writer & Content Generator](https://www.writecream.com/)
+## [33. Writecream - Best AI Writer & Content Generator - Writecream](https://www.writecream.com/)
 
 [<img src='https://i0.wp.com/www.writecream.com/wp-content/uploads/2021/12/Copy-of-A.I-powered-marketing-copywriting.png?fit=1640%2C924&ssl=1' width="300" />](https://www.writecream.com/)
 
-> Independent professional > 
-> Create marketing content & sales emails in seconds, at a fraction of the cost. Try for free. No credit card required.    > 
-> https://www.youtube.com/watch?v=3mCIjJjW4p4       > 
-> What kind of content can Writecream produce?  Icebreakers > 
-> ✔️ Cold Emails> 
-> ✔️ LinkedIn Outreach> 
-> ✔️ Backlink Campaigns> 
-> ✔️ Image Icebreakers> 
-> ✔️ Audio Icebreakers
+> Sentence Rewriter is a free tool to reword a sentence, paragraph and even entire essays in a short amount of time.
 
 
 ---
@@ -368,22 +360,22 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [2. text to speech online](https://www.naturalreaders.com/)
+## [2. Free Text to Speech: Online, App, Software, Commercial license with Natural Sounding Voices.](https://www.naturalreaders.com/)
 
 [<img src='https://www.naturalreaders.com/images/share_preview2.jpg' width="300" />](https://www.naturalreaders.com/)
 
-> text to speech online
+> Free text to speech online app with natural voices, convert text to audio and mp3, for personal and commercial use
 
 
 ---
 
 # Developers
 
-## [1. Over API](https://overapi.com/)
+## [1. OverAPI.com | Collecting all the cheat sheets](https://overapi.com/)
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://overapi.com/)
 
-> 
+> OverAPI.com is a site collecting all the cheatsheets,all!
 
 
 ---
@@ -442,16 +434,16 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [8. Locofy - generate code](https://www.locofy.ai/)
+## [8. Locofy.ai - ship your products 3-4x faster — with low code](https://www.locofy.ai/)
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://www.locofy.ai/)
 
-> 
+> Turn your designs into production-ready frontend code for mobile apps and web. Ship products 3-4x faster with your existing design tools, tech stacks & workflows.
 
 
 ---
 
-## [9. Oh Shit Git](https://ohshitgit.com/)
+## [9. Oh Shit, Git!?!](https://ohshitgit.com/)
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://ohshitgit.com/)
 
@@ -460,7 +452,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [10. Carbon](https://carbon.now.sh/)
+## [10. Carbon | Create and share beautiful images of your source code](https://carbon.now.sh/)
 
 [<img src='/static/brand/banner.png' width="300" />](https://carbon.now.sh/)
 
@@ -496,11 +488,11 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [14. massCode](https://masscode.io/)
+## [14. massCode | A free and open source code snippets manager for developers](https://masscode.io/)
 
 [<img src='https://masscode.io/og-image.png' width="300" />](https://masscode.io/)
 
-> A free and open source code snippets manager for developers
+> Code snippets manager for developers, developed using web technologies.
 
 
 ---
@@ -534,7 +526,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [2. Box Shadow](https://box-shadow.dev/)
+## [2. Box Shadows](https://box-shadow.dev/)
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://box-shadow.dev/)
 
@@ -570,7 +562,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [6. Key Frames](https://keyframes.app/)
+## [6. Keyframes.app](https://keyframes.app/)
 
 [<img src='keyframes.app/img/meta/facebook.png' width="300" />](https://keyframes.app/)
 
@@ -579,11 +571,11 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [7. Create custom and Instagram like photo filters for CSS](https://www.cssfilters.co/)
+## [7. cssFilters.co - Custom and Instagram like photo filters for CSS](https://www.cssfilters.co/)
 
 [<img src='http://www.cssFilters.co/images/cssfilters.jpg' width="300" />](https://www.cssfilters.co/)
 
-> Visually style photos with css filters and blend modes. Experiment with your own uploaded photo or select one from the Unsplash collection.
+> Visual playground for generating CSS for custom and Instagram like photo filters. Experiment with your own uploaded photo or select one from the Unsplash collection.
 
 
 ---
@@ -610,16 +602,16 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [2. Budibase | Build internal tools, the easy way](https://budibase.com/)
+## [2. Budibase | Build internal tools in minutes, the easy way](https://budibase.com/)
 
 [<img src='https://budibase.com/homepage-meta.png' width="300" />](https://budibase.com/)
 
-> Budibase is an open source low-code platform and the easiest way to build, automate, and ship internal tools. Check it out.
+> Budibase is a modern, open source low-code platform for building modern internal applications in minutes.
 
 
 ---
 
-## [3. Build internal tools, remarkably fast.](https://retool.com/)
+## [3. Retool | Build internal tools, remarkably fast.](https://retool.com/)
 
 [<img src='https://retool.com/og-image.png' width="300" />](https://retool.com/)
 
@@ -641,9 +633,9 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [2. GitHub - kamranahmedse/developer-roadmap: Interactive roadmaps, guides and other educational content to help developers grow in their careers.](https://github.com/kamranahmedse/developer-roadmap)
 
-[<img src='https://opengraph.githubassets.com/fb47c4d7c2aa950b84856a6f351401698333f39197b1d74bf0f1cd5b7cd079a3/kamranahmedse/developer-roadmap' width="300" />](https://github.com/kamranahmedse/developer-roadmap)
+[<img src='https://opengraph.githubassets.com/f42fd45759ab294455376d13c6e99c6f152df7018dfd995fef2eb40d513eff59/kamranahmedse/developer-roadmap' width="300" />](https://github.com/kamranahmedse/developer-roadmap)
 
-> Interactive roadmaps, guides and other educational content to help developers grow in their careers. - GitHub - kamranahmedse/developer-roadmap: Interactive roadmaps, guides and other educational c...
+> Interactive roadmaps, guides and other educational content to help developers grow in their careers. - GitHub - kamranahmedse/developer-roadmap: Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 
 ---
@@ -657,11 +649,11 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [4. ProfileMe.dev](https://www.profileme.dev/)
+## [4. ProfileMe.dev | Create an amazing GitHub profile in minutes](https://www.profileme.dev/)
 
 [<img src='http://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/social-image.jpg' width="300" />](https://www.profileme.dev/)
 
-> Create an amazing GitHub profile in minutes
+> ProfileMe.dev | Create an amazing GitHub profile in minutes
 
 
 ---
@@ -677,7 +669,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [6. GitHub - tiimgreen/github-cheat-sheet: A list of cool features of Git and GitHub.](https://github.com/tiimgreen/github-cheat-sheet)
 
-[<img src='https://opengraph.githubassets.com/bb4dee0637ee46369c7dbe3d5a977b4847219bd9de73838144d1fa7f3e6a2fec/tiimgreen/github-cheat-sheet' width="300" />](https://github.com/tiimgreen/github-cheat-sheet)
+[<img src='https://opengraph.githubassets.com/2b560f036b6aadd620239848d594d31b2a89342ea9b714fa5025cfd345f025d3/tiimgreen/github-cheat-sheet' width="300" />](https://github.com/tiimgreen/github-cheat-sheet)
 
 > A list of cool features of Git and GitHub. Contribute to tiimgreen/github-cheat-sheet development by creating an account on GitHub.
 
@@ -697,7 +689,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 [<img src='https://repository-images.githubusercontent.com/196760810/15be417c-11ad-487a-82df-438f3560b77c' width="300" />](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
 
-> Full reference of LinkedIn answers 2022 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel t...
+> Full reference of LinkedIn answers 2022 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test questions and answers  - GitHub - Ebazhanov/linkedin-skill-assessments-quizzes: Full reference of LinkedIn answers 2022 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test questions and answers
 
 
 ---
@@ -713,7 +705,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [2. Anchor Framerwork - Solana](https://book.anchor-lang.com/introduction/introduction.html)
+## [2. Introduction - The Anchor Book v0.24.0](https://book.anchor-lang.com/introduction/introduction.html)
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://book.anchor-lang.com/introduction/introduction.html)
 
@@ -773,7 +765,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 [<img src='/static/images/site_preview.png' width="300" />](https://www.quiverquant.com/)
 
-> The next generation of investment research
+> Quiver Quantitative
 
 
 ---
@@ -798,7 +790,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [2. Coder Byte](https://coderbyte.com/)
+## [2. Coderbyte | Code Screening, Challenges, & Interview Prep](https://coderbyte.com/)
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://coderbyte.com/)
 
@@ -807,11 +799,12 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [3. CodeChef | Competitive Programming | Participate & Learn | CodeChef](https://www.codechef.com/)
+## [3. 
+        Competitive Programming | Participate & Learn | CodeChef    ](https://www.codechef.com/)
 
 [<img src='https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png' width="300" />](https://www.codechef.com/)
 
-> CodeChef | Competitive Programming | Participate & Learn | CodeChef
+> Learn competitive programming with the help of CodeChef's coding competitions. Take part in these online coding contests to level up your skills
 
 
 ---
@@ -825,7 +818,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [5. freeCodeCamp.org](https://www.freecodecamp.org/)
+## [5. Free Code Camp](https://www.freecodecamp.org/)
 
 [<img src='https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png' width="300" />](https://www.freecodecamp.org/)
 
@@ -847,12 +840,12 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 [<img src='https://getmimo.com/assets/link_image_twitter.png' width="300" />](https://getmimo.com/)
 
-> Mimo is a platform that teaches programming, HTML, CSS, JavaScript, Swift, and more through gamified and interactive lessons on the go.
+> Join more than 17 million learners worldwide. Learn to code for free. Learn Python, JavaScript, CSS, SQL, HTML, and more with our free code learning app.
 
 
 ---
 
-## [8. Free For Dev](https://free-for.dev/#/)
+## [8. Free for developers](https://free-for.dev/#/)
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://free-for.dev/#/)
 
@@ -861,11 +854,13 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [9. The Odin Project](https://www.theodinproject.com/)
+## [9. 
+      Your Career in Web Development Starts Here | The Odin Project
+    ](https://www.theodinproject.com/)
 
 [<img src='https://www.theodinproject.com/assets/og-logo-022832d4cefeec1d5266237be260192f5980f9bcbf1c9ca151b358f0ce1fd2df.png' width="300" />](https://www.theodinproject.com/)
 
-> 
+> The Odin Project empowers aspiring web developers to learn together for free
 
 
 ---
@@ -919,7 +914,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 # Design
 
-## [1. Useberry](https://www.useberry.com/)
+## [1. Useberry - Codeless prototype analytics](https://www.useberry.com/)
 
 [<img src='https://www.useberry.com/wp-content/uploads/2022/04/Share-Screen-Updated-1.png' width="300" />](https://www.useberry.com/)
 
@@ -937,20 +932,20 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [3. Dribbble](https://dribbble.com/)
+## [3. Dribbble - Discover the World’s Top Designers & Creative Professionals](https://dribbble.com/)
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://dribbble.com/)
 
-> 
+> Find Top Designers & Creative Professionals on Dribbble. We are where designers gain inspiration, feedback, community, and jobs. Your best resource to discover and connect with designers worldwide.
 
 
 ---
 
-## [4. Photopea](https://www.photopea.com/)
+## [4. Photopea | Online Photo Editor](https://www.photopea.com/)
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://www.photopea.com/)
 
-> 
+> Photopea Online Photo Editor lets you edit photos, apply effects, filters, add text, crop or resize pictures. Do Online Photo Editing in your browser for free!
 
 
 ---
@@ -973,7 +968,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [7. Phase - Digital Design Reinvented](https://phase.com/)
+## [7. Phase - Digital Design Reinvented| Phase](https://phase.com/)
 
 [<img src='https://phase.com/wp-content/uploads/2018/06/1-1.png' width="300" />](https://phase.com/)
 
@@ -986,7 +981,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 [<img src='https://tlgur.com/d/4x5ezZ98' width="300" />](https://animatedbackgrounds.me/)
 
-> A Collection of 30+ animated backgrounds for websites and blogs.
+> A Collection of 30+ animated backgrounds for websites and blogs.With Animated Backgrounds, set a simple, elegant background animations on your websites and blogs.
 
 
 ---
@@ -995,7 +990,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 [<img src='/share_image.png' width="300" />](https://trianglify.io/)
 
-> Create colorful low poly triangle patterns that can be used as wallpapers and website assets.
+> Trianglify.io is a tool for generating low poly triangle patterns that can be used as wallpapers and website assets.
 
 
 ---
@@ -1036,16 +1031,16 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [14. Free 3d IconS](https://free3dicons.com/)
+## [14. Love 3D Icon](https://free3dicons.com/)
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://free3dicons.com/)
 
-> 
+> Downloads free 3D icons
 
 
 ---
 
-## [15. GIMP](https://www.gimp.org/)
+## [15. GIMP - GNU Image Manipulation Program](https://www.gimp.org/)
 
 [<img src='https://www.gimp.org/images/frontpage/wilber-big.png' width="300" />](https://www.gimp.org/)
 
@@ -1063,20 +1058,20 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [17. Sketchup](https://www.sketchup.com/)
+## [17. 3D Design Software | 3D Modeling on the Web | SketchUp](https://www.sketchup.com/)
 
 [<img src='https://www.sketchup.com/sites/www.sketchup.com/files/opengraph/su-opengraph.jpg' width="300" />](https://www.sketchup.com/)
 
-> 
+> SketchUp is a premier 3D design software that truly makes 3D modeling for everyone, with a simple to learn yet robust toolset that empowers you to create whatever you can imagine.
 
 
 ---
 
-## [18. Hatchful](https://www.shopify.com/tools/logo-maker)
+## [18. Free Logo Maker - Create a Logo in Seconds - Shopify](https://www.shopify.com/tools/logo-maker)
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://www.shopify.com/tools/logo-maker)
 
-> 
+> Free logo maker tool to generate custom design logos in seconds. This logo creator is built for entrepreneurs on the go with hundreds of templates, free vectors, fonts and icons to design your own logo. The easiest way to create business logos online.
 
 
 ---
@@ -1085,7 +1080,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 [<img src='https://static.rfstat.com/renderforest/images/v2/logos/og-image.png' width="300" />](https://www.renderforest.com/)
 
-> 
+> Time to get your brand noticed. Create professional videos, logos, mockups, websites, and graphics — all in one place. Get started now!
 
 
 ---
@@ -1099,11 +1094,11 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [21. Type Scale](https://type-scale.com/)
+## [21. Type Scale - A Visual Calculator](https://type-scale.com/)
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://type-scale.com/)
 
-> 
+> Preview and choose the right type scale for your project. Experiment with font size, scale and different webfonts.
 
 
 ---
@@ -1135,16 +1130,16 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [25. Readymag](https://readymag.com/)
+## [25. Readymag—a design tool to create websites without coding](https://readymag.com/)
 
 [<img src='https://d3n32ilufxuvd1.cloudfront.net/56176d7d4ff02cd032e50c21/upload-28b2d698-9a8b-40af-b813-71c1d72cb9f0.png' width="300" />](https://readymag.com/)
 
-> Built with Readymag—a tool to design anything on the web.
+> Meet the most elegant, simple and powerful web-tool for designing websites, presentations, portfolios and all kinds of digital publications.
 
 
 ---
 
-## [26. ffflux: Online SVG Fluid Gradient Background Generator](https://fffuel.co/ffflux/)
+## [26. ffflux: Online SVG Fluid Gradient Background Generator | fffuel](https://fffuel.co/ffflux/)
 
 [<img src='https://fffuel.co/images/covers/ffflux.jpg' width="300" />](https://fffuel.co/ffflux/)
 
@@ -1191,7 +1186,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [4. LiveTerm - terminal style](https://liveterm.vercel.app/)
+## [4. LiveTerm](https://liveterm.vercel.app/)
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://liveterm.vercel.app/)
 
@@ -1204,7 +1199,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 [<img src='https://minimal.gallery/wp-content/themes/minimalgallery/assets/og.jpg' width="300" />](https://minimal.gallery/)
 
-> Hand-picked web design inspiration, curated daily.
+> For the love of beautiful, clean and functional websites.
 
 
 ---
@@ -1254,7 +1249,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [11. Site Inspire](https://www.siteinspire.com/)
+## [11. Siteinspire | Web Design Inspiration](https://www.siteinspire.com/)
 
 [<img src='https://www.siteinspire.com/share.png' width="300" />](https://www.siteinspire.com/)
 
@@ -1265,14 +1260,14 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [12. SAVEE](https://savee.it/)
 
-[<img src='https://st.savee-cdn.com/_next/static/media/default-og-image.4c07ae17.jpg?1665660307063' width="300" />](https://savee.it/)
+[<img src='https://st.savee-cdn.com/_next/static/media/default-og-image.4c07ae17.jpg?1665660946371' width="300" />](https://savee.it/)
 
-> 
+> The best way to save and share inspiration.
 
 
 ---
 
-## [13. Great Landing Page Copy is a little corner of the internet to find great landing page copywriting examples.](https://greatlandingpagecopy.com/)
+## [13. A little corner of the internet to find good landing page copywriting examples](https://greatlandingpagecopy.com/)
 
 [<img src='https://freight.cargo.site/i/8ebd2a872b65e0b956d8c612435f56d11e121f164248eb25edd8bd0ba32ddd19/greatlandingpagecopy-tumbnail.png' width="300" />](https://greatlandingpagecopy.com/)
 
@@ -1281,7 +1276,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [14. SaaS Landing Page](https://saaslandingpage.com/)
+## [14. The Best Landing Page Examples For Design Inspiration - SaaS Landing Page](https://saaslandingpage.com/)
 
 [<img src='https://saaslandingpage.com/wp-content/uploads/2020/01/fb-og.png' width="300" />](https://saaslandingpage.com/)
 
@@ -1292,16 +1287,18 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## Websites Free template
 
-## [1. Premium Bootstrap Themes and Templates](https://www.creative-tim.com/)
+## [1. 
+        Premium Bootstrap Themes and Templates: Download @ Creative Tim
+    ](https://www.creative-tim.com/)
 
 [<img src='https://s3.amazonaws.com/creativetim_bucket/tim_static_images/metatag-tim-cover-amazon.jpg?versionId=null' width="300" />](https://www.creative-tim.com/)
 
-> UI Kits, Templates and Dashboards built on top of Bootstrap, Vue.js, React, Angular, Node.js and Laravel. Join 2,014,387+ users and to access all our free items!
+> UI Kits, Templates and Dashboards built on top of Bootstrap, Vue.js, React, Angular, Node.js and Laravel. Join over 2,014,387+ creatives to access all our products!
 
 
 ---
 
-## [2. Free Bootstrap Themes, Templates, Snippets, and Guides](https://startbootstrap.com/)
+## [2. Free Bootstrap Themes, Templates, Snippets, and Guides - Start Bootstrap](https://startbootstrap.com/)
 
 [<img src='https://assets.startbootstrap.com/img/meta/og-image-start-bootstrap.png' width="300" />](https://startbootstrap.com/)
 
@@ -1314,7 +1311,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://freewebsitetemplates.com/)
 
-> 
+> Get your free website templates here and use them on your website without needing to link back to us.
 
 
 ---
@@ -1328,29 +1325,29 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [5. Free css](https://www.free-css.com/)
+## [5. Free CSS | 3400 Free Website Templates, CSS Templates and Open Source Templates](https://www.free-css.com/)
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://www.free-css.com/)
 
-> 
+> Free CSS has 3400 free website templates, all templates are free CSS templates, open source templates or creative commons templates.
 
 
 ---
 
-## [6. Bootstrap Made](https://bootstrapmade.com/)
+## [6. Free Bootstrap Themes and Website Templates | BootstrapMade](https://bootstrapmade.com/)
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://bootstrapmade.com/)
 
-> 
+> At BootstrapMade, we create beautiful website templates and bootstrap themes using Bootstrap, the most popular HTML, CSS and JavaScript framework.
 
 
 ---
 
-## [7. Premium and Free Bootstrap Themes, Templates & UI Kits by Themesberg](https://themesberg.com/)
+## [7. Free and Premium Bootstrap Themes, Templates by Themesberg](https://themesberg.com/)
 
-[<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://themesberg.com/)
+[<img src='https://themesberg.com/img/thumbnail.jpg' width="300" />](https://themesberg.com/)
 
-> Free and Premium Bootstrap Themes, Templates & UI Kits by Themesberg. Join over 38818 developers to access our free and premium themes.
+> Free and Premium Bootstrap themes, templates, admin dashboards and UI kits used by over 38818 web developers and software companies
 
 
 ---
@@ -1364,11 +1361,11 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [9. 4000+ Free WordPress Themes and Website Templates](https://w3layouts.com/)
+## [9. Free Website Templates Download | WordPress Themes - W3Layouts](https://w3layouts.com/)
 
 [<img src='https://w3layouts.com/wp-content/uploads/2021/04/w3-fb-cover-scaled.jpeg' width="300" />](https://w3layouts.com/)
 
-> W3Layouts Wordpress Themes and website templates are built with responsive web design techniques with HTML5, So they work across all devices. W3Layouts provides free WordPress Themes and HTML and CSS templates
+> Want to download free website templates? W3Layouts WordPress themes and website templates are built with responsive web design techniques. Download now!
 
 
 ---
@@ -1384,7 +1381,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## Create Online Graphic
 
-## [1. Snappa - Create online graphics in a snap](https://snappa.com/)
+## [1. Snappa - Quick & Easy Graphic Design Software](https://snappa.com/)
 
 [<img src='https://d2qp0siotla746.cloudfront.net/img/og-image.jpg' width="300" />](https://snappa.com/)
 
@@ -1402,11 +1399,11 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [3. Polotno Studio - Online Free Design Editor](https://studio.polotno.com)
+## [3. Polotno Studio - Make graphical designs](https://studio.polotno.com)
 
 [<img src='https://studio.polotno.dev/studio-polotno-preview.jpg' width="300" />](https://studio.polotno.com)
 
-> Create graphical designs for social media, youtube previews, facebook covers and more
+> Free online design editor. Create images for social media, youtube previews, facebook covers
 
 
 ---
@@ -1420,11 +1417,11 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [5. Fotor – Free Online Photo Editing & Graphic Design Tool](https://www.fotor.com/)
+## [5. Photo Editor: Fotor – Free Online Photo Editing & Image Editor](https://www.fotor.com/)
 
 [<img src='https://imgv3.fotor.com/images/share/fotor-photo-editor-design-collage.jpg' width="300" />](https://www.fotor.com/)
 
-> With Fotor, you can do photo editing, photo collage and graphic design online easily and efficiently. There are also smart tools like background remover, resize, AI art effect, etc.
+> Fotor's online photo editor helps you edit photos with free online photo editing tools. Crop photos, resize images, and add effects/filters, text, and graphics in just a few clicks.  Photoshop online has never been easier with Fotor's free online photo editor.
 
 
 ---
@@ -1438,11 +1435,11 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [7. Ink Scape](https://inkscape.org/)
+## [7. Draw Freely | Inkscape](https://inkscape.org/)
 
 [<img src='https://media.inkscape.org/static/images/inkscape-og-image.png' width="300" />](https://inkscape.org/)
 
-> 
+> Inkscape is professional quality vector graphics software which runs on Linux, Mac OS X and Windows desktop computers.
 
 
 ---
@@ -1475,8 +1472,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [11. Free Online Graphic Design Software |
-      Create stunning designs in seconds.](https://desygner.com/)
+## [11. Free Online Graphic Design Software | Create stunning designs in seconds.](https://desygner.com/)
 
 [<img src='https://static.desygner.com/static/images/redesign/meta/Meta_4.jpg' width="300" />](https://desygner.com/)
 
@@ -1507,7 +1503,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [3. Get color palette inspiration from nature](https://colorpalettes.earth/)
+## [3. Get color palette inspiration from nature - colorpalettes.earth](https://colorpalettes.earth/)
 
 [<img src='https://s3-us-west-1.amazonaws.com/colorpalettes.earth/banner.jpg' width="300" />](https://colorpalettes.earth/)
 
@@ -1525,11 +1521,11 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [5. 0 to 255](https://0to255.com/)
+## [5. A Most Useful Color Picker | 0to255](https://0to255.com/)
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://0to255.com/)
 
-> 
+> Find lighter and darker colors based on any color. Discover why over two million people have used 0to255 to choose colors for their website, logo, room interior, and print design projects.
 
 
 ---
@@ -1554,20 +1550,20 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [2. Fonts In Use](https://fontsinuse.com/)
+## [2. Fonts In Use – Type at work in the real world.](https://fontsinuse.com/)
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://fontsinuse.com/)
 
-> 
+> A searchable archive of typographic design, indexed by typeface, format, and topic.
 
 
 ---
 
-## [3. Wordmark](https://wordmark.it/)
+## [3. Wordmark - Helps you choose fonts!](https://wordmark.it/)
 
 [<img src='https://server.wordmark.it/assets/wordmark.png' width="300" />](https://wordmark.it/)
 
-> Wordmark.it helps you choose fonts by quickly displaying your text with your fonts.
+> Wordmark helps you choose fonts by quickly displaying your text with your fonts.
 
 
 ---
@@ -1657,11 +1653,11 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [2. Place It](https://placeit.net/)
+## [2. Make Mockups, Logos, Videos and Designs in Seconds](https://placeit.net/)
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://placeit.net/)
 
-> 
+> Get unlimited downloads on all our 100K templates! You can make a logo, video, mockup, flyer, business card and social media image in seconds right from your browser.
 
 
 ---
@@ -1675,11 +1671,11 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [4. Free Logo Maker & Intelligent Brand Designer](https://looka.com/)
+## [4. Logo Design & Brand Identity Platform for Entrepreneurs | Looka](https://looka.com/)
 
 [<img src='https://cdn.logojoy.com/wp-content/uploads/2019/01/30143743/birdland_elements-fs8.png' width="300" />](https://looka.com/)
 
-> Make a logo and build a brand you love with Looka.
+> Logojoy is now Looka! Design a Logo, make a website, and create a Brand Identity you’ll love with the power of Artificial Intelligence. 100% free to use.
 
 
 ---
@@ -1697,7 +1693,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 [<img src='https://previewed.app/images/meta-image.png' width="300" />](https://previewed.app/)
 
-> Create beautiful mockups for your app, in just a few clicks.
+> Join Previewed to create stunning 3D image shots and animations for your app. Choose from hundreds of ready made mockups, or create your own.
 
 
 ---
@@ -1713,11 +1709,11 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## Othe
 
-## [1. BuiltWith](https://builtwith.com/)
+## [1. BuiltWith Technology Lookup](https://builtwith.com/)
 
 [<img src='https://builtwith.com/og-1200x630.png' width="300" />](https://builtwith.com/)
 
-> Find out what websites are BuiltWith
+> Web technology information profiler tool. Find out what a website is built with.
 
 
 ---
@@ -1740,11 +1736,11 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [4. Magic Eraser - Use AI to remove unwanted things from images in seconds](https://www.magiceraser.io/)
+## [4. Magic Eraser - Remove unwanted things from images in seconds](https://www.magiceraser.io/)
 
 [<img src='https://www.magiceraser.io/magic-eraser-ai-image-cleaner.png' width="300" />](https://www.magiceraser.io/)
 
-> Magic Eraser - Use AI to remove unwanted things from images in seconds
+> Magic Eraser - Use AI to remove unwanted things from images in seconds. Upload an image, mark the bit you need removed, download the fixed up image.
 
 
 ---
@@ -1753,12 +1749,14 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 [<img src='https://compressor.io/hotlink-ok/compressor-og.png' width="300" />](https://compressor.io/)
 
-> Optimize and compress your jpeg and png images online. Compressor is a lossy and lossless photo compression tool.
+> Optimize and compress JPEG, PNG, SVG, GIF and WEBP images online. Compress, resize and rename your photos for free.
 
 
 ---
 
-## [6. Remove Video Background – Unscreen](https://www.unscreen.com/)
+## [6. 
+    Remove Video Background – Unscreen
+  ](https://www.unscreen.com/)
 
 [<img src='https://www.unscreen.com/remove_video_background.jpg' width="300" />](https://www.unscreen.com/)
 
@@ -1767,11 +1765,11 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [7. The Noun Project](https://thenounproject.com/)
+## [7. Noun Project: Free Icons & Stock Photos for Everything](https://thenounproject.com/)
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://thenounproject.com/)
 
-> 
+> Noun Project features the most diverse collection of icons and stock photos ever. Download SVG and PNG. Browse over 5 million art-quality icons and photos.
 
 
 ---
@@ -1805,7 +1803,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [2. UX Tools](https://uxtools.co/)
+## [2. UX Tools | Practical UX skills and tools](https://uxtools.co/)
 
 [<img src='https://uxtools.co/img/default-share.png' width="300" />](https://uxtools.co/)
 
@@ -1861,16 +1859,16 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 # Entrepreneur
 
-## [1. Username Search](https://instantusername.com/#/)
+## [1. Instant Username Search](https://instantusername.com/#/)
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://instantusername.com/#/)
 
-> 
+> Instant Username Search checks out if your username is available on more than 100 social media sites. Results appear instantly as you type.
 
 
 ---
 
-## [2. Flourish Studio - Data visualization](https://flourish.studio/)
+## [2. Flourish | Data Visualization & Storytelling](https://flourish.studio/)
 
 [<img src='https://flourish.studio/images/share_image.jpg' width="300" />](https://flourish.studio/)
 
@@ -1879,11 +1877,11 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [3. PiPiAds](https://www.pipiads.com/)
+## [3. PiPiADS - #1 TikTok Ads Spy Tool](https://www.pipiads.com/)
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://www.pipiads.com/)
 
-> 
+> PiPiADS is the best tiktok ads spy tool .We provide tiktok advertising,advertising on tiktok,tiktok ads examples,tiktok ads library,tiktok ads best practices,so you can understand the tiktok ads cost and master the tiktok ads 2021 and tiktok ads manager.
 
 
 ---
@@ -1942,11 +1940,11 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [10. Metricool - The ultimate tool to analyze, manage and measure the success of all your digital content](https://metricool.com/)
+## [10. Metricool - Analyze, manage and measure your digital content](https://metricool.com/)
 
 [<img src='https://metricool.com/wp-content/uploads/Metricool-responsive-preview-facebook-EN.jpg' width="300" />](https://metricool.com/)
 
-> All in one site: web analytics, blog content, Twitter, Facebook, Instagram, publication planner, real-time and more. Finally all the information that matters in an easy and intuitive tool. Metricool is free to use for as long as you want.
+> Social media scheduling, web analytics, link in bio and reporting. Metricool is free per live for one brand. START HERE
 
 
 ---
@@ -1955,7 +1953,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 [<img src='https://visualping.io/assets/img/website-change-monitoring-visualping.jpg' width="300" />](https://visualping.io/)
 
-> 
+> More than 1.5 millions users monitor changes in websites with Visualping, the No1 website change detection, website checker, webpage change monitoring and webpage change detection tool.
 
 
 ---
@@ -1978,7 +1976,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [14. 12ft – Hop any paywall](https://12ft.io/)
+## [14. 12ft Ladder](https://12ft.io/)
 
 [<img src='https://12ft.io/og-banner.png' width="300" />](https://12ft.io/)
 
@@ -2023,7 +2021,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [19. Freecycle - free stuff](https://freecycle.org/)
+## [19. Freecycle: Front Door](https://freecycle.org/)
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://freecycle.org/)
 
@@ -2032,7 +2030,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [20. Project Gutenberg](https://www.gutenberg.org/)
+## [20. Free eBooks | Project Gutenberg](https://www.gutenberg.org/)
 
 [<img src='https://www.gutenberg.org/gutenberg/pg-logo-144x144.png' width="300" />](https://www.gutenberg.org/)
 
@@ -2041,11 +2039,11 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [21. Convertio](https://convertio.co/)
+## [21. Convertio — File Converter](https://convertio.co/)
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://convertio.co/)
 
-> 
+> Convertio - Easy tool to convert files online. More than 309 different document, image, spreadsheet, ebook, archive, presentation, audio and video formats supported.
 
 
 ---
@@ -2086,11 +2084,11 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [26. Namelix](https://namelix.com/)
+## [26. Business Name Generator - Easily create Brandable Business Names - Namelix](https://namelix.com/)
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://namelix.com/)
 
-> 
+> Namelix uses artificial intelligence to create a short, brandable business name. Search for domain availability, and instantly generate a logo for your new business
 
 
 ---
@@ -2126,7 +2124,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [30. Engage and convert with CALCONIC_!](https://www.calconic.com/)
+## [30. Create and add calculator widgets to your website | CALCONIC_](https://www.calconic.com/)
 
 [<img src='/user/themes/calconic/images/calconic-calculator-widgets.png' width="300" />](https://www.calconic.com/)
 
@@ -2180,11 +2178,11 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [36. ClickUp](https://clickup.com/)
+## [36. ClickUp™ | One app to replace them all](https://clickup.com/)
 
 [<img src='https://clickup.com/landing/images/clickup-logo-gradient.png' width="300" />](https://clickup.com/)
 
-> 
+> Our mission is to make the world more productive. To do this, we built one app to replace them all - Tasks, Docs, Goals, and Chat.
 
 
 ---
@@ -2198,11 +2196,11 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [38. Helium 10 - Empowering Entrepreneurs Worldwide to Start, Grow & Scale Businesses](https://www.helium10.com/)
+## [38. Software for Amazon FBA Sellers & Walmart Sellers | Helium 10](https://www.helium10.com/)
 
 [<img src='https://www.helium10.com/app/uploads/2021/12/helium10-opengraph-v3.jpg' width="300" />](https://www.helium10.com/)
 
-> From product and keyword research to listing optimization, analytics, and more. Our tools and training have you covered no matter where you are in your selling journey.
+> If you're looking for the best software for Amazon FBA & Walmart sellers on the market, check out Helium 10's capabilities online today!
 
 
 ---
@@ -2234,7 +2232,8 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [42. BuzzSumo | The World's #1 Content Marketing Platform](https://buzzsumo.com/)
+## [42. 
+          BuzzSumo | The World's #1 Content Marketing Platform      ](https://buzzsumo.com/)
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://buzzsumo.com/)
 
@@ -2243,7 +2242,9 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [43. Capital | Modern companies are built on Capital](https://app.capital.xyz/)
+## [43. 
+		Login - Capital
+	](https://app.capital.xyz/)
 
 [<img src='https://imagedelivery.net/HphN2arQy7Wpyua3fqZoeg/ee8e54bd-f1db-4228-c64f-6ee26bf83f00/preview' width="300" />](https://app.capital.xyz/)
 
@@ -2254,7 +2255,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## Marketin
 
-## [1. Pictory – Home of AI Video Editing Technology](https://pictory.ai/)
+## [1. Pictory – Video Marketing Made Easy - Pictory.ai](https://pictory.ai/)
 
 [<img src='https://mlrdjua3hhlu.i.optimole.com/cb:gO3x.62b97/w:auto/h:auto/q:mauto/f:avif/https://pictory.ai/wp-content/uploads/2022/04/thumb-home.jpg' width="300" />](https://pictory.ai/)
 
@@ -2308,7 +2309,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [7. Phantom Buster](https://phantombuster.com/)
+## [7. PhantomBuster](https://phantombuster.com/)
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://phantombuster.com/)
 
@@ -2335,11 +2336,11 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [10. Groove CRM and Digital Marketing Automation Platform - Groove.cm with GrooveFunnels, GroovePages, GrooveKart](https://groove.cm/)
+## [10. Groove.cm GrooveFunnels, GrooveMail with CRM and Digital Marketing Automation Platform - Groove.cm with GrooveFunnels, GroovePages, GrooveKart](https://groove.cm/)
 
 [<img src='https://images.groovetech.io/SL6bV_EfwZ7gAltPZquF4mpuRF6lVxOjIwgLrCXSqJ0/rs:fit:0:0:0/g:no:0:0/c:0:0/aHR0cHM6Ly9hc3NldHMuZ3Jvb3ZlYXBwcy5jb20vaW1hZ2VzLzVkYWViNjIzYjI1NmM1MGUyNTk5M2NjNi8xNjYxMzQ4MDQ0X0dyb3VwMzEucG5n.webp' width="300" />](https://groove.cm/)
 
-> 
+> Groove is a website creator, page builder, sales funnel maker, membership site platform, email autoresponder, blog tool, shopping cart system, ecommerce store solution, affiliate manager, video marketing software and more apps to help build your online business.
 
 
 ---
@@ -2395,7 +2396,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 [<img src='https://simplescraper.io/easy_scraper_social.png' width="300" />](https://simplescraper.io/)
 
-> The easiest way to scrape the web — a fast, free, and easy to use Chrome extension for scraping websites in your browser or automated in the cloud.
+> Web scraping made easy — a powerful and free Chrome extension for scraping websites in your browser, automated in the cloud, or via API. No code required.
 
 
 ---
@@ -2418,7 +2419,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [4. Get It Free](https://getitfree.us/)
+## [4. Get It Free – The internet's BEST place to find free stuff!](https://getitfree.us/)
 
 [<img src='https://getitfree.us/wp-content/plugins/samples-core/assets/img/logo.png' width="300" />](https://getitfree.us/)
 
@@ -2445,47 +2446,49 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [7. Trello - Project Management](https://trello.com/en)
+## [7. Manage Your Team’s Projects From Anywhere | Trello](https://trello.com/en)
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://trello.com/en)
 
-> 
+> Trello is the ultimate project management tool. Start up a board in seconds, automate tedious tasks, and collaborate anywhere, even on mobile.
 
 
 ---
 
-## [8. TikTok Hashtags](https://tiktokhashtags.com/)
+## [8. TikTok hashtag generator - tiktokhashtags.com](https://tiktokhashtags.com/)
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://tiktokhashtags.com/)
 
-> 
+> Find out which are the best hashtags for your TikTok post.
 
 
 ---
 
-## [9. Infogram](https://infogram.com/)
+## [9. Create Infographics, Reports and Maps - Infogram](https://infogram.com/)
 
 [<img src='https://cdn.jifo.co/i/frontpage/infogram_share_v3.jpg' width="300" />](https://infogram.com/)
 
-> 
+> Infogram is an easy to use infographic and chart maker. Create and share beautiful infographics, online reports, and interactive maps. Make your own here.
 
 
 ---
 
-## [10. Confet](https://www.confet.to/)
+## [10. Confetto - Create Instagram content in minutes](https://www.confet.to/)
 
 [<img src='https://uploads-ssl.webflow.com/625c2db3c8a26a3314c25752/628531b238497fa3c3d9bbd8_Homepage.png' width="300" />](https://www.confet.to/)
 
-> 
+> Confetto is an all-in-one social media marketing tool built for SMBs and Social Media Managers. Confetto helps you create high-quality content for your audience that maximizes your reach and engagement on social media. Design, copy-write, plan and schedule content all in one place.
 
 
 ---
 
-## [11. Find email addresses in seconds • Hunter (Email Hunter)](https://hunter.io/)
+## [11. Find email addresses in seconds • Hunter (Email Hunter)
+](https://hunter.io/)
 
 [<img src='https://hunter.io/assets/social_card/default-d06ff682b93b61db6b56968567844e2cd33f7d6a832e7a2dbe1c830a55872c32.jpg' width="300" />](https://hunter.io/)
 
 > Hunter is the leading solution to find and verify professional email addresses. Start using Hunter and connect with the people that matter for your business.
+> 
 
 
 ---
@@ -2499,7 +2502,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [13. SEO Review Tools](https://www.seoreviewtools.com/)
+## [13. #1 Free SEO Tools → SEO Review Tools](https://www.seoreviewtools.com/)
 
 [<img src='http://www.seoreviewtools.com/wp-content/uploads/seo-review-tools-social.png' width="300" />](https://www.seoreviewtools.com/)
 
@@ -2535,11 +2538,11 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [17. Diffchecker](https://www.diffchecker.com/)
+## [17. Diffchecker - Compare text online to find the difference between two text files](https://www.diffchecker.com/)
 
 [<img src='https://www.diffchecker.com/static/images/fb-image.png' width="300" />](https://www.diffchecker.com/)
 
-> 
+> Diffchecker will compare text to find the difference between two text files. Just paste your files and click Find Difference!
 
 
 ---
@@ -2553,17 +2556,19 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [19. AI Content Generation | Competitor Analysis - Predis.ai](https://predis.ai/)
+## [19. 
+    AI Content Generation | Competitor Analysis - Predis.ai
+  ](https://predis.ai/)
 
 [<img src='https://predis.ai/assets/img/predis_logo.png' width="300" />](https://predis.ai/)
 
-> Predis.ai helps brands and influencers perform better on social media by 
-> providing AI-powered content generation and competitor analysis.
+> Predis helps brands and influencers communicate better on social media by 
+>     providing AI-powered content strategy analysis, content and hashtag recommendations.
 
 
 ---
 
-## [20. Stream To Multiple Sites Easily](https://castr.io/)
+## [20. Castr | #1 Live Video Streaming Solution With Video Hosting](https://castr.io/)
 
 [<img src='https://castr.io/wp-content/uploads/2021/03/Castr--scaled.jpeg' width="300" />](https://castr.io/)
 
@@ -2594,7 +2599,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://designrr.io/)
 
-> 
+> Upload any web page, MS Word, Video, Podcast or YouTube and it will create a stunning ebook and convert it to pdf, epub, Kindle or Flipbook. Quick and Easy to use. Full Training, 24x7 Support and Facebook Group Included.
 
 
 ---
@@ -2626,11 +2631,11 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [27. Signature Hound](https://signaturehound.com/)
+## [27. Signature Hound • Free Email Signature and Template Generator](https://signaturehound.com/)
 
 [<img src='https://signaturehound.com/images/social-share.png' width="300" />](https://signaturehound.com/)
 
-> Email signatures, made easy. In dog we trust.
+> Our email signature generator is free and easy to use. Our customizable templates work with Gmail, Outlook, Office 365, Apple Mail and more.
 
 
 ---
@@ -2653,11 +2658,11 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [30. Omm Writer](https://ommwriter.com/)
+## [30. OmmWriter](https://ommwriter.com/)
 
 [<img src='https://ommwriter.com/wp-content/themes/ommwriter_theme/img/og_computer.jpg' width="300" />](https://ommwriter.com/)
 
-> OmmWriter is a tool which makes it easier for you to concentrate. Based on a natural setting, it effectively insulates your mind from distractions and sets up a direct line between your thoughts and your words.
+> Ommwriter
 
 
 ---
@@ -2698,7 +2703,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [35. Inspi Robot](https://inspirobot.me/)
+## [35. InspiroBot](https://inspirobot.me/)
 
 [<img src='https://inspirobot.me/website/images/inspirobot-dark-green.png' width="300" />](https://inspirobot.me/)
 
@@ -2707,11 +2712,11 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [36. Cheatography](https://cheatography.com/)
+## [36. Download Free Cheat Sheets or Create Your Own! - Cheatography.com: Cheat Sheets For Every Occasion](https://cheatography.com/)
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://cheatography.com/)
 
-> 
+> Find thousands of incredible, original programming cheat sheets, all free to download.
 
 
 ---
@@ -2725,7 +2730,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [38. SpyFu](https://www.spyfu.com/)
+## [38. SpyFu - Competitor Keyword Research Tools for Google Ads PPC & SEO](https://www.spyfu.com/)
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://www.spyfu.com/)
 
@@ -2756,18 +2761,18 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [2. The Visual Collaboration Platform for Every Team | Miro](https://miro.com/)
 
-[<img src='https://images.ctfassets.net/w6r2i5d8q73s/5J5nDn6zB1RX2xdCocQcy6/43b468d72b99c0c2a147dda89dcb97b5/miro.png' width="300" />](https://miro.com/)
+[<img src='https://images.ctfassets.net/w6r2i5d8q73s/OxZ08hm5k2id0kjQXmc0L/05bcc2743945b82009e59aa5d9c77c7d/miro.png' width="300" />](https://miro.com/)
 
-> Scalable, secure, cross-device, and enterprise-ready team collaboration whiteboard for distributed teams. Join 35M+ users from around the world.
+> Scalable, secure, cross-device and enterprise-ready team collaboration whiteboard for distributed teams. Join 35M+ users from around the world.
 
 
 ---
 
-## [3. Write your best with Grammarly.](https://www.grammarly.com/)
+## [3. Grammarly: Free Online Writing Assistant](https://www.grammarly.com/)
 
 [<img src='https://static.grammarly.com/assets/files/24a1bbf5ca036df03402fbb571f640a2/open-graph-image-newfunnel.png' width="300" />](https://www.grammarly.com/)
 
-> Grammarly makes sure everything you type is easy to read, effective, and mistake-free. Try it today:
+> Millions trust Grammarly’s free writing app to make their online writing clear and effective. Getting started is simple — download Grammarly’s extension today.
 
 
 ---
@@ -2799,7 +2804,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [7. Loom: Async Video Messaging for Work](https://www.loom.com/)
+## [7. Loom: Async Video Messaging for Work | Loom](https://www.loom.com/)
 
 [<img src='https://cdn.sanity.io/images/pvn35iyy/production/38d2b681648b73c67173e22c6775e2a1d50809cf-2400x1254.png?fm=jpg' width="300" />](https://www.loom.com/)
 
@@ -2817,7 +2822,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [9. The spreadsheet with superpowers](https://rows.com/)
+## [9. Rows — The spreadsheet with superpowers](https://rows.com/)
 
 [<img src='https://rows.com/_next/static/chunks/media/images/share.52f2c55de2e6fe4.png' width="300" />](https://rows.com/)
 
@@ -2844,11 +2849,11 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [12. Slick Write](https://www.slickwrite.com/#!home)
+## [12. Slick Write | Check your grammar. Proofread online.](https://www.slickwrite.com/#!home)
 
 [<img src='https://www.slickwrite.com/ogimage.jpg' width="300" />](https://www.slickwrite.com/#!home)
 
-> Slick Write is a powerful, FREE application that makes it easy to check your writing for grammar errors, potential stylistic mistakes, and other features of interest. Take your writing to the next level.
+> Slick Write is a powerful, FREE application that makes it easy to check your writing for grammar errors, potential stylistic mistakes, and other features of interest. Whether you're a blogger, novelist, SEO professional, or student writing an essay for school, Slick Write can help take your writing to the next level.
 
 
 ---
@@ -2862,7 +2867,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [14. Hemingway App](https://hemingwayapp.com/)
+## [14. Hemingway Editor](https://hemingwayapp.com/)
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://hemingwayapp.com/)
 
@@ -2871,7 +2876,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [15. 123Apps](https://123apps.com/)
+## [15. Web Apps by 123apps - Edit, Convert, Create](https://123apps.com/)
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://123apps.com/)
 
@@ -2880,18 +2885,20 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [16. Splitbee - Your friendly all-in-one analytics & conversion tool](https://splitbee.io/)
+## [16. Splitbee – Your all-in-one analytics and conversion platform](https://splitbee.io/)
 
 [<img src='https://splitbee.io/og-image.png' width="300" />](https://splitbee.io/)
 
-> Your friendly all-in-one conversion tool. Analyze and grow your website with Splitbee. Get started for free today.
+> Track and optimize your online business with Splitbee. Analytics, Funnels, Automations, A/B Testing and more.
 
 
 ---
 
 ## PDF Tool
 
-## [1. Tiny Wow](https://tinywow.com/)
+## [1. 
+                    Free PDF, Video, Image & Other Online Tools - TinyWow
+            ](https://tinywow.com/)
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://tinywow.com/)
 
@@ -2909,11 +2916,11 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [3. Sejda.com - Helps with your PDF tasks](https://www.sejda.com/)
+## [3. Sejda helps with your PDF tasks](https://www.sejda.com/)
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://www.sejda.com/)
 
-> Easy, pleasant and productive PDF editor. Split, merge or convert PDF to images, extract pages, alternate scans and many more.
+> Sejda helps with your PDF tasks. Quick and simple online service, no installation required! Split, merge or convert PDF to images, alternate mix or split scans and many other.
 
 
 ---
@@ -2938,11 +2945,11 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [2. Prepostseo](https://www.prepostseo.com/)
+## [2. Pre Post SEO : Online SEO Tools](https://www.prepostseo.com/)
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://www.prepostseo.com/)
 
-> 
+> Free Online SEO Tools: plagiarism checker, grammar checker, image compressor, website seo checker, article rewriter, back link checker
 
 
 ---
@@ -2958,11 +2965,11 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## Aliexpress alternative
 
-## [1. CJDropshipping](https://cjdropshipping.com/)
+## [1. CJdropshipping - Dropshipping from Worldwide to Worldwide!](https://cjdropshipping.com/)
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://cjdropshipping.com/)
 
-> 
+> China's reliable eCommerce dropshipping fulfillment supplier, helps small businesses ship worldwide, dropship and fulfillment services that are friendly to start-ups and small businesses, Shopify dropshipping.
 
 
 ---
@@ -2976,11 +2983,11 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [3. Find quality Manufacturers, Suppliers, Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trade Site. Import & Export on alibaba.com](https://www.alibaba.com/)
+## [3. Alibaba.com: Manufacturers, Suppliers, Exporters & Importers from the world's largest online B2B marketplace](https://www.alibaba.com/)
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://www.alibaba.com/)
 
-> 
+> Find quality Manufacturers, Suppliers, Exporters, Importers, Buyers, Wholesalers, Products and Trade Leads from our award-winning International Trade Site. Import & Export on alibaba.com
 
 
 ---
@@ -2994,20 +3001,20 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [5. USAdrop](https://www.usadrop.com/)
+## [5. Best dropshipping supplier to the US](https://www.usadrop.com/)
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://www.usadrop.com/)
 
-> 
+> THE ONLY AMERICAN-MADE FULFILLMENT CENTER IN CHINA. Our knowledge of the Worldwide dropshipping market and the Chinese Supply-Chain can't be beat!
 
 
 ---
 
-## [6. 1688](https://www.1688.com/)
+## [6. 阿里1688](https://www.1688.com/)
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://www.1688.com/)
 
-> 
+> 阿里巴巴（1688.com）是全球企业间（B2B）电子商务的著名品牌，为数千万网商提供海量商机信息和便捷安全的在线交易市场，也是商人们以商会友、真实互动的社区平台。目前1688.com已覆盖原材料、工业品、服装服饰、家居百货、小商品等12个行业大类，提供从原料--生产--加工--现货等一系列的供应产品和服务
 
 
 ---
@@ -3032,7 +3039,8 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [3. SMSBump | SMS Marketing E-Commerce App for Shopify](https://smsbump.com/)
+## [3. 
+                    SMSBump | SMS Marketing E-Commerce App for Shopify](https://smsbump.com/)
 
 [<img src='https://smsbump.com/img/og_images/homepage.png' width="300" />](https://smsbump.com/)
 
@@ -3079,11 +3087,11 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [2. Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
+## [2. DaVinci Resolve 18 | Blackmagic Design](https://www.blackmagicdesign.com/products/davinciresolve)
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://www.blackmagicdesign.com/products/davinciresolve)
 
-> 
+> Professional video editing, color correction, visual effects and audio post production all in a single application. Free and paid versions for Mac, Windows and Linux.
 
 
 ---
@@ -3128,12 +3136,12 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://panzoid.com/)
 
-> 
+> Powerful, free online apps and community for creating beautiful custom content.
 
 
 ---
 
-## [8. WebDesigner - Google](https://webdesigner.withgoogle.com/)
+## [8. Google Web Designer - Home](https://webdesigner.withgoogle.com/)
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://webdesigner.withgoogle.com/)
 
@@ -3164,7 +3172,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://www.capcut.com/)
 
-> 
+> CapCut is an all-in-one online video editing software which makes creation, upload & share easier, with frame by frame track editor, cloud drive etc.
 
 
 ---
@@ -3178,7 +3186,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [13. Free Video Maker | Create & Edit Your Videos Easily](https://animoto.com/k/welcome)
+## [13. Free Video Maker | Create & Edit Your Videos Easily - Animoto](https://animoto.com/k/welcome)
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://animoto.com/k/welcome)
 
@@ -3269,21 +3277,21 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 [<img src='https://www.videvo.net/wp-content/uploads/2015/11/Logo_2.png' width="300" />](https://www.videvo.net/)
 
-> Download Free Stock Footage and HD Video clips; Videvo offers a large selection of HD video clips, motion graphics and free stock footage.
+> Download free stock video footage with over 300,000 video clips in 4K and HD. We also offer a wide selection of music and sound effect files with over 180,000 clips available. Click here to download royalty-free licensing videos, motion graphics, music and sound effects from Videvo today.
 
 
 ---
 
-## [5. Mazwai.com](https://mazwai.com/)
+## [5. Free Stock Video Footage HD Royalty-Free Videos Download](https://mazwai.com/)
 
-[<img src='https://mazwai.com/assets/images/logo.png' width="300" />](https://mazwai.com/)
+[<img src='https://mazwai.com/' width="300" />](https://mazwai.com/)
 
-> 
+> Download free stock video footage with clips available in HD. Click here to download royalty-free licensing videos from Mazwai now.
 
 
 ---
 
-## [6. Vidsplay.com](https://www.vidsplay.com/)
+## [6. Royalty Free Stock Video Footage Clips | Vidsplay.com](https://www.vidsplay.com/)
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://www.vidsplay.com/)
 
@@ -3305,7 +3313,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [1. Beautiful Free Images & Pictures | Unsplash](https://unsplash.com/)
 
-[<img src='https://images.unsplash.com/opengraph/1x1.png?auto=format&fit=crop&w=1200&h=630&q=60&mark-w=64&mark-align=top%2Cleft&mark-pad=50&blend-w=1&mark=https%3A%2F%2Fimages.unsplash.com%2Fopengraph%2Flogo.png&blend=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1664127543072-8615a3b17367%3Fcrop%3Dfaces%252Cedges%26cs%3Dtinysrgb%26fit%3Dcrop%26fm%3Djpg%26ixid%3DMnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjY1NjU2NzA0%26ixlib%3Drb-1.2.1%26q%3D60%26w%3D1200%26auto%3Dformat%26h%3D630%26mark-w%3D424%26mark-align%3Dmiddle%252Ccenter%26blend-mode%3Dnormal%26blend-alpha%3D10%26mark%3Dhttps%253A%252F%252Fimages.unsplash.com%252Fopengraph%252Fwordmark.png%26blend%3D000000' width="300" />](https://unsplash.com/)
+[<img src='https://images.unsplash.com/opengraph/1x1.png?auto=format&fit=crop&w=1200&h=630&q=60&mark-w=64&mark-align=top%2Cleft&mark-pad=50&blend-w=1&mark=https%3A%2F%2Fimages.unsplash.com%2Fopengraph%2Flogo.png&blend=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1664127543072-8615a3b17367%3Fcrop%3Dfaces%252Cedges%26cs%3Dtinysrgb%26fit%3Dcrop%26fm%3Djpg%26ixid%3DMnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjY1NjU4NTA2%26ixlib%3Drb-1.2.1%26q%3D60%26w%3D1200%26auto%3Dformat%26h%3D630%26mark-w%3D424%26mark-align%3Dmiddle%252Ccenter%26blend-mode%3Dnormal%26blend-alpha%3D10%26mark%3Dhttps%253A%252F%252Fimages.unsplash.com%252Fopengraph%252Fwordmark.png%26blend%3D000000' width="300" />](https://unsplash.com/)
 
 > Beautiful, free images and photos that you can download and use for any project. Better than any royalty free or stock photos.
 
@@ -3321,7 +3329,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [3. Free food pictures – Foodiesfeed](https://www.foodiesfeed.com/)
+## [3. Food Pictures • Foodiesfeed • Free Food Photos](https://www.foodiesfeed.com/)
 
 [<img src='https://foodiesfeed.com/wp-content/uploads/2017/06/og.jpg' width="300" />](https://www.foodiesfeed.com/)
 
@@ -3358,11 +3366,11 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [7. Stock Vault](https://www.stockvault.net/)
+## [7. Free Stock Photos, Images, and Vectors](https://www.stockvault.net/)
 
 [<img src='https://www.stockvault.net/templates/default/images/logo_square.png' width="300" />](https://www.stockvault.net/)
 
-> 
+> 139.738 free stock photos, textures, backgrounds and graphics for your next project. No attribution required.
 
 
 ---
@@ -3376,11 +3384,11 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [9. Pik Wizard](https://pikwizard.com/)
+## [9. Free Commercial Stock Photos & Royalty Free Images | PikWizard](https://pikwizard.com/)
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://pikwizard.com/)
 
-> 
+> Free images, videos & free stock photos. Unlimited downloads ✓ Royalty-free Images ✓Copyright-free for commercial use ✓ No Attribution Required 
 
 
 ---
@@ -3398,9 +3406,9 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [1. Royalty Free Music for video creators | Epidemic Sound](https://www.epidemicsound.com/)
 
-[<img src='https://cdn.epidemicsound.com/legacy/19/images/epidemic-sound-logo-square.png' width="300" />](https://www.epidemicsound.com/)
+[<img src='https://cdn.epidemicsound.com/curation-assets/commercial-release-cover-images/2275/300x300.jpg' width="300" />](https://www.epidemicsound.com/)
 
-> 
+> Download premium Royalty free Music and SFX! Our free trial gives you access to over 35,000 tracks and 90,000 sound effects for video, streaming and more!
 
 
 ---
@@ -3443,16 +3451,20 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 # Search Engine Optimization
 
-## [1. Browser add-on to see Google search volume everywhere](https://keywordseverywhere.com/)
+## [1. Keyword Tool For Monthly Search Volume, CPC & Competition](https://keywordseverywhere.com/)
 
 [<img src='https://keywordseverywhere.com/img/screenshots/people-also-search-for.png' width="300" />](https://keywordseverywhere.com/)
 
-> Keywords Everywhere is a browser addon that appends search volume, CPC & competition on websites used by Internet Marketers - Google Search, Google Trends, Google Search Console, Google Analytics, Google Keyword Planner, YouTube, Bing, Amazon, eBay, Etsy, Ubersuggest, Answer The Public, Soovle, Majestic, Moz & more.
+> Keywords Everywhere is a browser add-on for Chrome & Firefox that shows search volume, CPC & competition on multiple websites.
 
 
 ---
 
-## [2. Semrush - Online Marketing Can Be Easy](https://www.semrush.com/)
+## [2. 
+    
+        Semrush - Online Marketing Can Be Easy
+    
+](https://www.semrush.com/)
 
 [<img src='https://static.semrush.com/wt-static/semrush-com.png' width="300" />](https://www.semrush.com/)
 
@@ -3506,20 +3518,20 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [8. Lumpy Soft](https://lumpysoft.com/)
+## [8. Google Index Search](https://lumpysoft.com/)
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://lumpysoft.com/)
 
-> 
+> Google Index Search
 
 
 ---
 
-## [9. Majestic](https://majestic.com/)
+## [9. SEO Backlink Checker & Link Building Toolset | Majestic.com](https://majestic.com/)
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://majestic.com/)
 
-> 
+> Develop backlink strategies with our Link Intelligence data, build the strongest SEO backlink campaigns to drive organic traffic and boost your rankings today.
 
 
 ---
@@ -3542,27 +3554,27 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [12. Notifier](https://notifier.so/)
+## [12. Notifier - Social Listening for Social Media and More!](https://notifier.so/)
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://notifier.so/)
 
-> 
+> Track keywords. Market your product for free. Drive the conversation. Easy. Free Trial. No obligation ever. Simple. Fast. Trusted by Top Companies.
 
 
 ---
 
-## [13. Word Tracker](https://www.wordtracker.com/)
+## [13. Free Keyword Research Tool from Wordtracker](https://www.wordtracker.com/)
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://www.wordtracker.com/)
 
-> 
+> The best FREE alternative to the Keyword Planner. Use Wordtracker to reveal 1000s of profitable longtail keywords with up to 10,000 results per search
 
 
 ---
 
 # Blog Posts
 
-## [1. The 60 Hottest Front-end Tools of 2021 | CSS-Tricks](https://css-tricks.com/hottest-front-end-tools-in-2021/)
+## [1. The 60 Hottest Front-end Tools of 2021 | CSS-Tricks - CSS-Tricks](https://css-tricks.com/hottest-front-end-tools-in-2021/)
 
 [<img src='https://css-tricks.com/wp-json/social-image-generator/v1/image/361047' width="300" />](https://css-tricks.com/hottest-front-end-tools-in-2021/)
 
@@ -3582,11 +3594,11 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [2. Create Your Job-winning Resume - (Free) Resume maker](https://resume.io/)
+## [2. Create Your Job-winning Resume - (Free) Resume maker · Resume.io](https://resume.io/)
 
 [<img src='https://s3.resume.io/uploads/country/og_image/2/OG.png' width="300" />](https://resume.io/)
 
-> Free online resume builder, allows you to create a perfect resume minutes. See how easy it is to create an amazing resume and apply for jobs today!
+> Free online resume maker, allows you to create a perfect Resume or Cover Letter in 5 minutes. See how easy it is to write a professional resume - apply for jobs today!
 
 
 ---
@@ -3627,33 +3639,33 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [7. Create a Professional Resume for FREE](https://www.resumemaker.online/)
+## [7. ResumeMaker.Online | Create a Professional Resume for Free](https://www.resumemaker.online/)
 
 [<img src='https://www.resumemaker.online/img/twittercard.jpg' width="300" />](https://www.resumemaker.online/)
 
-> Create an effective resume in just minutes and land your dream job. No Sign-up required, start now!
+> Save time with the easiest-to-use Resume Maker Online. Create an effective resume in just minutes and land your dream job. No Sign-up required, start now!
 
 
 ---
 
 # Interviews
 
-## [1. Interview Warmup](https://grow.google/certificates/interview-warmup/)
+## [1. Interview Warmup - Grow with Google](https://grow.google/certificates/interview-warmup/)
 
 [<img src='https://grow.google/certificates/interview-warmup/assets/interview-warmup-og.jpg' width="300" />](https://grow.google/certificates/interview-warmup/)
 
-> 
+> A quick way to prepare for your next interview. Practice key questions, get insights about your answers, and get more comfortable interviewing.
 
 
 ---
 
 # No code website builder
 
-## [1. Carrd](https://carrd.co/)
+## [1. Carrd - Simple, free, fully responsive one-page sites for pretty much anything](https://carrd.co/)
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://carrd.co/)
 
-> 
+> A free platform for building simple, fully responsive one-page sites for pretty much anything.
 
 
 ---
@@ -3667,7 +3679,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [3. Google Sites](https://sites.google.com/)
+## [3. Google Sites: Sign-in](https://sites.google.com/)
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://sites.google.com/)
 
@@ -3685,11 +3697,13 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [5. Weebly is the easiest way to create a website, store or blog](https://www.weebly.com/)
+## [5. 
+				Free Website Builder: Build a Free Website or Online Store | Weebly
+		](https://www.weebly.com/)
 
 [<img src='https://www.weebly.com/editor/uploads/1/_/1/custom_themes/578730180640357361/files/weebly.jpg' width="300" />](https://www.weebly.com/)
 
-> Weebly’s free website builder makes it easy to build a website, blog, or online store. Find customizable designs, domains, and eCommerce tools for any type of business using our website builder. 
+> Weebly’s free website builder makes it easy to create a website, blog, or online store. Find customizable templates, domains, and easy-to-use tools for any type of business website.
 
 
 ---
@@ -3712,11 +3726,11 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [8. No Code Website Builder, Web Design Tool for Designers - Siter.io](https://siter.io/)
+## [8. Siter.io - The collaborative web design tool, no-code website builder](https://siter.io/)
 
 [<img src='https://siter.io/assets/img/builder.png' width="300" />](https://siter.io/)
 
-> Build a website visually with a powerful no code online editor tool. Design websites in the browser and host them online.
+> Siter.io is a visual website builder for designers. Prototype, design, and create responsive websites in the browser. Work together with your team in one place.
 
 
 ---
@@ -3784,10 +3798,12 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [16. Bookmark](https://www.bookmark.com/)
+## [16. 
+        Bookmark.com | No-code Website Builder to Start Your Business     ](https://www.bookmark.com/)
 
 [<img src='https://www.bookmark.com/assets/images/meta/ogimage.png' width="300" />](https://www.bookmark.com/)
 
+> Our AI powered platform ensures your business is future proof. Try Bookmark for free.
 > 
 
 
@@ -3887,20 +3903,20 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 # No code game builder
 
-## [1. BuildBox](https://signup.buildbox.com/)
+## [1. Welcome to Buildbox](https://signup.buildbox.com/)
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://signup.buildbox.com/)
 
-> 
+> Welcome to Buildbox
 
 
 ---
 
-## [2. The easiest way to get started making games. Right from your browser, no coding required](https://flowlab.io/)
+## [2. Flowlab Game Creator - Make games online](https://flowlab.io/)
 
 [<img src='https://flowlab.io/images/home/opengraph.png' width="300" />](https://flowlab.io/)
 
-> 
+> Flowlab is an online game creator.  Make your own games to share with friends.
 
 
 ---
@@ -3981,7 +3997,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [2. JustRemote](https://justremote.co/)
+## [2. Remote Jobs: Design, Marketing, Programming, Writing & More](https://justremote.co/)
 
 [<img src='https://s3.eu-west-2.amazonaws.com/remoteworker-live-superbrnds/Shareable/JustRemote_homepage.jpg' width="300" />](https://justremote.co/)
 
@@ -3999,11 +4015,11 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [4. Hub Staff](https://talent.hubstaff.com/)
+## [4. Hire Freelancers & Remote Workers For Free](https://talent.hubstaff.com/)
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://talent.hubstaff.com/)
 
-> 
+> Find and hire the highest quality freelancers from around the world - for free. Choose from thousands of developers, digital marketers, creatives and more.
 
 
 ---
@@ -4026,7 +4042,8 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [7. Remote.co -](https://remote.co/)
+## [7. 
+  Remote Work: Jobs, Companies & Virtual Teams - Remote.co](https://remote.co/)
 
 [<img src='https://remote.co/wp-content/uploads/2015/07/remote_co_twitter.png' width="300" />](https://remote.co/)
 
@@ -4035,7 +4052,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [8. FlexJobs: The Best Remote Jobs, Work from Home Jobs & More](https://www.flexjobs.com/)
+## [8. FlexJobs: Best Remote Jobs, Work from Home Jobs, Online Jobs & More](https://www.flexjobs.com/)
 
 [<img src='https://www.flexjobs.com/images/logos/flexjobsopengraph.png' width="300" />](https://www.flexjobs.com/)
 
@@ -4048,12 +4065,12 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 [<img src='https://image-322k.onrender.com/image?link=https://remotefront.io/remote-jobs' width="300" />](https://remotefront.io/)
 
-> Remote jobs remotefront.io
+> All remote jobs at remotefront.io
 
 
 ---
 
-## [10. PowerToFly](https://powertofly.com/)
+## [10. Daily Virtual Events Helping You Grow Professionally](https://powertofly.com/)
 
 [<img src='https://assets.rbl.ms/27580523/origin.png' width="300" />](https://powertofly.com/)
 
@@ -4062,29 +4079,29 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [11. Virtual Vocations](https://www.virtualvocations.com/)
+## [11. Best Remote and Work from Home Jobs - Virtual Vocations ](https://www.virtualvocations.com/)
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://www.virtualvocations.com/)
 
-> 
+> Best work from home jobs and remote jobs in over 50 categories for professionals, digital nomads, telecommuting workers and entry level jobseekers. Education, healthcare, medical, customer support and tech job openings.
 
 
 ---
 
-## [12. Working Nomads](https://www.workingnomads.com/jobs)
+## [12. Remote Jobs | Working Nomads](https://www.workingnomads.com/jobs)
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://www.workingnomads.com/jobs)
 
-> 
+> Remote jobs for digital working nomads. Start your telecommuting career and work remotely from home or places around the world.
 
 
 ---
 
-## [13. The Muse - Career advice and better job search](https://www.themuse.com/)
+## [13. Job Search, Companies Hiring Near Me, and Advice | The Muse](https://www.themuse.com/)
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://www.themuse.com/)
 
-> The Muse is here to give you expert career advice, inside looks into companies hiring & the tools to help find your dream job
+> Find jobs at the best companies hiring near you and get free career advice.
 
 
 ---
@@ -4111,7 +4128,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 # Browser Extensions
 
-## [1. Blackbox - Select. Copy. Paste & Search](https://chrome.google.com/webstore/detail/blackbox-select-copy-past/mcgbeeipkmelnpldkobichboakdfaeon)
+## [1. Blackbox - Select. Copy. Paste & Search - Magazinul web Chrome](https://chrome.google.com/webstore/detail/blackbox-select-copy-past/mcgbeeipkmelnpldkobichboakdfaeon)
 
 [<img src='https://lh3.googleusercontent.com/q5uwqkllozidCFMBRQX2-wq8n6OjVM_ZKojN_pHWiwL8N84tx7AZwdBwO4GgFjs9K4qXGJUKBVd8RS9l8aDeowXb4A=w128-h128-e365-rj-sc0x00ffffff' width="300" />](https://chrome.google.com/webstore/detail/blackbox-select-copy-past/mcgbeeipkmelnpldkobichboakdfaeon)
 
@@ -4120,7 +4137,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [2. Octotree - GitHub code tree](https://chrome.google.com/webstore/detail/octotree-github-code-tree/bkhaagjahfmjljalopjnoealnfndnagc)
+## [2. Octotree - GitHub code tree - Magazinul web Chrome](https://chrome.google.com/webstore/detail/octotree-github-code-tree/bkhaagjahfmjljalopjnoealnfndnagc)
 
 [<img src='https://lh3.googleusercontent.com/wafm5uFaPRSo1RHMbhcdEghFzTPUfYo5GosPmBhkdNuYlGz8WigoAQM-8lulzuhWQBGTbbUyRvfoyIMDypJzuAVZ=w128-h128-e365-rj-sc0x00ffffff' width="300" />](https://chrome.google.com/webstore/detail/octotree-github-code-tree/bkhaagjahfmjljalopjnoealnfndnagc)
 
@@ -4129,7 +4146,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [3. WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en)
+## [3. WhatFont - Chrome Web Store](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en)
 
 [<img src='https://lh3.googleusercontent.com/dPdyfSl7seUOpHe4rDj-oxo7oQ9P60809H2MY4NynmV9CDsY9p-p8Ovb_QmsYdGM7jgjCYG6s7MGYnMOMOjtpbdGLJ4=w128-h128-e365-rj-sc0x00ffffff' width="300" />](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en)
 
@@ -4138,7 +4155,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [4. Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en)
+## [4. Window Resizer - Chrome Web Store](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en)
 
 [<img src='https://lh3.googleusercontent.com/IVHTJU2a1JphDt6dqhpDPVcZG0SCpYAK1lS9QIIXwXIk__e5GdF0xcULafHMmH54-RCembM6OTrIB_BmZ-9b-zln=w128-h128-e365-rj-sc0x00ffffff' width="300" />](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en)
 
@@ -4147,7 +4164,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [5. Amino: CSS Editor](https://chrome.google.com/webstore/detail/amino-css-editor/pbcpfbcibpcbfbmddogfhcijfpboeaaf)
+## [5. Amino: CSS Editor - Magazinul web Chrome](https://chrome.google.com/webstore/detail/amino-css-editor/pbcpfbcibpcbfbmddogfhcijfpboeaaf)
 
 [<img src='https://lh3.googleusercontent.com/G3IvwY9I1OJ8elCR1ZTDzx-xapAh6VWRUjIzL4IQWaJ0zSf2wMwttO7eXmxeJx-OSjsFd8b3gx3ohvhls0hTv1MRkOc=w128-h128-e365-rj-sc0x00ffffff' width="300" />](https://chrome.google.com/webstore/detail/amino-css-editor/pbcpfbcibpcbfbmddogfhcijfpboeaaf)
 
@@ -4156,7 +4173,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [6. Checkbot: SEO, Web Speed & Security Tester 🚀](https://chrome.google.com/webstore/detail/checkbot-seo-web-speed-se/dagohlmlhagincbfilmkadjgmdnkjinl?hl=en)
+## [6. Checkbot: SEO, Web Speed & Security Tester 🚀 - Chrome Web Store](https://chrome.google.com/webstore/detail/checkbot-seo-web-speed-se/dagohlmlhagincbfilmkadjgmdnkjinl?hl=en)
 
 [<img src='https://lh3.googleusercontent.com/LCg4FiSPVs93s1Wotz9p5FxiYWKpP-irHfqJc2zji0Ew-Rga2D_XSHyXvCXzCuwEzpkRZx0d-ZFULB77cbVd6rvKqg=w128-h128-e365-rj-sc0x00ffffff' width="300" />](https://chrome.google.com/webstore/detail/checkbot-seo-web-speed-se/dagohlmlhagincbfilmkadjgmdnkjinl?hl=en)
 
@@ -4165,7 +4182,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [7. Honey: Automatic Coupons & Rewards](https://chrome.google.com/webstore/detail/honey-automatic-coupons-r/bmnlcjabgnpnenekpadlanbbkooimhnj)
+## [7. Honey: Automatic Coupons & Rewards - Magazinul web Chrome](https://chrome.google.com/webstore/detail/honey-automatic-coupons-r/bmnlcjabgnpnenekpadlanbbkooimhnj)
 
 [<img src='https://lh3.googleusercontent.com/7JKQtRzFchNfomvdwyw0W2xhYnsSjNhWz7h2HpCihLEy9MjrodV4g0UFJFqBKgf2fZsmPF_rTVz-beAVrrXdsEzK5w=w128-h128-e365-rj-sc0x00ffffff' width="300" />](https://chrome.google.com/webstore/detail/honey-automatic-coupons-r/bmnlcjabgnpnenekpadlanbbkooimhnj)
 
@@ -4174,7 +4191,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [8. Tango: screenshots, training, & documentation](https://chrome.google.com/webstore/detail/tango-screenshots-trainin/lggdbpblkekjjbobadliahffoaobaknh)
+## [8. Tango: screenshots, training, & documentation - Magazinul web Chrome](https://chrome.google.com/webstore/detail/tango-screenshots-trainin/lggdbpblkekjjbobadliahffoaobaknh)
 
 [<img src='https://lh3.googleusercontent.com/H5SvCAM_D1jTBjTBgCI4Np1ZwKKeAFTHwgOg-6o9x8zYv7bNkkom0iyqyIdf_Ph2-jaG59o0719iCeAoAoK8BQdq=w128-h128-e365-rj-sc0x00ffffff' width="300" />](https://chrome.google.com/webstore/detail/tango-screenshots-trainin/lggdbpblkekjjbobadliahffoaobaknh)
 
@@ -4183,11 +4200,11 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [9. Axiom.ai](https://axiom.ai/)
+## [9. No code browser automation | axiom.ai](https://axiom.ai/)
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://axiom.ai/)
 
-> 
+> Build browser bots quickly, without code. Automate website actions and repetitive tasks using just your browser, on any website or web app.
 
 
 ---
@@ -4214,11 +4231,11 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [2. Software Serials](https://smartserials.com/)
+## [2. Smart Serials: Your serial numbers database](https://smartserials.com/)
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://smartserials.com/)
 
-> 
+> This is your main source of free serial numbers, unlock keys in a clean environment safe to browse by all ages.
 
 
 ---
@@ -4232,20 +4249,22 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [4. Plan Your Room](http://www.planyourroom.com/)
+## [4. 
+	Online Room Planner - Design Your Room
+](http://www.planyourroom.com/)
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](http://www.planyourroom.com/)
 
-> 
+> Planyourroom.com is a wonderful website to redesign each room in your house by picking out perfect furniture options to fit your unique space.
 
 
 ---
 
-## [5. Bored Humans](https://boredhumans.com/)
+## [5. BoredHumans.com - Fun AI Programs You Can Use Online](https://boredhumans.com/)
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://boredhumans.com/)
 
-> 
+> Fun AI programs you can use online. AI games, fake people, computer generated art, machine learning demos, and more.
 
 
 ---
@@ -4277,7 +4296,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [9. Tineye - reverse image search](https://tineye.com/)
+## [9. TinEye Reverse Image Search](https://tineye.com/)
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://tineye.com/)
 
@@ -4313,11 +4332,11 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [13. Metademolab - Animate Drawings](https://sketch.metademolab.com/)
+## [13. Animated Drawings](https://sketch.metademolab.com/)
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://sketch.metademolab.com/)
 
-> 
+> Bring children's drawings to life, by animating characters to move around!
 
 
 ---
@@ -4335,7 +4354,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://chatroulette.com/)
 
-> 
+> Random meetings around the world
 
 
 ---
@@ -4349,11 +4368,11 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [17. Imgflip](https://imgflip.com/)
+## [17. Imgflip - Create and Share Awesome Images](https://imgflip.com/)
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://imgflip.com/)
 
-> 
+> Flip through memes, gifs, and other funny images. Make your own images with our Meme Generator or Animated GIF Maker.
 
 
 ---
@@ -4367,7 +4386,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [19. Template Maker](https://www.templatemaker.nl/en/)
+## [19. ✂Templatemaker ︎](https://www.templatemaker.nl/en/)
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://www.templatemaker.nl/en/)
 
@@ -4380,7 +4399,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 [<img src='https://og-imgs.omnicalculator.com/homepage/2960.png' width="300" />](https://www.omnicalculator.com/)
 
-> 
+> Omni Calculator solves 2960 problems anywhere from finance and business to health. It’s so fast and easy you won’t want to do the math again!
 
 
 ---
@@ -4405,11 +4424,11 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [2. Wolfram|Alpha: Making the world’s knowledge computable](https://www.wolframalpha.com/)
+## [2. Wolfram|Alpha: Computational Intelligence](https://www.wolframalpha.com/)
 
 [<img src='https://www.wolframalpha.com/_next/static/images/share_3eSzXbxb.png' width="300" />](https://www.wolframalpha.com/)
 
-> Wolfram|Alpha brings expert-level knowledge and capabilities to the broadest possible range of people—spanning all professions and education levels.
+> Compute answers using Wolfram's breakthrough technology & knowledgebase, relied on by millions of students & professionals. For math, science, nutrition, history, geography, engineering, mathematics, linguistics, sports, finance, music…
 
 
 ---
@@ -4423,7 +4442,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [4. edX | Free Online Courses by Harvard, MIT, & more](https://www.edx.org/)
+## [4. edX | Free Online Courses by Harvard, MIT, & more | edX](https://www.edx.org/)
 
 [<img src='https://images.ctfassets.net/ii9ehdcj88bc/24nI9FEfxhYsu4JtOI8esA/283e8add221ba5a36b9af0b595f5cd61/edx-homepage-preview.jpg?' width="300" />](https://www.edx.org/)
 
@@ -4432,11 +4451,11 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [5. Hkvisa](https://sci-hub.hkvisa.net/)
+## [5. Sci-Hub](https://sci-hub.hkvisa.net/)
 
 [<img src='//img.sci-hub.shop/misc/img/logo_en.png' width="300" />](https://sci-hub.hkvisa.net/)
 
-> 
+> Sci-Hub,mg.scihub.ltd,sci-hub.tw,The project is supported by user donations. Imagine the world with free access to knowledge for everyone ‐ a world without any paywalls.
 
 
 ---

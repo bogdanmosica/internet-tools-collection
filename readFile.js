@@ -35,38 +35,25 @@ const readFile = () => {
 			const tag = theSplitByHashTag.length === 4 ? "h2" : "h1";
 			return { id, name, url, heading, tag };
 		});
-
 		const promiseData = extractedData
 			.map((eData) => eData.url)
-			.map(async (url) => {
+			.map(async (url, index) => {
 				try {
 					const result = await parser(url);
-					if (result) return result;
-					return {
-						og: {
-							site_name: "YouTube",
-							url: "https://www.youtube.com/watch?v=eSzNNYk7nVU",
-							title: "Rebuilding iOS 15 with Tailwind CSS",
-							image: "https://i.ytimg.com/vi/eSzNNYk7nVU/maxresdefault.jpg",
-							description:
-								"In this video, I'll show you how to rebuild the new Notification Summary UI from iOS 15 using Tailwind CSS.Source code: https://play.tailwindcss.com/kY4LYXwsNZ",
-							type: "video.other",
-						},
-						meta: {
-							title: "Rebuilding iOS 15 with Tailwind CSS",
-							description:
-								"In this video, I'll show you how to rebuild the new Notification Summary UI from iOS 15 using Tailwind CSS.Source code: https://play.tailwindcss.com/kY4LYXwsNZ",
-						},
-						images: [],
-					};
+					// if (index === 0) {
+					// 	const CAARD = await parser("https://carrd.co/");
+					// 	console.log(CAARD);
+					// }
+					return result;
 				} catch (error) {
 					return {};
 				}
 			});
-		//console.log(promiseData);
+
 		Promise.all(promiseData).then(function (values) {
-			const appList = values.map(({ og }, i) => ({
+			const appList = values.map(({ og, meta }, i) => ({
 				...og,
+				...meta,
 				...extractedData[i],
 			}));
 			const markdownModelContent = filteredH1Headers.reduce(
