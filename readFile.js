@@ -110,7 +110,7 @@ const readFile = () => {
 						link: {
 							title: `<img src=${
 								image ||
-								"http://www.digitalmesh.com/blog/wp-content/uploads/2020/05/404-error.jpg"
+								"https://cdn.dribbble.com/users/88213/screenshots/8560585/media/7263b7aaa8077a322b0f12a7cd7c7404.png?compress=1&resize=400x300&vertical=top"
 							} width="300" />`,
 							source: url,
 						},
