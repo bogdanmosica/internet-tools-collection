@@ -100,9 +100,9 @@ const readFile = () => {
 					const appIcon = {
 						link: {
 							title: `<img src='${
-								image ||
-								images[0] ||
-								"https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png"
+								image || images.length > 0
+									? images[0]?.src
+									: "https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png"
 							}' width="300" />`,
 							source: url,
 						},
