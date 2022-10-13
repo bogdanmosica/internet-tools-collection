@@ -71,7 +71,7 @@ const readFile = () => {
 			}));
 			const markdownModelContent = filteredH1Headers.reduce(
 				(prev, current, index) => {
-					const linkName = current.split("#")[1].slice(1).slice(0, -1);
+					const linkName = current.split("#")[1].slice(1);
 					prev.push({
 						link: {
 							title: `${index + 1}. ${linkName}`,

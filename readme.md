@@ -5,41 +5,41 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 # Content by category
 
-[1. Artificial Intelligenc](#artificial-intelligenc)
+[1. Artificial Intelligence](#artificial-intelligence)
 
-[2. Developer](#developer)
+[2. Developers](#developers)
 
-[3. Desig](#desig)
+[3. Design](#design)
 
-[4. Entrepreneu](#entrepreneu)
+[4. Entrepreneur](#entrepreneur)
 
-[5. Video Editin](#video-editin)
+[5. Video Editing](#video-editing)
 
-[6. Stock video](#stock-video)
+[6. Stock videos](#stock-videos)
 
-[7. Stock Photo](#stock-photo)
+[7. Stock Photos](#stock-photos)
 
-[8. Stock musi](#stock-musi)
+[8. Stock music](#stock-music)
 
-[9. Search Engine Optimizatio](#search-engine-optimizatio)
+[9. Search Engine Optimization](#search-engine-optimization)
 
-[10. Blog Post](#blog-post)
+[10. Blog Posts](#blog-posts)
 
-[11. Resum](#resum)
+[11. Resume](#resume)
 
-[12. Interview](#interview)
+[12. Interviews](#interviews)
 
-[13. No code website builde](#no-code-website-builde)
+[13. No code website builder](#no-code-website-builder)
 
-[14. No code game builde](#no-code-game-builde)
+[14. No code game builder](#no-code-game-builder)
 
-[15. Side Hustl](#side-hustl)
+[15. Side Hustle](#side-hustle)
 
-[16. Browser Extension](#browser-extension)
+[16. Browser Extensions](#browser-extensions)
 
-[17. Othe](#othe)
+[17. Other](#other)
 
-[18. Student](#student)
+[18. Students](#students)
 
 ## Artificial Intelligenc
 
@@ -1265,7 +1265,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [12. SAVEE](https://savee.it/)
 
-[<img src=https://st.savee-cdn.com/_next/static/media/default-og-image.4c07ae17.jpg?1665659782510 width="300" />](https://savee.it/)
+[<img src=https://st.savee-cdn.com/_next/static/media/default-og-image.4c07ae17.jpg?1665659939189 width="300" />](https://savee.it/)
 
 > 
 
