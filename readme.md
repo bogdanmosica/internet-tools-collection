@@ -45,7 +45,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [1. Jasper - The Best AI Writing Assistant](https://www.jasper.ai/)
 
-[<img src='https://assets-global.website-files.com/60e5f2de011b86acebc30db7/61e8374ce30b796f372e613b_Jasper%20Logo%20Light.svg' width='300' />](https://www.jasper.ai/)
+[<img src='https://assets-global.website-files.com/60e5f2de011b86acebc30db7/61eece30f4df4aa41f8d03da_Jasper%20Social%20Share%20Image%20-%201.jpg' width='300' />](https://www.jasper.ai/)
 
 > Create content 5x faster with artificial intelligence. Jasper is the highest quality AI copywriting tool with over 3,000 5-star reviews. Best for writing blog posts, social media content, and marketing copy.
 
@@ -54,7 +54,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [2. AutoDraw](https://www.autodraw.com/)
 
-[<img src='undefined' width='300' />](https://www.autodraw.com/)
+[<img src='http://www.autodraw.com/assets/images/autodraw-shareimage.png' width='300' />](https://www.autodraw.com/)
 
 > Fast drawing for everyone. AutoDraw pairs machine learning with drawings from talented artists to help you draw stuff fast.
 
@@ -63,7 +63,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [3. Rytr - Best AI Writer, Content Generator & Writing Assistant](https://rytr.me/)
 
-[<img src='https://storage.googleapis.com/rytr-me/public/image/logo.svg' width='300' />](https://rytr.me/)
+[<img src='https://storage.googleapis.com/rytr-me/public/image/logo-spaced.png' width='300' />](https://rytr.me/)
 
 > Rytr is an AI writing assistant that helps you create high-quality content, in just a few seconds, at a fraction of the cost!
 
@@ -72,7 +72,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [4. Neevo - Neevo](https://www.neevo.ai/)
 
-[<img src='https://www.neevo.ai/wp-content/themes/sd-neevo/assets/images/logo.svg' width='300' />](https://www.neevo.ai/)
+[<img src='https://www.neevo.ai/wp-content/uploads/2019/10/NEEVO@2x.png' width='300' />](https://www.neevo.ai/)
 
 > 
 
@@ -81,7 +81,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [5. Kinetix Tech](https://kinetix.tech/)
 
-[<img src='undefined' width='300' />](https://kinetix.tech/)
+[<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width='300' />](https://kinetix.tech/)
 
 > Kinetix is a no-code 3D creation tool powered by Artificial Intelligence. The web-based platform leverages AI motion capture to convert a video into a 3D animation and lets you customize your avatars and environments. We make 3D animation accessible to every creator so they can create engaging stories.
 
@@ -90,7 +90,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [6. LALAL.AI: 100% AI-Powered Vocal and Instrumental Tracks Remover](https://www.lalal.ai/)
 
-[<img src='https://s.lalal.ai/img/home/logo_ai.svg' width='300' />](https://www.lalal.ai/)
+[<img src='https://s.lalal.ai/share/share-default.png' width='300' />](https://www.lalal.ai/)
 
 > Split vocal and instrumental tracks quickly and accurately with LALAL.AI. Upload any audio file and receive high-quality extracted tracks in a few seconds.
 
@@ -99,7 +99,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [7. Copy.ai: Write better marketing copy and content with AI](https://www.copy.ai/)
 
-[<img src='https://assets-global.website-files.com/628288c5cd3e8411b90a36a4/62828ef38380777cb33cdf29_5f579853dab605076f3cbf3f_logo.svg' width='300' />](https://www.copy.ai/)
+[<img src='https://assets-global.website-files.com/628288c5cd3e8411b90a36a4/629a702fc90e970b2626cd52_fb-og.jpg' width='300' />](https://www.copy.ai/)
 
 > Get great copy that sells. Copy.ai is an AI-powered copywriter that generates high-quality copy for your business. Get started for free, no credit card required! Marketing simplified!
 
@@ -108,7 +108,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [8. OpenAI](https://openai.com/)
 
-[<img src='undefined' width='300' />](https://openai.com/)
+[<img src='https://openai.com/content/images/2022/05/twitter-1.png' width='300' />](https://openai.com/)
 
 > OpenAI is an AI research and deployment company. Our mission is to ensure that artificial general intelligence benefits all of humanity.
 
@@ -117,7 +117,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [9. DALL·E 2](https://openai.com/dall-e-2/)
 
-[<img src='undefined' width='300' />](https://openai.com/dall-e-2/)
+[<img src='https://openai.com/content/images/2022/04/dall-e-2-og.jpg' width='300' />](https://openai.com/dall-e-2/)
 
 > DALL·E 2 is a new AI system that can create realistic images and art from a description in natural language.
 
@@ -126,7 +126,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [10. Steve.ai - World’s fastest way to create Videos](https://www.steve.ai/)
 
-[<img src='https://www.steve.ai/assets/img/steveai_logo.svg' width='300' />](https://www.steve.ai/)
+[<img src='https://www.steve.ai/assets/newhome/steveai__homeogimage_new.png' width='300' />](https://www.steve.ai/)
 
 > Steve.AI is an online Video making software that helps anyone to create Videos and animations in seconds. 
 
@@ -135,7 +135,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [11. Octie.ai - Your A.I. ecommerce marketing assistant](https://octie.ai/)
 
-[<img src='undefined' width='300' />](https://octie.ai/)
+[<img src='https://octie.ai/octie_twitter.jpeg' width='300' />](https://octie.ai/)
 
 > Write emails, product descriptions, and more, with A.I. Created by Octane AI.
 
@@ -153,7 +153,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [13. FakeYou. Deep Fake Text to Speech.](https://fakeyou.com/)
 
-[<img src='undefined' width='300' />](https://fakeyou.com/)
+[<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width='300' />](https://fakeyou.com/)
 
 > FakeYou is a text to speech wonderland where all of your dreams come true.
 
@@ -162,7 +162,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [14. Craiyon, formerly DALL-E mini](https://www.craiyon.com/)
 
-[<img src='https://www.craiyon.com/_app/immutable/assets/craiyon_logo-9927047c.png' width='300' />](https://www.craiyon.com/)
+[<img src='https://www.craiyon.com/craiyon_preview.png' width='300' />](https://www.craiyon.com/)
 
 > Craiyon, formerly DALL-E mini, is an AI model that can draw images from any text prompt! 
 
@@ -189,7 +189,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [17. Writesonic AI Writer - Best AI Writing Assistant](https://writesonic.com/)
 
-[<img src='https://uploads-ssl.webflow.com/627a1044a798e6627445c8d1/62ac5edc95b8da197ca12334_White.svg' width='300' />](https://writesonic.com/)
+[<img src='https://writesonic.s3.amazonaws.com/writesonic-og.jpg' width='300' />](https://writesonic.com/)
 
 > Writesonic is an AI writer that's been trained on top-performing SEO content, high-performing ads, and converting sales copy to help you supercharge your writing and marketing efforts.
 
@@ -198,7 +198,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [18. Smart Copy - AI Copywriting Assistant | Unbounce](https://unbounce.com/product/smart-copy/)
 
-[<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' width='300' />](https://unbounce.com/product/smart-copy/)
+[<img src='https://d9hhrg4mnvzow.cloudfront.net/p.unbounce.com/unbounce-apps-typeform-feature-page-012022/9bdc7dc0-typeform-open-graph.jpg' width='300' />](https://unbounce.com/product/smart-copy/)
 
 > Generate creative AI copy on-the-spot across your favourite tools
 
@@ -207,7 +207,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [19. Synthesia | #1 AI Video Generation Platform](https://www.synthesia.io/)
 
-[<img src='https://assets-global.website-files.com/61dc0796f359b6145bc06ea6/61dc4887c7d00a2f74b0a0af_synthesia-logo.svg' width='300' />](https://www.synthesia.io/)
+[<img src='https://assets-global.website-files.com/61dc0796f359b6145bc06ea6/62556b0c0f63294bbf9b2353_OG%20image%20front%20(4)%20(1).png' width='300' />](https://www.synthesia.io/)
 
 > Create AI videos by simply typing in text. Easy to use, cheap and scalable. Make engaging videos with human presenters — directly from your browser. Free demo.
 
@@ -216,7 +216,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [20. NVIDIA Canvas: Turn Simple Brushstrokes into Realistic Images](https://www.nvidia.com/en-us/studio/canvas/)
 
-[<img src='data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH/C1hNUCBEYXRhWE1QPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS4wLWMwNjAgNjEuMTM0Nzc3LCAyMDEwLzAyLzEyLTE3OjMyOjAwICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdFJlZj0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlUmVmIyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IFdpbmRvd3MiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6Njg1MzE2OTNFNzREMTFERkI3NEJBNDRGNDk5NUNCRTYiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6Njg1MzE2OTRFNzREMTFERkI3NEJBNDRGNDk5NUNCRTYiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo2ODUzMTY5MUU3NEQxMURGQjc0QkE0NEY0OTk1Q0JFNiIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo2ODUzMTY5MkU3NEQxMURGQjc0QkE0NEY0OTk1Q0JFNiIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PgH//v38+/r5+Pf29fTz8vHw7+7t7Ovq6ejn5uXk4+Lh4N/e3dzb2tnY19bV1NPS0dDPzs3My8rJyMfGxcTDwsHAv769vLu6ubi3trW0s7KxsK+urayrqqmop6alpKOioaCfnp2cm5qZmJeWlZSTkpGQj46NjIuKiYiHhoWEg4KBgH9+fXx7enl4d3Z1dHNycXBvbm1sa2ppaGdmZWRjYmFgX15dXFtaWVhXVlVUU1JRUE9OTUxLSklIR0ZFRENCQUA/Pj08Ozo5ODc2NTQzMjEwLy4tLCsqKSgnJiUkIyIhIB8eHRwbGhkYFxYVFBMSERAPDg0MCwoJCAcGBQQDAgEAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==' width='300' />](https://www.nvidia.com/en-us/studio/canvas/)
+[<img src='https://www.nvidia.com/content/dam/en-zz/Solutions/studio/canvas/canvas-og-1200-630px.jpg' width='300' />](https://www.nvidia.com/en-us/studio/canvas/)
 
 > Create backgrounds quickly, or speed up your concept exploration so you can spend more time visualizing ideas with the help of NVIDIA Canvas.
 
@@ -225,7 +225,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [21. Hotpot.ai - Hotpot.ai](https://hotpot.ai/)
 
-[<img src='https://hotpot.ai/images/logos/brandmark.svg' width='300' />](https://hotpot.ai/)
+[<img src='https://hotpot.ai/images/site/ogDefaultImage.jpg' width='300' />](https://hotpot.ai/)
 
 > Hotpot.ai makes graphic design and image editing easy. AI tools allow experts and non-designers to automate tedious tasks while attractive, easy-to-edit templates allow anyone to create device mockups, social media posts, marketing images, app icons, and other work graphics.
 
@@ -234,7 +234,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [22. Klaviyo: Marketing Automation Platform for Email & SMS](https://www.klaviyo.com/)
 
-[<img src='data:image/svg+xml;charset=utf-8,%3Csvg height='281' width='240' xmlns='http://www.w3.org/2000/svg' version='1.1'%3E%3C/svg%3E' width='300' />](https://www.klaviyo.com/)
+[<img src='https://www.klaviyo.com/static/9974b49f1839013c0061d8897b8cd86b/klaviyo-social-share-image.jpg' width='300' />](https://www.klaviyo.com/)
 
 > Klaviyo, an ecommerce marketing automation platform for email marketing and sms syncs your tech stack with your website store to scale your business.
 
@@ -252,7 +252,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [24. Topic Mojo](https://topicmojo.com/)
 
-[<img src='https://d21b0h47110qhi.cloudfront.net/old-free/homepage-WmL8StFnxt8Q3ba.png' width='300' />](https://topicmojo.com/)
+[<img src='https://d21b0h47110qhi.cloudfront.net/old-free/group-3540-E88weKteT5jilx5.png' width='300' />](https://topicmojo.com/)
 
 > Discover unique & newest queries around any topic and find what your customers are searching for. Pulling data from 50+ sources to enhance your topic research.
 
@@ -297,7 +297,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [29. Getting Started](https://magenta.tensorflow.org/get-started)
 
-[<img src='https://magenta.tensorflow.org/assets/magenta-logo.png' width='300' />](https://magenta.tensorflow.org/get-started)
+[<img src='https://magenta.tensorflow.org/assets/magenta-logo-card.jpg' width='300' />](https://magenta.tensorflow.org/get-started)
 
 > Resources to learn about Magenta
 
@@ -306,7 +306,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [30. Photosonic AI Art Generator | Create Unique Images with AI](https://photosonic.writesonic.com/)
 
-[<img src='data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27270%27%20height=%2770%27/%3e' width='300' />](https://photosonic.writesonic.com/)
+[<img src='https://photosonic.ai/Photosonic.png' width='300' />](https://photosonic.writesonic.com/)
 
 > Transform your imagination into stunning digital art with Photosonic - the AI art generator. With its creative suggestions, this Writesonic's AI image generator can help unleash your inner artist and share your creations with the world.
 
@@ -324,7 +324,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [32. Most downloaded Instagram Captions App (+more creator tools)](https://captionplus.app/)
 
-[<img src='https://captionplus.app/img/brand/white.png' width='300' />](https://captionplus.app/)
+[<img src='https://captionplus.app/img/captionplus-app-featured.png' width='300' />](https://captionplus.app/)
 
 > Join 3 Million+ Instagram Creators who use CaptionPlus to find Instagram Captions, Hashtags, Feed Planning, Reel Ideas, IG Story Design and more.
 
@@ -333,7 +333,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [33. Writecream - Best AI Writer & Content Generator - Writecream](https://www.writecream.com/)
 
-[<img src='https://www.writecream.com/wp-content/uploads/2021/05/va-logo.svg' width='300' />](https://www.writecream.com/)
+[<img src='https://i0.wp.com/www.writecream.com/wp-content/uploads/2021/12/Copy-of-A.I-powered-marketing-copywriting.png?fit=1640%2C924&ssl=1' width='300' />](https://www.writecream.com/)
 
 > Sentence Rewriter is a free tool to reword a sentence, paragraph and even entire essays in a short amount of time.
 
@@ -342,7 +342,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [34. Hypotenuse AI: AI Writing Assistant and Text Generator](https://www.hypotenuse.ai/)
 
-[<img src='https://uploads-ssl.webflow.com/5f23b456c81e6bebb921e9cb/63217f01a3ecf81f606aa695_product-hunt-logo-orange-240.png' width='300' />](https://www.hypotenuse.ai/)
+[<img src='https://uploads-ssl.webflow.com/5f23b456c81e6bebb921e9cb/61fe2c17d82c8478be41daff_opengraph.png' width='300' />](https://www.hypotenuse.ai/)
 
 > Turn a few keywords into original, insightful articles, product descriptions and social media copy with AI copywriting—all in just minutes. Try it free today.
 
@@ -353,7 +353,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [1. Listnr: Generate realistic Text to Speech voiceovers in seconds](https://www.listnr.tech/)
 
-[<img src='https://uploads-ssl.webflow.com/62c2b9d092c409438711fdd3/63221629eb23d029e542c0a4_62c2b9d092c409308711ff24_default-monochrome-black-p-500-min.png' width='300' />](https://www.listnr.tech/)
+[<img src='https://uploads-ssl.webflow.com/62c2b9d092c409438711fdd3/63221483ce28195d27ad8505_628295b817892a2a28f58ff9_Frame%202%20(2)-min.png' width='300' />](https://www.listnr.tech/)
 
 > AI Voiceover Generator with over 600+ voiceovers in 80+ languages, go from Text to Voice in seconds. Get started for Free!
 
@@ -362,7 +362,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [2. Free Text to Speech: Online, App, Software, Commercial license with Natural Sounding Voices.](https://www.naturalreaders.com/)
 
-[<img src='https://www.naturalreaders.com/logo.svg' width='300' />](https://www.naturalreaders.com/)
+[<img src='https://www.naturalreaders.com/images/share_preview2.jpg' width='300' />](https://www.naturalreaders.com/)
 
 > Free text to speech online app with natural voices, convert text to audio and mp3, for personal and commercial use
 
@@ -391,7 +391,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [3. Spline - Design tool for 3D web browser experiences](https://spline.design/)
 
-[<img src='https://spline.design/_next/static/chunks/images/spline_logo-c068feca0f6ae756affe68498147df78.png' width='300' />](https://spline.design/)
+[<img src='https://spline.design/_next/static/chunks/images/spline_image_banner-28a4c49c34a943e2cf79d9160f72585c.png' width='300' />](https://spline.design/)
 
 > Create web-based 3D browser experiences
 
@@ -400,7 +400,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [4. Image to HTML CSS converter. Convert image to HTML CSS with AI: Fronty](https://fronty.com/)
 
-[<img src='https://fronty.com/static/img/fronty-logo-light.svg' width='300' />](https://fronty.com/)
+[<img src='https://i.imgur.com/dEogYXi.jpg' width='300' />](https://fronty.com/)
 
 > Fronty - Image to HTML CSS code converter. Convert image to HTML powered by AI.
 
@@ -409,7 +409,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [5. Sketchfab - The best 3D viewer on the web](https://sketchfab.com/)
 
-[<img src='https://static.sketchfab.com/static/builds/web/dist/static/assets/images/pages/home/b23570d4e6681f42b143b822fccbb1a6-v2.svg' width='300' />](https://sketchfab.com/)
+[<img src='https://static.sketchfab.com/static/builds/web/dist/static/assets/images/favicon/a81e1fd93fc053fed8a5f56640f886f8-v2.png' width='300' />](https://sketchfab.com/)
 
 > With a community of over one million creators, we are the world’s largest platform to publish, share, and discover 3D content on web, mobile, AR, and VR.
 
@@ -418,7 +418,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [6. Railway](https://railway.app/)
 
-[<img src='data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2748%27%20height=%2748%27/%3e' width='300' />](https://railway.app/)
+[<img src='https://railway.app/og.png' width='300' />](https://railway.app/)
 
 > Railway is an infrastructure platform where you can provision infrastructure, develop with that infrastructure locally, and then deploy to the cloud.
 
@@ -427,7 +427,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [7. JSON Crack - Crack your data into pieces](https://jsoncrack.com/)
 
-[<img src='undefined' width='300' />](https://jsoncrack.com/)
+[<img src='https://jsoncrack.com/assets/jsoncrack.png' width='300' />](https://jsoncrack.com/)
 
 > Simple visualization tool for your JSON data. No forced structure, paste your JSON and view it instantly.
 
@@ -463,7 +463,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [11. GPRM : GitHub Profile ReadMe Maker](https://gprm.itsvg.in/)
 
-[<img src='https://gprm.itsvg.in/logo.png' width='300' />](https://gprm.itsvg.in/)
+[<img src='https://gprm.itsvg.in/webimg.png' width='300' />](https://gprm.itsvg.in/)
 
 > Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free !
 
@@ -472,7 +472,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [12. HubSpot | Software, Tools, and Resources to Help Your Business Grow Better](https://www.hubspot.com/)
 
-[<img src='data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDI2LjMuMSwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCAzMzguNjU5NjEgOTYiIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMCAwIDMzOC42NTk2MSA5NiIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxnPgoJPHBvbHlnb24gZmlsbD0iIzIxMzM0MyIgcG9pbnRzPSIzNi42NzcyNSw1NC4zMzIxOSAxMS44MDkxOCw1NC4zMzIxOSAxMS44MDkxOCw4MC41Mjg1OSAwLDgwLjUyODU5IDAsMTUuODkwODMgMTEuODA5MTgsMTUuODkwODMgCgkJMTEuODA5MTgsNDIuOTcxMDMgMzYuNjc3MjUsNDIuOTcxMDMgMzYuNjc3MjUsMTUuODkwODMgNDguNDgzNzgsMTUuODkwODMgNDguNDgzNzgsODAuNTI4NTkgMzYuNjc3MjUsODAuNTI4NTkgCSIvPgoJPHBhdGggZmlsbD0iIzIxMzM0MyIgZD0iTTg2LjI2OTM2LDU5LjYzNjM0YzAsNS4zODM0NC00LjM4NTMxLDkuNzYzNzUtOS43Njc1NSw5Ljc2Mzc1Yy01LjM4MzY4LDAtOS43NjYxNi00LjM4MDMxLTkuNzY2MTYtOS43NjM3NQoJCXYtMjcuNjg0OUg1NS41NTMzOXYyNy42ODQ5YzAsMTEuNTUwMjUsOS4zOTc2NCwyMC45NDU1OCwyMC45NDg0MiwyMC45NDU1OGMxMS41NDg0MiwwLDIwLjk0NjA1LTkuMzk1MzMsMjAuOTQ2MDUtMjAuOTQ1NTgKCQl2LTI3LjY4NDloLTExLjE3ODVWNTkuNjM2MzR6Ii8+Cgk8cGF0aCBmaWxsPSIjMjEzMzQzIiBkPSJNMTY5LjI0NTU2LDM0LjgwMTljMC01LjY3NjIxLDMuNzU2OTktNy40NzYxNSw3Ljg3MDI1LTcuNDc2MTVjMy4zMTIwMSwwLDcuNjk0NzIsMi41MjA2OSwxMC41NTQyNCw1LjU4MzYxCgkJbDcuMzMzMjUtOC42NDQ0Yy0zLjY2NDUxLTQuOTUxMi0xMS4wODc5MS04LjM3NDEzLTE3LjE3MDc1LTguMzc0MTNjLTEyLjE2NzMxLDAtMjAuOTMzODUsNy4xMTQyNC0yMC45MzM4NSwxOC45MTEwNgoJCWMwLDIxLjg4MDQ2LDI2Ljc0ODIsMTQuOTQ0NzksMjYuNzQ4MiwyNy4xOTQwNGMwLDMuNzc3NTMtMy42NjYzOCw3LjExMjM2LTcuODY5MzQsNy4xMTIzNgoJCWMtNi42MjE3LDAtOC43Njk2MS0zLjI0MTc0LTExLjgwOTg2LTYuNjY0bC04LjE0MTgyLDguNDYyNzJjNS4xOTEyMiw2LjM5MzczLDExLjYzMDA4LDkuNjM3MzYsMTkuMzIzNjUsOS42MzczNgoJCWMxMS41Mzk0OSwwLDIwLjg0MzI1LTcuMjA0MDUsMjAuODQzMjUtMTguNDYxNDlDMTk1Ljk5MjgsMzcuNzcxNDgsMTY5LjI0NTU2LDQ1LjMzNjI3LDE2OS4yNDU1NiwzNC44MDE5eiIvPgoJPHBhdGggZmlsbD0iIzIxMzM0MyIgZD0iTTMzNC43MjA0OSw3MC4yMDI3OGMtNi42MTY5NywwLTguNDk1MDYtMi44NjA5Ni04LjQ5NTA2LTcuMjQ1OThWNDMuNTQ2NThoMTAuMjg0ODJ2LTkuODM4OTJoLTEwLjI4NDgyCgkJVjIwLjczNTE1bC0xMS4zNTc3OSw1LjA5ODI2djM5LjUzOTMxYzAsMTAuMTA5Myw2Ljk3NDY0LDE1LjIwOTIsMTYuNTQyNjYsMTUuMjA5MmMxLjQzMTIxLDAsMy40MDEyMS0wLjA5MjQ4LDQuNDc1NjgtMC4zNTc2NgoJCWwyLjc3MzYyLTEwLjE5NzA2QzMzNy40MDc3NSw3MC4xMTM1NywzMzUuOTc3MDIsNzAuMjAyNzgsMzM0LjcyMDQ5LDcwLjIwMjc4eiIvPgoJPHBhdGggZmlsbD0iIzIxMzM0MyIgZD0iTTEyOC44OTMyMywzMi4yNzUzM2MtNS41NDY3MywwLTkuNDE4MjksMS42MTAwMi0xMy4xNTczNiw1LjI4MDAzVjE2LjI3Njg1aC0xMS4yMTgwOXYzOS40MzU0NgoJCWMwLDE0Ljc2MDQsMTAuNjcxNjEsMjQuODY5NjMsMjIuNjYyMzYsMjQuODY5NjNjMTMuMzI5MDYsMCwyNS4wMDc3Ny0xMC4yODg5OSwyNS4wMDc3Ny0yNC4xNTIzMgoJCUMxNTIuMTg3OTEsNDIuNzQxOTEsMTQxLjQxODY5LDMyLjI3NTMzLDEyOC44OTMyMywzMi4yNzUzM3ogTTEyOC44MjM1LDY5LjI5MTczYy03LjAyNzU0LDAtMTIuNzIzNzQtNS42OTY0Mi0xMi43MjM3NC0xMi43MjM1MwoJCWMwLTcuMDI2ODksNS42OTYyLTEyLjcyMzUzLDEyLjcyMzc0LTEyLjcyMzUzYzcuMDI2NjcsMCwxMi43MjMzMSw1LjY5NjY0LDEyLjcyMzMxLDEyLjcyMzUzCgkJQzE0MS41NDY4MSw2My41OTUzLDEzNS44NTAxNyw2OS4yOTE3MywxMjguODIzNSw2OS4yOTE3M3oiLz4KCTxwYXRoIGZpbGw9IiMyMTMzNDMiIGQ9Ik0yNTAuNjgzNDYsNTUuODQ3MjRjMC0xMy44NjMzMy0xMS42Nzg3My0yNC4xNTIzMi0yNS4wMDc3OC0yNC4xNTIzMgoJCWMtMTEuOTkwNzUsMC0yMi42NjIzNSwxMC4xMDkyMi0yMi42NjIzNSwyNC44Njk2M1Y5NmgxMS4yMTgwOVY3NC43MjE0OWMzLjczOTA2LDMuNjcwMDEsNy42MTA2Myw1LjI4MDAzLDEzLjE1NzM1LDUuMjgwMDMKCQlDMjM5LjkxNDIyLDgwLjAwMTUyLDI1MC42ODM0Niw2OS41MzQ5NCwyNTAuNjgzNDYsNTUuODQ3MjR6IE0yNDAuMDQyMzQsNTUuNzA4NjVjMCw3LjAyNjg5LTUuNjk2NjQsMTIuNzIzNTMtMTIuNzIzMzEsMTIuNzIzNTMKCQljLTcuMDI3NTQsMC0xMi43MjM3NC01LjY5NjY0LTEyLjcyMzc0LTEyLjcyMzUzYzAtNy4wMjcxLDUuNjk2Mi0xMi43MjM1MywxMi43MjM3NC0xMi43MjM1MwoJCUMyMzQuMzQ1Nyw0Mi45ODUxMywyNDAuMDQyMzQsNDguNjgxNTUsMjQwLjA0MjM0LDU1LjcwODY1eiIvPgoJPHBhdGggZmlsbD0iI0ZGNUMzNSIgZD0iTTI4Ni45MzI0NiwzMS4xNTE1NFYxOS44ODMxMmMyLjk0MTE2LTEuMzg5NTEsNS4wMDIwMS00LjM2NTA4LDUuMDAyMDEtNy44MTg1di0wLjI2MDM4CgkJYzAtNC43NjU1Ny0zLjg5OTQ0LTguNjY0OC04LjY2NDgzLTguNjY0OGgtMC4yNjAxNmMtNC43NjU3OCwwLTguNjY1MjIsMy44OTkyMy04LjY2NTIyLDguNjY0OHYwLjI2MDM4CgkJYzAsMy40NTM0MSwyLjA2MTI4LDYuNDI5NDIsNS4wMDI0MSw3LjgxODcydjExLjI2ODQyYy00LjM3OTI0LDAuNjc2NTYtOC4zODA2NSwyLjQ4MjY5LTExLjY4MjE5LDUuMTQwNzlsLTMwLjkzODg3LTI0LjA2NzU2CgkJYzAuMjAzNTEtMC43ODM3NywwLjM0NjQ1LTEuNTkxMjksMC4zNDczMi0yLjQzODY4YzAuMDA2OTctNS4zOTc5MS00LjM2MzEzLTkuNzc5MzMtOS43NjEyNS05Ljc4NjMxCgkJYy01LjM5ODEzLTAuMDA2NzUtOS43Nzk1Niw0LjM2MzU2LTkuNzg2NTMsOS43NjE0N2MtMC4wMDY1Myw1LjM5NzkxLDQuMzYzNTYsOS43NzkzMyw5Ljc2MTY5LDkuNzg2MDkKCQljMS43NTkyOCwwLjAwMjE4LDMuMzg3MzktMC40OTc0NSw0LjgxNDYxLTEuMzA5MTFsMzAuNDM0NjUsMjMuNjc1NzljLTIuNTg4NTksMy45MDY4NS00LjEwNDI1LDguNTg2OC00LjEwNDI1LDEzLjYyNDUyCgkJYzAsNS4yNzQ1OCwxLjY2NjAyLDEwLjE1MjgxLDQuNDgyMDksMTQuMTY1NzdsLTkuMjU1NzQsOS4yNTU3NGMtMC43MzE2OS0wLjIxOTQyLTEuNDkxMjctMC4zNzMwNC0yLjI5NDg2LTAuMzczMDQKCQljLTQuNDM1NDcsMC04LjAzMTYsMy41OTU5Mi04LjAzMTYsOC4wMzE2czMuNTk2MTMsOC4wMzE2LDguMDMxNiw4LjAzMTZjNC40MzU5LDAsOC4wMzE1OS0zLjU5NTkyLDguMDMxNTktOC4wMzE2CgkJYzAtMC44MDMxNi0wLjE1MzM4LTEuNTYyOTYtMC4zNzMwMi0yLjI5NDY1bDkuMTU1NDktOS4xNTUyOGM0LjE1NTcsMy4xNzI1NSw5LjMzMDY5LDUuMDc4MDMsMTQuOTYyODMsNS4wNzgwMwoJCWMxMy42NDU0NSwwLDI0LjcwNzUyLTExLjA2MjI5LDI0LjcwNzUyLTI0LjcwODE3QzMwNy44NDc3NSw0My4xODU4NywyOTguNzcyODYsMzIuOTgwMzMsMjg2LjkzMjQ2LDMxLjE1MTU0eiBNMjgzLjE0MDIzLDY4LjIwNjI4CgkJYy02Ljk5NjE1LDAtMTIuNjY4NC01LjY3MTM3LTEyLjY2ODQtMTIuNjY3NTNjMC02Ljk5NTk0LDUuNjcyMjQtMTIuNjY3NTMsMTIuNjY4NC0xMi42Njc1MwoJCWM2Ljk5NTMsMCwxMi42Njc1NCw1LjY3MTU4LDEyLjY2NzU0LDEyLjY2NzUzQzI5NS44MDc3Nyw2Mi41MzQ5MiwyOTAuMTM1NTMsNjguMjA2MjgsMjgzLjE0MDIzLDY4LjIwNjI4eiIvPgo8L2c+Cjwvc3ZnPgo=' width='300' />](https://www.hubspot.com/)
+[<img src='https://53.fs1.hubspotusercontent-na1.net/hubfs/53/assets/hubspot.com/buzz/HubSpotOpenGraph.png#keepProtocol' width='300' />](https://www.hubspot.com/)
 
 > HubSpot’s integrated CRM platform contains the marketing, sales, service, operations, and website-building software you need to grow your business. 
 
@@ -481,7 +481,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [13. QuickRef.ME - Quick Reference Cheat Sheet](https://quickref.me/)
 
-[<img src='undefined' width='300' />](https://quickref.me/)
+[<img src='https://quickref.me/assets/image/?v=td9mg' width='300' />](https://quickref.me/)
 
 > Share quick reference and cheat sheet for developers
 
@@ -490,7 +490,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [14. massCode | A free and open source code snippets manager for developers](https://masscode.io/)
 
-[<img src='https://masscode.io/logo-64w.png' width='300' />](https://masscode.io/)
+[<img src='https://masscode.io/og-image.png' width='300' />](https://masscode.io/)
 
 > Code snippets manager for developers, developed using web technologies.
 
@@ -499,7 +499,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [15. Snyk | Developer security | Develop fast. Stay secure.](https://snyk.io/)
 
-[<img src='https://snyk.io/wp-content/uploads/code.svg' width='300' />](https://snyk.io/)
+[<img src='https://res.cloudinary.com/snyk/images/f_auto,q_auto/v1/wordpress-sync/hp-featured-image/hp-featured-image.png?_i=AA' width='300' />](https://snyk.io/)
 
 > Snyk helps software-driven businesses develop fast and stay secure. Continuously find and fix vulnerabilities for npm, Maven, NuGet, RubyGems, PyPI and more.
 
@@ -508,7 +508,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [16. Developer Roadmaps](https://roadmap.sh/)
 
-[<img src='https://roadmap.sh/logo.svg' width='300' />](https://roadmap.sh/)
+[<img src='https://roadmap.sh/brand-square.png' width='300' />](https://roadmap.sh/)
 
 > Community driven roadmaps, articles, guides, quizzes, tips and resources for developers to learn from, identify their career paths, know what they don't know, find out the knowledge gaps, learn and improve.
 
@@ -519,7 +519,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [1. Get Waves – Create SVG waves for your next design](https://getwaves.io/)
 
-[<img src='https://getwaves.io/static/blobs-5-864251ec42e776e2f591c408fcb5f64e.gif' width='300' />](https://getwaves.io/)
+[<img src='https://www.getwaves.io/static/getwaves-cover-ac8c651e2f1863b1e8df743f946fdf10.jpg' width='300' />](https://getwaves.io/)
 
 > A free SVG wave generator to make unique SVG waves for your next web design. Choose a curve, adjust complexity, randomize!
 
@@ -546,7 +546,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [4. Glassmorphism CSS Generator - Glass UI](https://ui.glass/generator/)
 
-[<img src='data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAASABIAAD/4QCuRXhpZgAATU0AKgAAAAgABQESAAMAAAABAAEAAAEaAAUAAAABAAAASgEbAAUAAAABAAAAUgExAAIAAAAhAAAAWodpAAQAAAABAAAAfAAAAAAAAABIAAAAAQAAAEgAAAABQWRvYmUgUGhvdG9zaG9wIDIxLjAgKE1hY2ludG9zaCkAAAADoAEAAwAAAAEAAQAAoAIABAAAAAEAAABAoAMABAAAAAEAAABAAAAAAP/hC1lodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IlhNUCBDb3JlIDYuMC4wIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6RDM4NzEyOTk1NEU1MTFFQkE5NUFBNDNDN0ExMTE5QUMiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6RDM4NzEyOTg1NEU1MTFFQkE5NUFBNDNDN0ExMTE5QUMiIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo3NTAxMDgwNDEyMTAxMUVBOTNGNUU1NkMyNEY0RUY2MCIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgMjEuMCAoTWFjaW50b3NoKSI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOjUzZDhlNGZmLWRkMDctNDQxZC04ZDlhLTRhNjcxYmI5OGMzNyIgc3RSZWY6ZG9jdW1lbnRJRD0iYWRvYmU6ZG9jaWQ6cGhvdG9zaG9wOjY5ZWQxZGVkLTZmNzYtNWM0MS1iZGIwLWU0OWNkMjVjYzhlMyIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8P3hwYWNrZXQgZW5kPSJ3Ij8+AP/tADhQaG90b3Nob3AgMy4wADhCSU0EBAAAAAAAADhCSU0EJQAAAAAAENQdjNmPALIE6YAJmOz4Qn7/wAARCABAAEADASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn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' width='300' />](https://ui.glass/generator/)
+[<img src='https://ui.glass/generator/static/og-image-17a128ad929c938ff99ce39e7d8d92bf.png' width='300' />](https://ui.glass/generator/)
 
 > Generate CSS and HTML components using the glassmorphism design specifications based on the Glass UI library.
 
@@ -555,7 +555,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [5. Blobmaker - Make organic SVG shapes for your next design](https://www.blobmaker.app/)
 
-[<img src='https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=142149&theme=dark&period=daily' width='300' />](https://www.blobmaker.app/)
+[<img src='https://www.blobmaker.app/static/blobmaker-cover-703617855c36334d464a0690d71f7a75.jpg' width='300' />](https://www.blobmaker.app/)
 
 > Make organic SVG shapes for your next design. Modify the complexity, contrast, and color, to generate unique SVG blobs every time.
 
@@ -573,7 +573,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [7. cssFilters.co - Custom and Instagram like photo filters for CSS](https://www.cssfilters.co/)
 
-[<img src='undefined' width='300' />](https://www.cssfilters.co/)
+[<img src='http://www.cssFilters.co/images/cssfilters.jpg' width='300' />](https://www.cssfilters.co/)
 
 > Visual playground for generating CSS for custom and Instagram like photo filters. Experiment with your own uploaded photo or select one from the Unsplash collection.
 
@@ -584,7 +584,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [1. Animista - CSS Animations on Demand](https://animista.net/)
 
-[<img src='https://animista.net/images/venezia-bw-square-02.jpg' width='300' />](https://animista.net/)
+[<img src='http://animista.net/animista-media-img.gif' width='300' />](https://animista.net/)
 
 > Animista is a CSS animation library and a place where you can play with a collection of ready-made CSS animations and download only those you will use.
 
@@ -595,7 +595,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [1. Superblocks | Save 100s of developer hours on internal tools](https://www.superblocks.com/)
 
-[<img src='https://assets-global.website-files.com/627d359d0e0aa265b7817bcf/627d359d0e0aa25f8b817c84_logo-bg.png' width='300' />](https://www.superblocks.com/)
+[<img src='https://superblocks-marketing-assets.s3.us-west-2.amazonaws.com/open-graph-image.png' width='300' />](https://www.superblocks.com/)
 
 > Superblocks is the fast, easy and secure way for developers to build custom internal tools fast. Connect your databases & APIs. Drag and drop UI components. Extend with Python or Javascript. Deploy in 1-click. Secure and Monitor using your favorite tools
 
@@ -604,7 +604,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [2. Budibase | Build internal tools in minutes, the easy way](https://budibase.com/)
 
-[<img src='https://res.cloudinary.com/daog6scxm/image/upload/v1631276453/logo/budibase-logo_sabjd9.webp' width='300' />](https://budibase.com/)
+[<img src='https://budibase.com/homepage-meta.png' width='300' />](https://budibase.com/)
 
 > Budibase is a modern, open source low-code platform for building modern internal applications in minutes.
 
@@ -613,7 +613,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [3. Retool | Build internal tools, remarkably fast.](https://retool.com/)
 
-[<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAABYlAAAWJQFJUiTwAAAB/ElEQVQoz21Sy24VMQydH+Yf+BBU2CCWcCWEWsQGvgAqwYIuWHYu7Z2ZvONXjGxmQEhEOopzHNvHcaaUyhPo+GGM8XqMcRKRExGdWmunWqvv/wMinpjZ0Vp7Q0Q3APB0Sim+DOuDns9nnedZl2XRWqujlKI5Z98PxBg1hOBorWnv3W0RUWb+OOWcnl0eH/T+/r5fLhcOIXDOmc2OMXKtlUspzhnMvyyLw3wpJWZm2BO+m1JKV8u6WhUiIjWYElO8bZsioqswztSbqjGG37MurAMrZGdmvvaEKSWtpRACeLAFGWdJAMDPxQOT7oFeqLamMWXdVf5NWErVlAuZE5C01Ob7YfcOGkvT3FmJ2e4qQHfuvGatJXPr3YpcTzGGq9JRL7HQ/LhppaHnS9CfS/QE5yVoQ9GQu85b1zFEtwKu1LpY19XUHwpvXCEiKCFSLUWHiLZWPcCWvdPxFCqsPx6b3s15f+vqE7bh7e9/PYUQX4SYrD3i35PyYXj7AG7bMMxWHXo3J0+I+wBN5bZtbH4ReT+FUl6tMWkDRuAhMoYAdKm1Sc5ZAOxH/F6AKDVHIWjOA6CUUiXGSHvCTxNhu+mt/WkRCb1Nu3BM9ICdu/E2ZQBFJG2Azts/FJGvEzM/F5Hvqvp5jHHLzLci8g+Mt918h01EO+f2FxH5NsZ4+wsylpR/KzV5UgAAAABJRU5ErkJggg==' width='300' />](https://retool.com/)
+[<img src='https://retool.com/og-image.png' width='300' />](https://retool.com/)
 
 > Retool is the fast way to build internal tools. Drag-and-drop our building blocks and connect them to your databases and APIs to build your own tools, instantly. Connects with Postgres, REST APIs, GraphQL, Firebase, Google Sheets, and more.  Built by developers, for developers. Trusted by startups and Fortune 500s. Sign up for free.
 
@@ -624,7 +624,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [1. GitHub - vasanthk/how-web-works: What happens behind the scenes when we type www.google.com in a browser?](https://github.com/vasanthk/how-web-works)
 
-[<img src='https://avatars.githubusercontent.com/u/3537278?s=48&v=4' width='300' />](https://github.com/vasanthk/how-web-works)
+[<img src='https://opengraph.githubassets.com/923065e87870971437d48a287070705c8dd6286e93e97c3c3cafb389d11f9bc3/vasanthk/how-web-works' width='300' />](https://github.com/vasanthk/how-web-works)
 
 > What happens behind the scenes when we type www.google.com in a browser? - GitHub - vasanthk/how-web-works: What happens behind the scenes when we type www.google.com in a browser?
 
@@ -633,7 +633,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [2. GitHub - kamranahmedse/developer-roadmap: Interactive roadmaps, guides and other educational content to help developers grow in their careers.](https://github.com/kamranahmedse/developer-roadmap)
 
-[<img src='https://avatars.githubusercontent.com/u/74408634?s=48&v=4' width='300' />](https://github.com/kamranahmedse/developer-roadmap)
+[<img src='https://opengraph.githubassets.com/dfd013695b1f9ff0e73e3b14d7facff05aed65e19929aa88d60f5835d45fbf8b/kamranahmedse/developer-roadmap' width='300' />](https://github.com/kamranahmedse/developer-roadmap)
 
 > Interactive roadmaps, guides and other educational content to help developers grow in their careers. - GitHub - kamranahmedse/developer-roadmap: Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
@@ -642,7 +642,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [3. GitHub - apptension/developer-handbook: An opinionated guide on how to become a professional Web/Mobile App Developer.](https://github.com/apptension/developer-handbook)
 
-[<img src='https://avatars.githubusercontent.com/u/4061253?s=48&v=4' width='300' />](https://github.com/apptension/developer-handbook)
+[<img src='https://opengraph.githubassets.com/b2de87d9d9350a29809b41d448caa2326fe224412775af58e7f9289668c87508/apptension/developer-handbook' width='300' />](https://github.com/apptension/developer-handbook)
 
 > An opinionated guide on how to become a professional Web/Mobile App Developer. - GitHub - apptension/developer-handbook: An opinionated guide on how to become a professional Web/Mobile App Developer.
 
@@ -651,7 +651,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [4. ProfileMe.dev | Create an amazing GitHub profile in minutes](https://www.profileme.dev/)
 
-[<img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/screenshot.png' width='300' />](https://www.profileme.dev/)
+[<img src='http://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/social-image.jpg' width='300' />](https://www.profileme.dev/)
 
 > ProfileMe.dev | Create an amazing GitHub profile in minutes
 
@@ -660,7 +660,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [5. GitHub - Kristories/awesome-guidelines: A curated list of high quality coding style conventions and standards.](https://github.com/Kristories/awesome-guidelines)
 
-[<img src='https://camo.githubusercontent.com/a1f2219dea1f79426a0158cfa13c815c8df2d9905fbd9ffb04c04768a91a29dd/68747470733a2f2f617765736f6d652d67756964656c696e65732e636f6d2f6173736574732f696d672f636f7665722e676966' width='300' />](https://github.com/Kristories/awesome-guidelines)
+[<img src='https://repository-images.githubusercontent.com/97054975/e4621f95-3b09-48d7-85e4-244cdbd98bba' width='300' />](https://github.com/Kristories/awesome-guidelines)
 
 > A curated list of high quality coding style conventions and standards. - GitHub - Kristories/awesome-guidelines: A curated list of high quality coding style conventions and standards.
 
@@ -669,7 +669,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [6. GitHub - tiimgreen/github-cheat-sheet: A list of cool features of Git and GitHub.](https://github.com/tiimgreen/github-cheat-sheet)
 
-[<img src='https://avatars.githubusercontent.com/u/4130574?s=48&v=4' width='300' />](https://github.com/tiimgreen/github-cheat-sheet)
+[<img src='https://opengraph.githubassets.com/2b560f036b6aadd620239848d594d31b2a89342ea9b714fa5025cfd345f025d3/tiimgreen/github-cheat-sheet' width='300' />](https://github.com/tiimgreen/github-cheat-sheet)
 
 > A list of cool features of Git and GitHub. Contribute to tiimgreen/github-cheat-sheet development by creating an account on GitHub.
 
@@ -678,7 +678,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [7. GitHub - andreasbm/web-skills: A visual overview of useful skills to learn as a web developer](https://github.com/andreasbm/web-skills)
 
-[<img src='https://raw.githubusercontent.com/andreasbm/web-skills/master/demo.gif' width='300' />](https://github.com/andreasbm/web-skills)
+[<img src='https://repository-images.githubusercontent.com/211665033/d4029500-7348-11ea-872d-bfaaba8e0978' width='300' />](https://github.com/andreasbm/web-skills)
 
 > A visual overview of useful skills to learn as a web developer - GitHub - andreasbm/web-skills: A visual overview of useful skills to learn as a web developer
 
@@ -687,7 +687,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [8. GitHub - Ebazhanov/linkedin-skill-assessments-quizzes: Full reference of LinkedIn answers 2022 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test questions and answers](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
 
-[<img src='https://avatars.githubusercontent.com/u/32429264?s=48&v=4' width='300' />](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
+[<img src='https://repository-images.githubusercontent.com/196760810/15be417c-11ad-487a-82df-438f3560b77c' width='300' />](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
 
 > Full reference of LinkedIn answers 2022 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test questions and answers  - GitHub - Ebazhanov/linkedin-skill-assessments-quizzes: Full reference of LinkedIn answers 2022 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test questions and answers
 
@@ -698,7 +698,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [1. Dashboards](https://dune.com/)
 
-[<img src='https://dune.com/assets/glyph-128w.png' width='300' />](https://dune.com/)
+[<img src='https://dune.com/assets/poster-1440w.png' width='300' />](https://dune.com/)
 
 > Blockchain ecosystem analytics by and for the community. Explore and share data from Ethereum, xDai, Polygon, Optimism, BSC and Solana for free.
 
@@ -716,7 +716,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [3. Crypto & Fiat Exchange Super App | Trade, Save & Spend | hi](https://hi.com/)
 
-[<img src='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAiIGhlaWdodD0iMTgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+' width='300' />](https://hi.com/)
+[<img src='https://www.hi.com/images/websitePreview/Landing.png' width='300' />](https://hi.com/)
 
 > Buy, Trade, Send and Earn Crypto & Fiat. Deposit Bitcoin, ETH, USDT and other cryptos and start earning. Get the hi Debit Card and Multi-Currency IBAN Account.
 
@@ -725,7 +725,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [4. Moralis Web3 - Enterprise-Grade Web3 APIs](https://moralis.io/)
 
-[<img src='https://moralis.io/wp-content/uploads/2022/05/moralisGoogleLogoPromo.png' width='300' />](https://moralis.io/)
+[<img src='https://moralis.io/wp-content/uploads/2022/10/moralisBlockchainPreview2.jpg' width='300' />](https://moralis.io/)
 
 > Bridge the development gap between Web2 and Web3 with Moralis’ powerful Web3 APIs.
 
@@ -734,7 +734,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [5. Mirror](https://mirror.xyz/)
 
-[<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' width='300' />](https://mirror.xyz/)
+[<img src='https://mirror.xyz/images/social.png' width='300' />](https://mirror.xyz/)
 
 > Built on web3 for web3, Mirror’s robust publishing platform pushes the boundaries of writing online—whether it’s the next big white paper or a weekly community update.
 
@@ -752,7 +752,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [7. Sholi — software for Investors & Traders / Sholi MetriX](https://sholi.io/)
 
-[<img src='undefined' width='300' />](https://sholi.io/)
+[<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width='300' />](https://sholi.io/)
 
 > Sholi — software for Investors & Traders / Sholi MetriX
 
@@ -801,7 +801,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [3. Competitive Programming | Participate & Learn | CodeChef](https://www.codechef.com/)
 
-[<img src='https://cdn.codechef.com/images/cc-logo.svg' width='300' />](https://www.codechef.com/)
+[<img src='https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png' width='300' />](https://www.codechef.com/)
 
 > Learn competitive programming with the help of CodeChef's coding competitions. Take part in these online coding contests to level up your skills
 
@@ -810,7 +810,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [4. Learn to Code - for Free | Codecademy](https://www.codecademy.com/)
 
-[<img src='https://www.codecademy.com/webpack/bd870120b390f25da8a6b059020cd183.jpg' width='300' />](https://www.codecademy.com/)
+[<img src='https://images.codecademy.com/social/logo-codecademy-social.png' width='300' />](https://www.codecademy.com/)
 
 > Learn the technical skills to get the job you want. Join over 50 million people choosing Codecademy to start a new career (or advance in their current one).
 
@@ -819,7 +819,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [5. Free Code Camp](https://www.freecodecamp.org/)
 
-[<img src='undefined' width='300' />](https://www.freecodecamp.org/)
+[<img src='https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png' width='300' />](https://www.freecodecamp.org/)
 
 > Learn to Code — For Free
 
@@ -828,7 +828,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [6. Sololearn: Learn to Code](https://www.sololearn.com/home)
 
-[<img src='https://sololearnuploads.azureedge.net/uploads/courses/1073.png' width='300' />](https://www.sololearn.com/home)
+[<img src='https://blob.sololearn.com/avatars/sololearn.png' width='300' />](https://www.sololearn.com/home)
 
 > Join Now to learn the basics or advance your existing skills
 
@@ -837,7 +837,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [7. Mimo: The coding app you need to learn to code! Python, HTML, JavaScript](https://getmimo.com/)
 
-[<img src='data:image/svg+xml;charset=utf-8,%3Csvg height='2021.9999999999998' width='1128' xmlns='http://www.w3.org/2000/svg' version='1.1'%3E%3C/svg%3E' width='300' />](https://getmimo.com/)
+[<img src='https://getmimo.com/assets/link_image_twitter.png' width='300' />](https://getmimo.com/)
 
 > Join more than 17 million learners worldwide. Learn to code for free. Learn Python, JavaScript, CSS, SQL, HTML, and more with our free code learning app.
 
@@ -855,7 +855,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [9. Your Career in Web Development Starts Here | The Odin Project](https://www.theodinproject.com/)
 
-[<img src='https://www.theodinproject.com/assets/icons/odin-icon-b5b31c073f7417a257003166c98cc23743654715305910c068b93a3bf4d3065d.svg' width='300' />](https://www.theodinproject.com/)
+[<img src='https://www.theodinproject.com/assets/og-logo-022832d4cefeec1d5266237be260192f5980f9bcbf1c9ca151b358f0ce1fd2df.png' width='300' />](https://www.theodinproject.com/)
 
 > The Odin Project empowers aspiring web developers to learn together for free
 
@@ -866,7 +866,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [1. CheckiO - coding games and programming challenges for beginner and advanced](https://checkio.org/)
 
-[<img src='https://d2l28oe7yi95h7.cloudfront.net/imgv3/dots__one.png' width='300' />](https://checkio.org/)
+[<img src='https://d2l28oe7yi95h7.cloudfront.net/img/share.jpg' width='300' />](https://checkio.org/)
 
 > CheckiO - coding websites and programming games. Improve your coding skills by solving coding challenges and exercises online with your friends in a fun way. Exchanges experience with other users online through fun coding activities
 
@@ -875,7 +875,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [2. Coding for Kids | Game-Based Programming | CodeMonkey](https://www.codemonkey.com/)
 
-[<img src='data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%2031'%3E%3C/svg%3E' width='300' />](https://www.codemonkey.com/)
+[<img src='https://s3-us-west-2.amazonaws.com/cm-wordpress-media/wp-content/uploads/2018/06/12113810/CodeMonkey-Square-Logo.png' width='300' />](https://www.codemonkey.com/)
 
 > CodeMonkey is a leading coding for kids program. Through its award-winning courses, millions of students learn how to code in real programming languages.
 
@@ -884,7 +884,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [3. Coding Games and Programming Challenges to Code Better](https://www.codingame.com/)
 
-[<img src='undefined' width='300' />](https://www.codingame.com/)
+[<img src='https://files.codingame.com/codingame/codingame_share_pics.jpg' width='300' />](https://www.codingame.com/)
 
 > CodinGame is a challenge-based training platform for programmers where you can play with the hottest programming topics. Solve games, code AI bots, learn from your peers, have fun.
 
@@ -893,7 +893,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [4. Learn VIM while playing a game - VIM Adventures](https://vim-adventures.com/)
 
-[<img src='undefined' width='300' />](https://vim-adventures.com/)
+[<img src='https://vim-adventures.com/images/FB%20Site%20Thumbnail%201.jpg' width='300' />](https://vim-adventures.com/)
 
 > VIM Adventures is an online game based on VIM's keyboard shortcuts. It's the "Zelda meets text editing" game. So come have some fun and learn some VIM!
 
@@ -902,7 +902,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [5. CodeCombat - Coding games to learn Python and JavaScript](https://codecombat.com/)
 
-[<img src='https://codecombat.dexecure.net/images/pages/home-v2/graphic-8.png' width='300' />](https://codecombat.com/)
+[<img src='https://codecombat.com/images/pages/home/play_img.png' width='300' />](https://codecombat.com/)
 
 > Learn typed code through a programming game. Learn Python, JavaScript, and HTML as you solve puzzles and learn to make your own coding games and websites.
 
@@ -913,7 +913,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [1. Useberry - Codeless prototype analytics](https://www.useberry.com/)
 
-[<img src='https://www.useberry.com/images/close.svg' width='300' />](https://www.useberry.com/)
+[<img src='https://www.useberry.com/wp-content/uploads/2022/04/Share-Screen-Updated-1.png' width='300' />](https://www.useberry.com/)
 
 > User testing feedback & rich insights in minutes, not months!
 
@@ -922,7 +922,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [2. Figma: the collaborative interface design tool.](https://www.figma.com/)
 
-[<img src='https://cdn.sanity.io/images/599r6htc/localized/3e7c45b33de8d6a1ff1bf9952c4b1c423f079f88-240x120.svg?q=75&fit=max&auto=format' width='300' />](https://www.figma.com/)
+[<img src='https://cdn.sanity.io/images/599r6htc/localized/0ee4e52ec34a1aef92e1b2bb7e29820685083b3e-2400x1260.png?w=1200&q=70&fit=max&auto=format' width='300' />](https://www.figma.com/)
 
 > Build better products as a team. Design, prototype, and gather feedback all in one place with Figma.
 
@@ -949,7 +949,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [5. Toools.design – An archive of 1000+ Design Resources](https://www.toools.design/)
 
-[<img src='https://uploads-ssl.webflow.com/5ce10a4c0b5f0b05f522e746/633701e39b4c607d4375f447_toools-logo-dark.svg' width='300' />](https://www.toools.design/)
+[<img src='https://uploads-ssl.webflow.com/5ce10a4c0b5f0b05f522e746/628794875a8618530c52cbbf_toools-design-open-graph-image.jpg' width='300' />](https://www.toools.design/)
 
 > A growing archive of over a thousand design resources, weekly updated for the community. Discover highly useful design tools you never thought existed.
 
@@ -958,7 +958,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [6. All Online Tools in One Box | 10015 Tools](https://10015.io/)
 
-[<img src='https://10015.io/brand/logo-on-light.svg' width='300' />](https://10015.io/)
+[<img src='https://10015.io/og-image.jpg' width='300' />](https://10015.io/)
 
 > All online tools you need in one box for free. Build anything online with “all-in-one toolbox”. All tools are easy-to-use, blazing fast & free.
 
@@ -967,7 +967,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [7. Phase - Digital Design Reinvented| Phase](https://phase.com/)
 
-[<img src='https://phase.com/wp-content/themes/Phase/assets/img/home/hero-triangle.svg' width='300' />](https://phase.com/)
+[<img src='https://phase.com/wp-content/uploads/2018/06/1-1.png' width='300' />](https://phase.com/)
 
 > Design and prototype websites and apps visually and intuitively, in a new powerful product reworked for the digital age.
 
@@ -976,7 +976,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [8. Animated Backgrounds](https://animatedbackgrounds.me/)
 
-[<img src='undefined' width='300' />](https://animatedbackgrounds.me/)
+[<img src='https://tlgur.com/d/4x5ezZ98' width='300' />](https://animatedbackgrounds.me/)
 
 > A Collection of 30+ animated backgrounds for websites and blogs.With Animated Backgrounds, set a simple, elegant background animations on your websites and blogs.
 
@@ -985,7 +985,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [9. Trianglify.io · Low Poly Pattern Generator](https://trianglify.io/)
 
-[<img src='undefined' width='300' />](https://trianglify.io/)
+[<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width='300' />](https://trianglify.io/)
 
 > Trianglify.io is a tool for generating low poly triangle patterns that can be used as wallpapers and website assets.
 
@@ -994,7 +994,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [10. Cool Backgrounds](https://coolbackgrounds.io/)
 
-[<img src='https://coolbackgrounds.io/images/triangle-599b74c7.svg' width='300' />](https://coolbackgrounds.io/)
+[<img src='https://coolbackgrounds.io/images/cool-backgrounds-072ec71a.png' width='300' />](https://coolbackgrounds.io/)
 
 > Explore a beautifully curated selection of cool backgrounds that you can add to blogs, websites, or as desktop and phone wallpapers.
 
@@ -1003,7 +1003,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [11. SVG Repo - Free SVG Vectors and Icons](https://www.svgrepo.com/)
 
-[<img src='data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAxNi4wLjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4wLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL1RSLzIwMDEvUkVDLVNWRy0yMDAxMDkwNC9EVEQvc3ZnMTAuZHRkIj4NCjxzdmcgdmVyc2lvbj0iMS4wIiBpZD0iTGF5ZXJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiDQoJIHdpZHRoPSI3M3B4IiBoZWlnaHQ9IjIyLjEyNXB4IiB2aWV3Qm94PSIwIDAgNzMgMjIuMTI1IiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCA3MyAyMi4xMjUiIHhtbDpzcGFjZT0icHJlc2VydmUiPg0KPHJlY3QgeD0iNTQuMzk2IiB5PSIwLjU2MyIgZmlsbD0iIzZCOUJEMiIgd2lkdGg9IjE4LjAyMSIgaGVpZ2h0PSIyMS4xMDQiLz4NCjxnPg0KCTxwYXRoIGZpbGw9IiM1NzU4ODAiIGQ9Ik0wLjQ2NywxOC43NDhjMCwwLjAxNywwLjEyNS0wLjE0MywwLjM3NC0wLjQ3OWMwLjI0OS0wLjMzNCwwLjUyOS0wLjcsMC44MzgtMS4wOTYNCgkJYzAuMzYxLTAuNDY0LDAuNzc0LTAuOTg5LDEuMjM4LTEuNTc0YzAuNDY0LDAuMzI3LDAuOTM4LDAuNjE5LDEuNDE5LDAuODc3YzAuNDEzLDAuMjI0LDAuODYsMC40MjIsMS4zNDIsMC41OTMNCgkJYzAuNDgxLDAuMTcyLDAuOTM4LDAuMjU4LDEuMzY4LDAuMjU4YzAuMjU4LDAsMC41Mi0wLjAzOSwwLjc4Ny0wLjExNmMwLjI2Ny0wLjA3NywwLjUwNy0wLjE4NSwwLjcyMy0wLjMyMg0KCQljMC4yMTUtMC4xMzgsMC4zOTEtMC4zMDEsMC41MjktMC40OWMwLjEzNy0wLjE4OSwwLjIwNi0wLjM5NiwwLjIwNi0wLjYxOWMwLTAuNTMzLTAuMzAxLTEuMDAyLTAuOTAzLTEuNDA2DQoJCWMtMC42MDItMC40MDQtMS4zNDEtMC43NzgtMi4yMTktMS4xMjNjLTAuNTUxLTAuMjIzLTEuMTIyLTAuNTAzLTEuNzE2LTAuODM4Yy0wLjU5My0wLjMzNS0xLjEzNS0wLjczOS0xLjYyNS0xLjIxMg0KCQljLTAuNDktMC40NzMtMC44OS0xLjAxOS0xLjItMS42MzljLTAuMzEtMC42MTktMC40NjQtMS4zMTUtMC40NjQtMi4wODljMC0wLjc0LDAuMTI1LTEuNDQ1LDAuMzc1LTIuMTE2DQoJCWMwLjI0OS0wLjY3MSwwLjYyMy0xLjI2NCwxLjEyMi0xLjc4YzAuNDk5LTAuNTE2LDEuMTE4LTAuOTI0LDEuODU3LTEuMjI2QzUuMjU3LDIuMDUxLDYuMTI1LDEuOSw3LjEyMywxLjkNCgkJYzAuNzc0LDAsMS40NzksMC4wOTUsMi4xMTYsMC4yODRjMC42MzYsMC4xODksMS4yMTIsMC40MTMsMS43MjksMC42NzFjMC41MTYsMC4yNTgsMC45NjIsMC41MjksMS4zNDEsMC44MTMNCgkJYzAuMzc4LDAuMjg0LDAuNjk3LDAuNTIxLDAuOTU1LDAuNzA5TDEwLjg5LDcuNjAyYy0wLjA1MS0wLjAzNC0wLjIwMi0wLjE0Mi0wLjQ1MS0wLjMyM2MtMC4yNS0wLjE4MS0wLjU1NS0wLjM3LTAuOTE2LTAuNTY3DQoJCVM4Ljc1Nyw2LjMzMyw4LjMxLDYuMTdDNy44NjIsNi4wMDcsNy4zOTgsNS45MjUsNi45MTcsNS45MjVjLTAuNDY0LDAtMC44NjksMC4xMjUtMS4yMTIsMC4zNzRjLTAuMzQ0LDAuMjUtMC41MTYsMC41NDYtMC41MTYsMC44OQ0KCQljMCwwLjQ4MiwwLjIyOCwwLjkxNiwwLjY4NCwxLjMwM2MwLjQ1NiwwLjM4NywxLjIsMC43ODcsMi4yMzIsMS4yYzAuNDk5LDAuMjA2LDEuMDUzLDAuNDY0LDEuNjY0LDAuNzc0DQoJCWMwLjYxLDAuMzEsMS4xNzgsMC42OTYsMS43MDMsMS4xNjFjMC41MjQsMC40NjQsMC45NjMsMS4wMTksMS4zMTYsMS42NjRzMC41MjksMS40MDYsMC41MjksMi4yODNjMCwwLjY3MS0wLjEzOSwxLjM0Ni0wLjQxMywyLjAyNQ0KCQljLTAuMjc1LDAuNjgtMC42NzYsMS4yOTktMS4yLDEuODU3Yy0wLjUyNSwwLjU1OS0xLjE2NiwxLjAxNi0xLjkyMiwxLjM2N2MtMC43NTcsMC4zNTMtMS42MDgsMC41MjktMi41NTQsMC41MjkNCgkJYy0wLjg0MywwLTEuNjQ3LTAuMTEyLTIuNDEyLTAuMzM2QzQuMDQ4LDIwLjc5NSwzLjM2LDIwLjUzMiwyLjc1LDIwLjIzYy0wLjYxMS0wLjMwMS0xLjExOC0wLjU5My0xLjUyMi0wLjg3Nw0KCQlDMC44MjMsMTkuMDcsMC41NywxOC44NjgsMC40NjcsMTguNzQ4eiIvPg0KCTxwYXRoIGZpbGw9IiM1NzU4ODAiIGQ9Ik0xNS41ODYsMi41OTdoNC40NjNsNC4yODMsOS44MDRsNC4yODMtOS44MDRoNC40NjNsLTguNzQ2LDE4Ljc4MkwxNS41ODYsMi41OTd6Ii8+DQoJPHBhdGggZmlsbD0iIzU3NTg4MCIgZD0iTTUwLjY3NCwxNC42NDZjLTAuMDg2LDEuMjU1LTAuNDM4LDIuMzc0LTEuMDU4LDMuMzU0Yy0wLjI1OCwwLjQxMy0wLjU5LDAuODIxLTAuOTkzLDEuMjI1DQoJCWMtMC40MDQsMC40MDQtMC45MDMsMC43NjYtMS40OTYsMS4wODRjLTAuNTk0LDAuMzE4LTEuMjksMC41NzEtMi4wOSwwLjc2MXMtMS43MjUsMC4yODQtMi43NzQsMC4yODQNCgkJYy0xLjM0MSwwLTIuNjAyLTAuMjU0LTMuNzc5LTAuNzYyYy0xLjE3OS0wLjUwNy0yLjIwNy0xLjIwMy0zLjA4OC0yLjA5Yy0wLjg4MS0wLjg4NS0xLjU3My0xLjkxNy0yLjA3Ny0zLjA5Ng0KCQljLTAuNTA0LTEuMTc4LTAuNzU2LTIuNDM4LTAuNzU2LTMuNzc5YzAtMS4zNDIsMC4yNTItMi42MDIsMC43NTYtMy43OHMxLjE5Ni0yLjIxLDIuMDc3LTMuMDk2YzAuODgxLTAuODg2LDEuOTA5LTEuNTgyLDMuMDg4LTIuMDkNCgkJQzM5LjY2MSwyLjE1NCw0MC45MjIsMS45LDQyLjI2MywxLjljMS4zNDIsMCwyLjYwMiwwLjI1NywzLjc4LDAuNzdjMS4xNzgsMC41MTMsMi4yMDYsMS4yMDUsMy4wODMsMi4wNzZsLTIuODM4LDIuODMxDQoJCWMtMC41MTctMC40OTktMS4xMTgtMC44OTgtMS44MDYtMS4yYy0wLjY4OC0wLjMwMS0xLjQyOS0wLjQ1Mi0yLjIyLTAuNDUycy0xLjUzLDAuMTQ3LTIuMjE5LDAuNDQxDQoJCWMtMC42ODgsMC4yOTQtMS4yOSwwLjctMS44MDYsMS4yMThjLTAuNTE2LDAuNTE4LTAuOTIsMS4xMjMtMS4yMTMsMS44MTRjLTAuMjkyLDAuNjkxLTAuNDM4LDEuNDM0LTAuNDM4LDIuMjI5DQoJCXMwLjE0NiwxLjUzOCwwLjQzOCwyLjIyOWMwLjI5MywwLjY5MSwwLjY5NywxLjI5NiwxLjIxMywxLjgxNGMwLjUxNiwwLjUxOSwxLjExOCwwLjkyNCwxLjgwNiwxLjIxOA0KCQljMC42ODgsMC4yOTQsMS40MjgsMC40NDEsMi4yMTksMC40NDFjMS4xMDEsMCwxLjk0OC0wLjEzOSwyLjU0Mi0wLjQxN2MwLjU5My0wLjI3OCwxLjAyNy0wLjU5LDEuMzAzLTAuOTM4DQoJCWMwLjMxLTAuMzk5LDAuNDktMC44NTEsMC41NDItMS4zNTRoLTQuMzg3di00LjAyNWg4LjQxMVYxNC42NDZ6Ii8+DQo8L2c+DQo8Zz4NCgk8cGF0aCBmaWxsPSIjRjdGN0Y3IiBkPSJNNTkuNTYzLDguMDUzaC0wLjc0djIuMDNoLTEuNTZ2LTdoMy4wNWMwLjM0LDAsMC42NjIsMC4wNjUsMC45NjUsMC4xOTVzMC41NjYsMC4zMDcsMC43OSwwLjUyOQ0KCQljMC4yMjQsMC4yMjQsMC4zOTksMC40ODcsMC41MywwLjc5YzAuMTMsMC4zMDQsMC4xOTUsMC42MjUsMC4xOTUsMC45NjZjMCwwLjI2Ny0wLjA0MSwwLjUyLTAuMTIxLDAuNzZzLTAuMTg5LDAuNDYyLTAuMzMsMC42NjUNCgkJYy0wLjEzOSwwLjIwMy0wLjMwNywwLjM4My0wLjUsMC41NGMtMC4xOTMsMC4xNTYtMC40MDYsMC4yNzgtMC42MzksMC4zNjRsMS41OSwyLjE5aC0xLjkyTDU5LjU2Myw4LjA1M3ogTTU4LjgyMiw2LjU4M2gxLjQ5DQoJCWMwLjE0MSwwLDAuMjcxLTAuMDI2LDAuMzk1LTAuMDhjMC4xMjMtMC4wNTMsMC4yMzItMC4xMjcsMC4zMjYtMC4yMmMwLjA5My0wLjA5NCwwLjE2Ni0wLjIwMiwwLjIxOS0wLjMyNQ0KCQljMC4wNTQtMC4xMjMsMC4wOC0wLjI1NSwwLjA4LTAuMzk1YzAtMC4yNjEtMC4wODgtMC40ODUtMC4yNjUtMC42NzZjLTAuMTc3LTAuMTg5LTAuMzg4LTAuMzAxLTAuNjM1LTAuMzM1aC0xLjYxVjYuNTgzeiIvPg0KPC9nPg0KPGc+DQoJPHBhdGggZmlsbD0iI0Y3RjdGNyIgZD0iTTY2LjY1Niw4LjUyM2gzLjI2N3YxLjU2aC00Ljk4OXYtN2g0Ljk4OXYxLjU2aC0zLjI2N3YxLjA5MWgyLjcyN3YxLjU2aC0yLjcyN1Y4LjUyM3oiLz4NCjwvZz4NCjxnPg0KCTxwYXRoIGZpbGw9IiNGN0Y3RjciIGQ9Ik02Mi41ODQsMTQuODk3YzAsMC4zNC0wLjA2NCwwLjY2MS0wLjE5NSwwLjk2NWMtMC4xMywwLjMwMy0wLjMwNywwLjU2OC0wLjUyOSwwLjc5NQ0KCQljLTAuMjI0LDAuMjI3LTAuNDg3LDAuNDA0LTAuNzkxLDAuNTM1Yy0wLjMwMywwLjEzLTAuNjI1LDAuMTk0LTAuOTY1LDAuMTk0aC0xLjQ5djIuMDNoLTEuNTU5di03aDMuMDQ5DQoJCWMwLjM0LDAsMC42NjIsMC4wNjUsMC45NjUsMC4xOTVjMC4zMDQsMC4xMywwLjU2NywwLjMwNywwLjc5MSwwLjUyOWMwLjIyMywwLjIyNCwwLjM5OSwwLjQ4NywwLjUyOSwwLjc5DQoJCUM2Mi41MiwxNC4yMzUsNjIuNTg0LDE0LjU1Nyw2Mi41ODQsMTQuODk3eiBNNTguNjEzLDE1LjkxN2gxLjQ5YzAuMTQxLDAsMC4yNzEtMC4wMjYsMC4zOTYtMC4wOA0KCQljMC4xMjMtMC4wNTMsMC4yMzEtMC4xMjcsMC4zMjUtMC4yMmMwLjA5NC0wLjA5NCwwLjE2Ni0wLjIwMiwwLjIyLTAuMzI1czAuMDgtMC4yNTUsMC4wOC0wLjM5NWMwLTAuMjYxLTAuMDg5LTAuNDg1LTAuMjY1LTAuNjc2DQoJCWMtMC4xNzgtMC4xODktMC4zODktMC4zMDEtMC42MzUtMC4zMzVoLTEuNjExVjE1LjkxN3oiLz4NCjwvZz4NCjxnPg0KCTxwYXRoIGZpbGw9IiNGN0Y3RjciIGQ9Ik02NC4xNTYsMTUuODIzYzAtMC41MTcsMC4wODgtMC45OTksMC4yNjYtMS40NWMwLjE3OC0wLjQ1LDAuNDItMC44NDIsMC43MjctMS4xNzVzMC42NjYtMC41OTYsMS4wNzgtMC43ODkNCgkJYzAuNDEyLTAuMTkyLDAuODU0LTAuMjg5LDEuMzIyLTAuMjg5YzAuNDc3LDAsMC45MjIsMC4wOTcsMS4zMzYsMC4yODljMC40MTYsMC4xOTMsMC43NzcsMC40NTYsMS4wODQsMC43ODkNCgkJczAuNTQ5LDAuNzI1LDAuNzI3LDEuMTc1YzAuMTc4LDAuNDUxLDAuMjY2LDAuOTM0LDAuMjY2LDEuNDVjMCwwLjUwOS0wLjA4OCwwLjk4Ny0wLjI2NiwxLjQzNXMtMC40MiwwLjgzOC0wLjcyNywxLjE3MQ0KCQlzLTAuNjY4LDAuNTk2LTEuMDg0LDAuNzg4Yy0wLjQxNCwwLjE5Mi0wLjg1OSwwLjI4OS0xLjMzNiwwLjI4OWMtMC40NjksMC0wLjkxLTAuMDk3LTEuMzIyLTAuMjg5cy0wLjc3MS0wLjQ1NS0xLjA3OC0wLjc4OA0KCQlzLTAuNTQ5LTAuNzI0LTAuNzI3LTEuMTcxUzY0LjE1NiwxNi4zMzIsNjQuMTU2LDE1LjgyM3ogTTY1LjU2NiwxNS44MjNjMCwwLjMwMiwwLjA1MywwLjU4NCwwLjE1OCwwLjg0Ng0KCQljMC4xMDUsMC4yNjMsMC4yNDgsMC40OSwwLjQyNiwwLjY4NGMwLjE3OCwwLjE5NCwwLjM4OSwwLjM0NywwLjYyOSwwLjQ1OGMwLjI0MiwwLjExMSwwLjQ5OCwwLjE2NywwLjc3LDAuMTY3DQoJCWMwLjI3OSwwLDAuNTM5LTAuMDU2LDAuNzg1LTAuMTY3YzAuMjQ0LTAuMTExLDAuNDU3LTAuMjY0LDAuNjM3LTAuNDU4YzAuMTgyLTAuMTkzLDAuMzI0LTAuNDIxLDAuNDI2LTAuNjg0DQoJCWMwLjEwNC0wLjI2MiwwLjE1NC0wLjU0NCwwLjE1NC0wLjg0NnMtMC4wNTEtMC41ODQtMC4xNTQtMC44NDdjLTAuMTAyLTAuMjYyLTAuMjQ0LTAuNDkyLTAuNDI2LTAuNjg4DQoJCWMtMC4xOC0wLjE5Ny0wLjM5My0wLjM1My0wLjYzNy0wLjQ2OGMtMC4yNDYtMC4xMTQtMC41MDYtMC4xNzItMC43ODUtMC4xNzJjLTAuMjcxLDAtMC41MjcsMC4wNTgtMC43NywwLjE3Mg0KCQljLTAuMjQsMC4xMTUtMC40NTEsMC4yNzEtMC42MjksMC40NjhjLTAuMTc4LDAuMTk2LTAuMzIsMC40MjctMC40MjYsMC42ODhDNjUuNjE5LDE1LjIzOSw2NS41NjYsMTUuNTIxLDY1LjU2NiwxNS44MjN6Ii8+DQo8L2c+DQo8Zz4NCjwvZz4NCjxnPg0KPC9nPg0KPGc+DQo8L2c+DQo8Zz4NCjwvZz4NCjxnPg0KPC9nPg0KPGc+DQo8L2c+DQo8Zz4NCjwvZz4NCjxnPg0KPC9nPg0KPGc+DQo8L2c+DQo8L3N2Zz4NCg==' width='300' />](https://www.svgrepo.com/)
+[<img src='https://www.svgrepo.com/img/logo.svg' width='300' />](https://www.svgrepo.com/)
 
 > Free Vectors and Icons in SVG format. ✅ Download free mono or multi color vectors for commercial use. Search in 300.000+ Free SVG Vectors and Icons.
 
@@ -1012,7 +1012,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [12. Microcopy - Short copy text for your website.](https://www.microcopy.me/)
 
-[<img src='https://uploads-ssl.webflow.com/60f2ca55bf9eee1b5bd31b15/60f2ce26e2e57d6d7c27b657_logo.svg' width='300' />](https://www.microcopy.me/)
+[<img src='https://uploads-ssl.webflow.com/60f2ca55bf9eee1b5bd31b15/6103e93178ceb790793ce448_ogimage.jpg' width='300' />](https://www.microcopy.me/)
 
 > Search micro UX copy text: slogans, headlines, notifications, CTA, error messages, email, account preferences, and much more.
 
@@ -1039,7 +1039,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [15. GIMP - GNU Image Manipulation Program](https://www.gimp.org/)
 
-[<img src='https://www.gimp.org/images/wilbericon.svg' width='300' />](https://www.gimp.org/)
+[<img src='https://www.gimp.org/images/frontpage/wilber-big.png' width='300' />](https://www.gimp.org/)
 
 > GIMP - The GNU Image Manipulation Program: The Free and Open Source Image Editor
 
@@ -1048,7 +1048,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [16. blender.org - Home of the Blender project - Free and Open 3D Creation Software](https://www.blender.org/)
 
-[<img src='https://www.blender.org/wp-content/uploads/2022/07/bcon22_borg.jpg' width='300' />](https://www.blender.org/)
+[<img src='https://www.blender.org/wp-content/uploads/2022/08/piotr-krynski-scanislands-blender-33lts-crop-480x270.jpg' width='300' />](https://www.blender.org/)
 
 > The Freedom to Create
 
@@ -1057,7 +1057,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [17. 3D Design Software | 3D Modeling on the Web | SketchUp](https://www.sketchup.com/)
 
-[<img src='https://www.sketchup.com/themes/sketchup_www_terra/assets/trimble-logo.svg?v2' width='300' />](https://www.sketchup.com/)
+[<img src='https://www.sketchup.com/sites/www.sketchup.com/files/opengraph/su-opengraph.jpg' width='300' />](https://www.sketchup.com/)
 
 > SketchUp is a premier 3D design software that truly makes 3D modeling for everyone, with a simple to learn yet robust toolset that empowers you to create whatever you can imagine.
 
@@ -1075,7 +1075,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [19. All your design tools in one place | Renderforest](https://www.renderforest.com/)
 
-[<img src='https://static.rfstat.com/renderforest/images/v2/new-homepage/illustration_header_left.svg' width='300' />](https://www.renderforest.com/)
+[<img src='https://static.rfstat.com/renderforest/images/v2/logos/og-image.png' width='300' />](https://www.renderforest.com/)
 
 > Time to get your brand noticed. Create professional videos, logos, mockups, websites, and graphics — all in one place. Get started now!
 
@@ -1102,7 +1102,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [22. DreamFusion: Text-to-3D using 2D Diffusion](https://dreamfusion3d.github.io/)
 
-[<img src='undefined' width='300' />](https://dreamfusion3d.github.io/)
+[<img src='https://dreamfusion3d.github.io/assets/images/dreamfusion_samples.png' width='300' />](https://dreamfusion3d.github.io/)
 
 > DreamFusion: Text-to-3D using 2D Diffusion, 2022.
 
@@ -1120,7 +1120,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [24. Super designer | Create beautiful designs with a few clicks](https://superdesigner.co/)
 
-[<img src='https://superdesigner.co/logo.svg' width='300' />](https://superdesigner.co/)
+[<img src='https://superdesigner.co/og/og.png' width='300' />](https://superdesigner.co/)
 
 > Create beautiful designs with a few clicks. Simple design tools to generate unique patterns, backgrounds, 3D shapes, colors & images for social media, websites and more
 
@@ -1129,7 +1129,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [25. Readymag—a design tool to create websites without coding](https://readymag.com/)
 
-[<img src='undefined' width='300' />](https://readymag.com/)
+[<img src='https://d3n32ilufxuvd1.cloudfront.net/56176d7d4ff02cd032e50c21/upload-28b2d698-9a8b-40af-b813-71c1d72cb9f0.png' width='300' />](https://readymag.com/)
 
 > Meet the most elegant, simple and powerful web-tool for designing websites, presentations, portfolios and all kinds of digital publications.
 
@@ -1138,7 +1138,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [26. ffflux: Online SVG Fluid Gradient Background Generator | fffuel](https://fffuel.co/ffflux/)
 
-[<img src='https://fffuel.co/images/ffflux/ffflux-1.svg' width='300' />](https://fffuel.co/ffflux/)
+[<img src='https://fffuel.co/images/covers/ffflux.jpg' width='300' />](https://fffuel.co/ffflux/)
 
 > SVG generator to make fluid gradient backgrounds that feel organic and motion-like. Perfect to add a feeling of motion and fluidity to your web designs.
 
@@ -1147,7 +1147,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [27. Generate unique SVG design assets | Haikei](https://haikei.app/)
 
-[<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAGCAYAAAD68A/GAAAAAklEQVR4AewaftIAAADCSURBVGXBP0rDUADA4V9eXvqaaoNJKBj8gzgWOnRzdvEMrm7OHqCH6Dna1dEDOEig4OIUEA2Y0CbQJDbJKxlc6vcZDxc3epm+s65KDgk0V5fn1HWD3O5sGnkMyuWfuqDTtg3i9e6Rke9yPRzgWJKTnsUfARypPkoppPky4/7U42k6wTSh3kGYbfBsi7evmHn0CYaJDM4EZWIQhRohoGk1vnAwgJ9E811kaA3SIWARr3iOPuhUtkAVLZ2cX4LxLWkesgfXAT7tVrdQigAAAABJRU5ErkJggg==' width='300' />](https://haikei.app/)
+[<img src='https://haikei.app/haikei-cover.png' width='300' />](https://haikei.app/)
 
 > A web-based design tool to generate unique SVG design assets for websites, social media, blog posts, desktop and mobile wallpapers, posters, and more! Our generators let you discover, customize, randomize, and export generative SVG design assets ready to use with your favorite design tools.
 
@@ -1158,7 +1158,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [1. Free Website Builder Software | 10,000+ Free Templates](https://nicepage.com/)
 
-[<img src='https://csite.nicepage.com/Images/logo-w.png' width='300' />](https://nicepage.com/)
+[<img src='https://static.nicepage.com/images/site/nicepage.jpg' width='300' />](https://nicepage.com/)
 
 > Nicepage is your website builder software breaking limitations common for website builders with revolutionary freehand positioning. 7000+ Free Templates. Easy Drag-n-Drop. No coding. Mobile-friendly. Clean HTML.
 
@@ -1167,7 +1167,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [2. Super designer | Create beautiful designs with a few clicks](https://superdesigner.co/)
 
-[<img src='https://superdesigner.co/logo.svg' width='300' />](https://superdesigner.co/)
+[<img src='https://superdesigner.co/og/og.png' width='300' />](https://superdesigner.co/)
 
 > Create beautiful designs with a few clicks. Simple design tools to generate unique patterns, backgrounds, 3D shapes, colors & images for social media, websites and more
 
@@ -1176,7 +1176,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [3. Pika – Create beautiful mockups from screenshots](https://pika.style/)
 
-[<img src='https://pika.style/partners/oct-22-good-news.png' width='300' />](https://pika.style/)
+[<img src='https://pika.style/og-images/main.jpg' width='300' />](https://pika.style/)
 
 > Quickly create beautiful website and device mockup from screenshot. Pika lets you capture website screenshots form URL, add device and browser frames, customize background and more
 
@@ -1194,7 +1194,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [5. Minimal Gallery – Web design inspiration](https://minimal.gallery/)
 
-[<img src='https://minimal.gallery/wp-content/uploads/2022/10/Screenshot-2022-10-10-at-14.03.09-scaled.jpg' width='300' />](https://minimal.gallery/)
+[<img src='https://minimal.gallery/wp-content/themes/minimalgallery/assets/og.jpg' width='300' />](https://minimal.gallery/)
 
 > For the love of beautiful, clean and functional websites.
 
@@ -1203,7 +1203,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [6. Awwwards - Website Awards - Best Web Design Trends](https://www.awwwards.com/)
 
-[<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAB2wAAAK8AQMAAAAZMt0LAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAANJJREFUeNrswYEAAAAAgKD9qRepAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABg9uBAAAAAAADI/7URVFVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVWlPTgkAAAAABD0/7UzLAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAKNogABue9NggAAAABJRU5ErkJggg==' width='300' />](https://www.awwwards.com/)
+[<img src='https://assets.awwwards.com/assets/images/pages/about-certificates/awwwards.jpg' width='300' />](https://www.awwwards.com/)
 
 > Awwwards are the Website Awards that recognize and promote the talent and effort of the best developers, designers and web agencies in the world.
 
@@ -1212,7 +1212,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [7. Design Systems For Figma](https://www.designsystemsforfigma.com/)
 
-[<img src='https://assets.website-files.com/5f08a6a4b22d4a7ca3b0b630/5f178ccbb99eb75ee044508c_logo-brand-light.svg' width='300' />](https://www.designsystemsforfigma.com/)
+[<img src='https://assets.website-files.com/5f08a6a4b22d4a7ca3b0b630/5f18a5844db54c3e79853bca_OG-image-main.png' width='300' />](https://www.designsystemsforfigma.com/)
 
 > A collection of Design Systems for Figma from all over the globe.
 
@@ -1221,7 +1221,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [8. Superside: Design At Scale For Ambitious Brands](https://www.superside.com/)
 
-[<img src='data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2732%27%20height=%2732%27/%3e' width='300' />](https://www.superside.com/)
+[<img src='https://cdn.sanity.io/images/k0dlbavy/production/aeb47d850c005c5a7c780e8af313593f86177db1-1200x630.png?w=1200&h=630&fit=max' width='300' />](https://www.superside.com/)
 
 > We are an always-on design company. Get a team of dedicated designers, speedy turnarounds, magical creative collaboration tech and the top 1% of global talent.
 
@@ -1230,7 +1230,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [9. UXArchive - Made by Waldo](https://uxarchive.com/)
 
-[<img src='https://uxarchive.com/static/media/logo.76bfc41f.svg' width='300' />](https://uxarchive.com/)
+[<img src='https://uxarchive.com/og-image.png' width='300' />](https://uxarchive.com/)
 
 > UXArchive the world's largest library of mobile user flows. Be inspired to design the best user experiences.
 
@@ -1239,7 +1239,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [10. Search by Muzli](https://search.muz.li/)
 
-[<img src='undefined' width='300' />](https://search.muz.li/)
+[<img src='https://search.muz.li/assets/images/ogimage.png' width='300' />](https://search.muz.li/)
 
 > Search, discover, test and create beautiful color palettes for your projects
 
@@ -1248,7 +1248,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [11. Siteinspire | Web Design Inspiration](https://www.siteinspire.com/)
 
-[<img src='https://siteinspire.s3.us-east-1.amazonaws.com/screengrabs/images/000/015/728/medium.jpg' width='300' />](https://www.siteinspire.com/)
+[<img src='https://www.siteinspire.com/share.png' width='300' />](https://www.siteinspire.com/)
 
 > 
 
@@ -1257,7 +1257,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [12. SAVEE](https://savee.it/)
 
-[<img src='undefined' width='300' />](https://savee.it/)
+[<img src='https://st.savee-cdn.com/_next/static/media/default-og-image.4c07ae17.jpg?1665663082711' width='300' />](https://savee.it/)
 
 > The best way to save and share inspiration.
 
@@ -1266,7 +1266,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [13. A little corner of the internet to find good landing page copywriting examples](https://greatlandingpagecopy.com/)
 
-[<img src='undefined' width='300' />](https://greatlandingpagecopy.com/)
+[<img src='https://freight.cargo.site/i/8ebd2a872b65e0b956d8c612435f56d11e121f164248eb25edd8bd0ba32ddd19/greatlandingpagecopy-tumbnail.png' width='300' />](https://greatlandingpagecopy.com/)
 
 > A little corner of the internet to find great landing page copywriting examples.
 
@@ -1275,7 +1275,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [14. The Best Landing Page Examples For Design Inspiration - SaaS Landing Page](https://saaslandingpage.com/)
 
-[<img src='https://saaslandingpage.com/wp-content/uploads/2022/10/attend-380x475.png' width='300' />](https://saaslandingpage.com/)
+[<img src='https://saaslandingpage.com/wp-content/uploads/2020/01/fb-og.png' width='300' />](https://saaslandingpage.com/)
 
 > SaaS Landing Page showcases the best landing page examples created by top-class SaaS companies. Get ideas and inspirations for your next design project.
 
@@ -1286,7 +1286,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [1. Premium Bootstrap Themes and Templates: Download @ Creative Tim](https://www.creative-tim.com/)
 
-[<img src='https://www.creative-tim.com/assets/logo/logo-ct-white-170d794e447f75aec55c6effdfbedced9dd268ceceece152675ff8f9891e3588.svg' width='300' />](https://www.creative-tim.com/)
+[<img src='https://s3.amazonaws.com/creativetim_bucket/tim_static_images/metatag-tim-cover-amazon.jpg?versionId=null' width='300' />](https://www.creative-tim.com/)
 
 > UI Kits, Templates and Dashboards built on top of Bootstrap, Vue.js, React, Angular, Node.js and Laravel. Join over 2,014,387+ creatives to access all our products!
 
@@ -1295,7 +1295,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [2. Free Bootstrap Themes, Templates, Snippets, and Guides - Start Bootstrap](https://startbootstrap.com/)
 
-[<img src='https://startbootstrap.com/assets/img/sb-logo.svg' width='300' />](https://startbootstrap.com/)
+[<img src='https://assets.startbootstrap.com/img/meta/og-image-start-bootstrap.png' width='300' />](https://startbootstrap.com/)
 
 > Start Bootstrap develops free to download, open source Bootstrap 5 themes, templates, and snippets and creates guides and tutorials to help you learn more about designing and developing with Bootstrap.
 
@@ -1313,7 +1313,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [4. One Page Love - One Page Website Inspiration and Templates](https://onepagelove.com/)
 
-[<img src='https://onepagelove.imgix.net/2022/10/ih.jpg?w=360&max-h=190&fit=crop&fp-y=0' width='300' />](https://onepagelove.com/)
+[<img src='https://onepagelove.com/wp-content/themes/onepagelove/frontend/img/social/one-page-love-meta.jpg' width='300' />](https://onepagelove.com/)
 
 > One Page Love is a One Page website design gallery showcasing the best Single Page websites, templates and resources.
 
@@ -1340,16 +1340,16 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [7. Free and Premium Bootstrap Themes, Templates by Themesberg](https://themesberg.com/)
 
-[<img src='https://themesberg.com/img/homepage.png' width='300' />](https://themesberg.com/)
+[<img src='https://themesberg.com/img/thumbnail.jpg' width='300' />](https://themesberg.com/)
 
-> Free and Premium Bootstrap themes, templates, admin dashboards and UI kits used by over 38819 web developers and software companies
+> Free and Premium Bootstrap themes, templates, admin dashboards and UI kits used by over 38820 web developers and software companies
 
 
 ---
 
 ## [8. HTML, Vue.js and React templates for startup landing pages - Cruip](https://cruip.com/)
 
-[<img src='https://cruip.com/wp-content/themes/cruip-2/dist/images/html.svg' width='300' />](https://cruip.com/)
+[<img src='https://cruip.com/wp-content/uploads/2022/07/Social-Media@2x.png' width='300' />](https://cruip.com/)
 
 > Cruip is a gallery of premium and free HTML, Vue.js and React templates for startups and SaaS.
 
@@ -1358,7 +1358,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [9. Free Website Templates Download | WordPress Themes - W3Layouts](https://w3layouts.com/)
 
-[<img src='https://w3layouts.com/wp-content/uploads/2020/11/cropped-cropped-cropped-248x63-white-1.png' width='300' />](https://w3layouts.com/)
+[<img src='https://w3layouts.com/wp-content/uploads/2021/04/w3-fb-cover-scaled.jpeg' width='300' />](https://w3layouts.com/)
 
 > Want to download free website templates? W3Layouts WordPress themes and website templates are built with responsive web design techniques. Download now!
 
@@ -1367,7 +1367,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [10. Free HTML Landing Page Templates and UI Kits | UIdeck](https://uideck.com/)
 
-[<img src='https://uideck.com/wp-content/uploads/2021/06/uideck-new-logo.svg' width='300' />](https://uideck.com/)
+[<img src='https://cdn.uideck.com/wp-content/uploads/2021/08/uideck-home.jpg' width='300' />](https://uideck.com/)
 
 > Free HTML Landing Page Templates, Bootstrap Themes, React Templates, HTML Templates, Tailwind Templates, and UI Kits.
 
@@ -1378,7 +1378,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [1. Snappa - Quick & Easy Graphic Design Software](https://snappa.com/)
 
-[<img src='https://d2qp0siotla746.cloudfront.net/img/home/hero.jpg' width='300' />](https://snappa.com/)
+[<img src='https://d2qp0siotla746.cloudfront.net/img/og-image.jpg' width='300' />](https://snappa.com/)
 
 > Snappa makes it easy to create any type of online graphic. Create & publish images for social media, blogs, ads, and more!
 
@@ -1396,7 +1396,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [3. Polotno Studio - Make graphical designs](https://studio.polotno.com)
 
-[<img src='undefined' width='300' />](https://studio.polotno.com)
+[<img src='https://studio.polotno.dev/studio-polotno-preview.jpg' width='300' />](https://studio.polotno.com)
 
 > Free online design editor. Create images for social media, youtube previews, facebook covers
 
@@ -1405,7 +1405,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [4. Free Logo Maker: Design Custom Logos | Adobe Express](https://www.adobe.com/express/create/logo)
 
-[<img src='https://www.adobe.com/express/create/media_1fefe7e5c8b7b15b5b47357df1effc01d12a98cf4.png?width=2000&format=webply&optimize=medium' width='300' />](https://www.adobe.com/express/create/logo)
+[<img src='https://www.adobe.com/express/create/media_1aed687cf7fd69871b8c01a57177ad82333dba74e.png?width=1200&format=pjpg&optimize=medium' width='300' />](https://www.adobe.com/express/create/logo)
 
 > The Adobe Express logo maker is instant, intuitive, and intelligent. Use it to generate a wide range of possibilities for your own logo.
 
@@ -1414,7 +1414,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [5. Photo Editor: Fotor – Free Online Photo Editing & Image Editor](https://www.fotor.com/)
 
-[<img src='data:image/png;base64,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' width='300' />](https://www.fotor.com/)
+[<img src='https://imgv3.fotor.com/images/share/fotor-photo-editor-design-collage.jpg' width='300' />](https://www.fotor.com/)
 
 > Fotor's online photo editor helps you edit photos with free online photo editing tools. Crop photos, resize images, and add effects/filters, text, and graphics in just a few clicks.  Photoshop online has never been easier with Fotor's free online photo editor.
 
@@ -1423,7 +1423,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [6. VistaCreate – Free Graphic Design Software with 70,000+ Free Templates](https://create.vista.com/)
 
-[<img src='https://static.create.vista.com/images/static-formats/animatedGraphics_thumb.png' width='300' />](https://create.vista.com/)
+[<img src='https://static.create.vista.com/public/images/landingIndexPage/open-graph-image.png' width='300' />](https://create.vista.com/)
 
 > Looking for free graphic design software? Easily create professional designs with VistaCreate, a free design tool with powerful features and 50K+ ready-made templates
 
@@ -1432,7 +1432,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [7. Draw Freely | Inkscape](https://inkscape.org/)
 
-[<img src='https://media.inkscape.org/static/images/inkscape-logo.svg' width='300' />](https://inkscape.org/)
+[<img src='https://media.inkscape.org/static/images/inkscape-og-image.png' width='300' />](https://inkscape.org/)
 
 > Inkscape is professional quality vector graphics software which runs on Linux, Mac OS X and Windows desktop computers.
 
@@ -1450,7 +1450,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [9. The Web's Favorite Online Graphic Design Tool | Stencil](https://getstencil.com/)
 
-[<img src='https://d3b1ak9ylguumf.cloudfront.net/stencil/public/static/images/chrome-icon-sm.png?h=88a29c4e&v=2020-08-19.00' width='300' />](https://getstencil.com/)
+[<img src='https://d3b1ak9ylguumf.cloudfront.net/stencil/public/static/images/og/app.jpg?h=4129f4af&v=2020-08-19.00' width='300' />](https://getstencil.com/)
 
 > Stencil is a fantastically easy-to-use online graphic design tool and image editor built for business owners, social media marketers, and bloggers.
 
@@ -1460,7 +1460,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 ## [10. Pablo by Buffer - Design engaging images for your social media
             posts in under 30 seconds](https://pablo.buffer.com/)
 
-[<img src='undefined' width='300' />](https://pablo.buffer.com/)
+[<img src='https://static.buffer.com/images/facebook/buffer-logo-facebook-preview.png' width='300' />](https://pablo.buffer.com/)
 
 > Buffer makes it super easy to share any page you're reading. Keep your Buffer topped up and we automagically share them for you through the day.
 
@@ -1469,7 +1469,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [11. Free Online Graphic Design Software | Create stunning designs in seconds.](https://desygner.com/)
 
-[<img src='https://static.desygner.com/assets/logos/desygner-wordmark.svg' width='300' />](https://desygner.com/)
+[<img src='https://static.desygner.com/static/images/redesign/meta/Meta_4.jpg' width='300' />](https://desygner.com/)
 
 > Easy drag and drop graphic design tool for anyone to use with
 >       1000's of ready made templates. Create & print professional business
@@ -1482,7 +1482,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [1. Color Palettes for Designers and Artists - Color Hunt](https://colorhunt.co/)
 
-[<img src='https://colorhunt.co/img/color-hunt-logo-tongue.svg' width='300' />](https://colorhunt.co/)
+[<img src='https://colorhunt.co/img/color-hunt-og.png' width='300' />](https://colorhunt.co/)
 
 > Discover the newest hand-picked color palettes of Color Hunt. Get color inspiration for your design and art projects.
 
@@ -1491,7 +1491,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [2. Coolors - The super fast color palettes generator!](https://coolors.co/)
 
-[<img src='https://coolors.co/assets/img/logo.svg' width='300' />](https://coolors.co/)
+[<img src='https://coolors.co/assets/img/og_image.png' width='300' />](https://coolors.co/)
 
 > Generate or browse beautiful color combinations for your designs.
 
@@ -1500,7 +1500,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [3. Get color palette inspiration from nature - colorpalettes.earth](https://colorpalettes.earth/)
 
-[<img src='https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=291274&theme=light' width='300' />](https://colorpalettes.earth/)
+[<img src='https://s3-us-west-1.amazonaws.com/colorpalettes.earth/banner.jpg' width='300' />](https://colorpalettes.earth/)
 
 > Color palettes inspired by beautiful nature photos
 
@@ -1509,7 +1509,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [4. Color Palette Generator - Create Beautiful Color Schemes](https://colors.muz.li/)
 
-[<img src='undefined' width='300' />](https://colors.muz.li/)
+[<img src='https://colors.muz.li/assets/images/ogimage.png' width='300' />](https://colors.muz.li/)
 
 > Search, discover, test and create beautiful color palettes for your projects
 
@@ -1527,7 +1527,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [6. Colour Contrast Checker](https://colourcontrast.cc/)
 
-[<img src='undefined' width='300' />](https://colourcontrast.cc/)
+[<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width='300' />](https://colourcontrast.cc/)
 
 > Check the contrast between different colour combinations against WCAG standards
 
@@ -1538,7 +1538,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [1. Google Fonts](https://fonts.google.com/)
 
-[<img src='undefined' width='300' />](https://fonts.google.com/)
+[<img src='https://www.gstatic.com/images/icons/material/apps/fonts/1x/catalog/v5/opengraph_color.png' width='300' />](https://fonts.google.com/)
 
 > Making the web more beautiful, fast, and open through great typography
 
@@ -1556,7 +1556,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [3. Wordmark - Helps you choose fonts!](https://wordmark.it/)
 
-[<img src='undefined' width='300' />](https://wordmark.it/)
+[<img src='https://server.wordmark.it/assets/wordmark.png' width='300' />](https://wordmark.it/)
 
 > Wordmark helps you choose fonts by quickly displaying your text with your fonts.
 
@@ -1565,7 +1565,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [4. OH no Type Company](https://ohnotype.co/)
 
-[<img src='https://ohnotype.co/images/Typeface-Features/Ohno-Casual/ohno-softie-hero.svg' width='300' />](https://ohnotype.co/)
+[<img src='https://ohnotype.co/images/Site/_thumbnail/foundry_banner.jpg' width='300' />](https://ohnotype.co/)
 
 > OH no Type Co. Retail and custom typefaces. Life’s a thrill, fonts are chill!
 
@@ -1576,7 +1576,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [1. Illustrations | unDraw](https://undraw.co/illustrations)
 
-[<img src='undefined' width='300' />](https://undraw.co/illustrations)
+[<img src='https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/v2/undraw_social_20.png' width='300' />](https://undraw.co/illustrations)
 
 > The design project with open-source illustrations for any idea you can imagine and create. Create beautiful websites, products and applications with your color, for free.
 
@@ -1594,7 +1594,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [3. Humaaans: Mix-&-Match illustration library](https://www.humaaans.com/)
 
-[<img src='https://assets.website-files.com/5bff8886c3964a992e90d465/5c001deda8e61a2c3ad905e5_hero-4.svg' width='300' />](https://www.humaaans.com/)
+[<img src='https://assets.website-files.com/5bff8886c3964a992e90d465/5c050a75fc73fba30bf816f1_seo-rectangle.jpg' width='300' />](https://www.humaaans.com/)
 
 > Mix-&-match illustrations of people with a design library for InVIsion Studio and Sketch.
 
@@ -1612,7 +1612,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [5. Open Peeps, Hand-Drawn Illustration Library](https://www.openpeeps.com/)
 
-[<img src='https://assets.website-files.com/5e51b3b0337309d672efd94c/5e5333c433d3681a7a3d6205_logo-sketch.svg' width='300' />](https://www.openpeeps.com/)
+[<img src='https://assets.website-files.com/5e51b3b0337309d672efd94c/5e51ce05258ffe802886ef21_cover-1.png' width='300' />](https://www.openpeeps.com/)
 
 > Open Peeps is a hand-drawn illustration library to create scenes of people. You can use them in product illustration, marketing, comics, product states, user flows, personas, storyboarding, quinceañera invitations, or whatever you want! ⠀
 
@@ -1621,7 +1621,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [6. Reshot | Free icons & illustrations](https://www.reshot.com/)
 
-[<img src='https://www.reshot.com/build/reshot-logo--mark-f8dfafbc1cc8fbf4dfa0e2f210265735aefa6e32f883b5a1fe27fd94f84719b3.svg' width='300' />](https://www.reshot.com/)
+[<img src='https://www.reshot.com/static/global/og/reshot-og-default.png' width='300' />](https://www.reshot.com/)
 
 > Design freely with instant downloads of curated SVG icons and vector illustrations. All free with commercial licensing. No attribution required.
 
@@ -1630,7 +1630,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [7. Blush: Illustrations for everyone](https://blush.design/)
 
-[<img src='https://blush.design/logo-lightmode.svg' width='300' />](https://blush.design/)
+[<img src='https://blush.design/og-image.png' width='300' />](https://blush.design/)
 
 > Blush makes it easy to add free illustrations to your designs. Play with fully customizable graphics made by artists across the globe.
 
@@ -1641,7 +1641,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [1. Angle 4 - 5000+ Device Mockups for Figma, Sketch and XD](https://angle.sh/)
 
-[<img src='https://d33wubrfki0l68.cloudfront.net/e5ae5ac5b9016829b73b76e7f84d0e2e9c4fbc63/f4af2/images/logos/logo.svg' width='300' />](https://angle.sh/)
+[<img src='https://images.ctfassets.net/l7neci24wkw8/2q7aHZup7qgLRtO79tpolv/453332cb34ce3ffaaa27e193a5f93f1b/metadata-image.jpg' width='300' />](https://angle.sh/)
 
 > Vector mockups for iPhone, iPad, Android and Mac devices, including the new iPhone 13, Pro, Pro Max and Mini. Perfect for presenting your apps. Huge library of components, compositions, wallpapers and plugins made for Figma, Sketch and XD.
 
@@ -1659,7 +1659,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [3. Free and premium tools for graphic designers | Lstore Graphics](https://www.ls.graphics/)
 
-[<img src='https://assets-global.website-files.com/5bfd1275cc56e15ce750b18e/5fea0d7612d76e3eae3b052a_close.svg' width='300' />](https://www.ls.graphics/)
+[<img src='https://lstore.graphics/OG2.jpg' width='300' />](https://www.ls.graphics/)
 
 > Free and premium mockups, UI/UX tools, scene creators for busy designers
 
@@ -1668,7 +1668,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [4. Logo Design & Brand Identity Platform for Entrepreneurs | Looka](https://looka.com/)
 
-[<img src='https://cdn.looka.com/images/logos/looka_logo_black.svg' width='300' />](https://looka.com/)
+[<img src='https://cdn.logojoy.com/wp-content/uploads/2019/01/30143743/birdland_elements-fs8.png' width='300' />](https://looka.com/)
 
 > Logojoy is now Looka! Design a Logo, make a website, and create a Brand Identity you’ll love with the power of Artificial Intelligence. 100% free to use.
 
@@ -1677,7 +1677,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [5. Create stunning product mockups easily and online - Smartmockups](https://smartmockups.com/)
 
-[<img src='https://images-public.smartmockups.com/1fl6cgt5k-Menu%20-%20Icon%20-%20Tech%20-%20Smartphone.svg' width='300' />](https://smartmockups.com/)
+[<img src='https://smartmockups.com/android-chrome-400x400.jpg' width='300' />](https://smartmockups.com/)
 
 > Smartmockups enables you to create stunning high-resolution mockups right inside your browser within one interface across multiple devices.
 
@@ -1686,7 +1686,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [6. Previewed - Free mockup generator for your app](https://previewed.app/)
 
-[<img src='data:image/svg+xml;charset=utf-8,%3Csvg height='499.99999999999994' width='809' xmlns='http://www.w3.org/2000/svg' version='1.1'%3E%3C/svg%3E' width='300' />](https://previewed.app/)
+[<img src='https://previewed.app/images/meta-image.png' width='300' />](https://previewed.app/)
 
 > Join Previewed to create stunning 3D image shots and animations for your app. Choose from hundreds of ready made mockups, or create your own.
 
@@ -1695,7 +1695,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [7. Free Design Software - Graphic Online Maker - Glorify](https://www.glorify.com/)
 
-[<img src='https://uploads-ssl.webflow.com/62543aa7f09ff1582ffb57cc/625441068db1a14352f3729d_Frame.svg' width='300' />](https://www.glorify.com/)
+[<img src='https://uploads-ssl.webflow.com/62543aa7f09ff1582ffb57cc/62aaeeab4b1a000dc194f8a0_Glorify%20-%20Home%20Page.png' width='300' />](https://www.glorify.com/)
 
 > Create professional and high converting social media posts, ads, infographics, presentations, and more with Glorify, a free design software & graphic maker.
 
@@ -1706,7 +1706,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [1. BuiltWith Technology Lookup](https://builtwith.com/)
 
-[<img src='undefined' width='300' />](https://builtwith.com/)
+[<img src='https://builtwith.com/og-1200x630.png' width='300' />](https://builtwith.com/)
 
 > Web technology information profiler tool. Find out what a website is built with.
 
@@ -1715,7 +1715,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [2. Compress JPEG Images Online](https://compressjpeg.com/)
 
-[<img src='https://compressjpeg.com/images/compressjpeg/logo.svg' width='300' />](https://compressjpeg.com/)
+[<img src='https://compressjpeg.com/images/compressjpeg/icon.png' width='300' />](https://compressjpeg.com/)
 
 > Compress JPEG images and photos for displaying on web pages, sharing on social networks or sending by email.
 
@@ -1724,7 +1724,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [3. PhotoRoom - Remove Background and Create Product Pictures](https://www.photoroom.com/)
 
-[<img src='https://www.photoroom.com/img/apple-badges/badge_appstore-lrg-en.svg' width='300' />](https://www.photoroom.com/)
+[<img src='https://www.photoroom.com/og/website_cover.jpg' width='300' />](https://www.photoroom.com/)
 
 > Create product and portrait pictures using only your phone. Remove background, change background and showcase products.
 
@@ -1733,7 +1733,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [4. Magic Eraser - Remove unwanted things from images in seconds](https://www.magiceraser.io/)
 
-[<img src='undefined' width='300' />](https://www.magiceraser.io/)
+[<img src='https://www.magiceraser.io/magic-eraser-ai-image-cleaner.png' width='300' />](https://www.magiceraser.io/)
 
 > Magic Eraser - Use AI to remove unwanted things from images in seconds. Upload an image, mark the bit you need removed, download the fixed up image.
 
@@ -1742,7 +1742,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [5. Compressor.io - optimize and compress JPEG photos and PNG images](https://compressor.io/)
 
-[<img src='https://compressor.io/logo-compressor.svg' width='300' />](https://compressor.io/)
+[<img src='https://compressor.io/hotlink-ok/compressor-og.png' width='300' />](https://compressor.io/)
 
 > Optimize and compress JPEG, PNG, SVG, GIF and WEBP images online. Compress, resize and rename your photos for free.
 
@@ -1751,7 +1751,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [6. Remove Video Background – Unscreen](https://www.unscreen.com/)
 
-[<img src='https://www.unscreen.com/assets/logo-7cfc1fe268299b5a810322ccdaa708d9927fcbbd218b417e110663e02c4221bf.svg' width='300' />](https://www.unscreen.com/)
+[<img src='https://www.unscreen.com/remove_video_background.jpg' width='300' />](https://www.unscreen.com/)
 
 > Remove the background of any video - 100% automatically, online & free! Goodbye Greenscreen. Hello Unscreen.
 
@@ -1769,7 +1769,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [8. Design Principles](https://principles.design/)
 
-[<img src='https://principles.design/images/design-principles-logo.svg' width='300' />](https://principles.design/)
+[<img src='https://principles.design/images/design-principles-og.png' width='300' />](https://principles.design/)
 
 > An Open Source collection of Design Principles and methods
 
@@ -1778,7 +1778,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [9. Shapefest™ - A massive library of free 3D shapes](https://www.shapefest.com/)
 
-[<img src='https://uploads-ssl.webflow.com/5f0e589021058152a1d327da/5f1343e99f64734a6f07e28c_Shapefest%20logo%202.png' width='300' />](https://www.shapefest.com/)
+[<img src='https://uploads-ssl.webflow.com/5f0e589021058152a1d327da/5f162e4f65ee73d01f307f3b_Shapefest%20Open%20Graph.jpg' width='300' />](https://www.shapefest.com/)
 
 > A massive free library of beautifully rendered 3D shapes. 160,000+ high resolution PNG images in one cohesive library.
 
@@ -1789,7 +1789,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [1. Degreeless.design - Everything I Learned in Design School](https://degreeless.design/)
 
-[<img src='https://degreeless.design/images/degreeless.svg' width='300' />](https://degreeless.design/)
+[<img src='https://uploads-ssl.webflow.com/5bef676f3a50d163bacb06e6/5bf0cc0b486e7feb6bd6b642_Screen%20Shot%202018-11-17%20at%209.18.35%20PM.png' width='300' />](https://degreeless.design/)
 
 > This is a list of everything I've found useful in my journey of learning design, and an ongoing list of things I think you should read. For budding UX, UI, Interaction, or whatever other title designers.
 
@@ -1798,7 +1798,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [2. UX Tools | Practical UX skills and tools](https://uxtools.co/)
 
-[<img src='https://uxtools.co/img/logo.svg' width='300' />](https://uxtools.co/)
+[<img src='https://uxtools.co/img/default-share.png' width='300' />](https://uxtools.co/)
 
 > Lessons and resources from two full-time product designers.
 
@@ -1807,7 +1807,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [3. Built For Mars](https://builtformars.com/)
 
-[<img src='https://builtformars.com/uploads/images/bfm-logo.svg' width='300' />](https://builtformars.com/)
+[<img src='https://builtformars.com/uploads/images/_1200x630_fit_center-center_82_none/OG_BFM.png?mtime=1648735085' width='300' />](https://builtformars.com/)
 
 > On a mission to help the world build better user experiences by demystifying UX. Thousands of hours of research packed into UX case studies.
 
@@ -1816,7 +1816,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [4. Case Study Club – Curated UX Case Study Gallery](https://www.casestudy.club/)
 
-[<img src='https://uploads-ssl.webflow.com/589e1c0426e3bc615f4961c1/58a0a5a031ee75255489d0bb_close.svg' width='300' />](https://www.casestudy.club/)
+[<img src='https://uploads-ssl.webflow.com/589e1c0426e3bc615f4961c1/6142f57767eb5818112495a1_ogimage.png' width='300' />](https://www.casestudy.club/)
 
 > Case Study Club is the biggest curated gallery of the best UI/UX design case studies. Get inspired by industry-leading designers, openly sharing their UX process.
 
@@ -1825,7 +1825,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [5. The Guide to Design](https://start.uxdesign.cc/)
 
-[<img src='undefined' width='300' />](https://start.uxdesign.cc/)
+[<img src='https://d3n32ilufxuvd1.cloudfront.net/5ecbe27f82f5b3005df02f46/upload-775bb649-148a-432c-9de0-cbbd583a78f5.jpg' width='300' />](https://start.uxdesign.cc/)
 
 > A self-guided class to help you get started in UX and answer key questions about craft, design, and career
 
@@ -1834,7 +1834,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [6. Uxcel - Where design careers are built](https://app.uxcel.com/explore)
 
-[<img src='undefined' width='300' />](https://app.uxcel.com/explore)
+[<img src='https://img.uxcel.com/assets/open-graph/uxcel-open-graph-v4.jpg' width='300' />](https://app.uxcel.com/explore)
 
 > Available on any device anywhere in the world, Uxcel is the best way to improve and learn UX design online in just 5 minutes per day.
 
@@ -1843,7 +1843,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [7. UI & UX Design Tips by Jim Raptis.](https://www.uidesign.tips/)
 
-[<img src='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODIiIGhlaWdodD0iNDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+' width='300' />](https://www.uidesign.tips/)
+[<img src='https://www.uidesign.tips/static/images/learn-ui-design-og-image.jpg' width='300' />](https://www.uidesign.tips/)
 
 > Learn UI & UX Design with practical byte-sized tips and in-depth articles from Jim Raptis.
 
@@ -1863,7 +1863,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [2. Flourish | Data Visualization & Storytelling](https://flourish.studio/)
 
-[<img src='https://flourish.studio/images/logo-text.png' width='300' />](https://flourish.studio/)
+[<img src='https://flourish.studio/images/share_image.jpg' width='300' />](https://flourish.studio/)
 
 > Beautiful, easy data visualization and storytelling
 
@@ -1881,7 +1881,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [4. Minea - The best adspy for product search in ecommerce and dropshipping](https://en.minea.com/)
 
-[<img src='https://uploads-ssl.webflow.com/60352a9beb7f922ce2aa6d6a/6151cf535075ab83a3c0d25e_Logo%20Minea%20SVG.svg' width='300' />](https://en.minea.com/)
+[<img src='https://uploads-ssl.webflow.com/60352a9beb7f922ce2aa6d6a/632ad0b4cddd0560ec7bca95_Pre%CC%81sentation%20Minea_english.png' width='300' />](https://en.minea.com/)
 
 > Minea is the ultimate e-commerce product search tool. Minea tracks all ads on all networks. Facebook Ads, influencer product placements, Snapspy, all networks are tracked. Stop paying adspy 149€ for one network and discover Minea.
 
@@ -1899,7 +1899,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [6. Google Trends](https://trends.google.com/)
 
-[<img src='undefined' width='300' />](https://trends.google.com/)
+[<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width='300' />](https://trends.google.com/)
 
 > 
 
@@ -1908,7 +1908,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [7. ScoreApp: Advanced Quiz Funnel Marketing | Make a Quiz Today](https://www.scoreapp.com/)
 
-[<img src='https://www.scoreapp.com/app/themes/ScoreApp/assets/img/logo.png' width='300' />](https://www.scoreapp.com/)
+[<img src='https://cdn.scoreapp.com/site/uploads/2021/05/ogimage-1.png' width='300' />](https://www.scoreapp.com/)
 
 > ScoreApp makes quiz funnel marketing easy, so you can attract relevant warm leads, insightful data and increase your sales. Try for free today
 
@@ -1917,7 +1917,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [8. Mailmodo - Send Interactive Emails That Drive Conversions](https://www.mailmodo.com/)
 
-[<img src='https://www.mailmodo.com/static/images/logo/logo-full.svg' width='300' />](https://www.mailmodo.com/)
+[<img src='https://www.mailmodo.com/static/images/og-image.png' width='300' />](https://www.mailmodo.com/)
 
 > Use Mailmodo to create and send interactive emails your customers love. Drive conversions and get better email ROI. Sign up for a free trial now.
 
@@ -1935,7 +1935,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [10. Metricool - Analyze, manage and measure your digital content](https://metricool.com/)
 
-[<img src='https://metricool.com/wp-content/uploads/metricool-logo-reduced-21.png' width='300' />](https://metricool.com/)
+[<img src='https://metricool.com/wp-content/uploads/Metricool-responsive-preview-facebook-EN.jpg' width='300' />](https://metricool.com/)
 
 > Social media scheduling, web analytics, link in bio and reporting. Metricool is free per live for one brand. START HERE
 
@@ -1944,7 +1944,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [11. Visualping: #1 Website change detection, monitoring and alerts](https://visualping.io/)
 
-[<img src='undefined' width='300' />](https://visualping.io/)
+[<img src='https://visualping.io/assets/img/website-change-monitoring-visualping.jpg' width='300' />](https://visualping.io/)
 
 > More than 1.5 millions users monitor changes in websites with Visualping, the No1 website change detection, website checker, webpage change monitoring and webpage change detection tool.
 
@@ -1953,7 +1953,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [12. Gumroad – Sell what you know and see what sticks](https://gumroad.com/)
 
-[<img src='https://assets-global.website-files.com/6171b265e5c8aa59b42c3472/618ea7afd990103829d614ff_gumroad-logo.svg' width='300' />](https://gumroad.com/)
+[<img src='https://assets-global.website-files.com/6171b265e5c8aa59b42c3472/619fb5686c9b9b5f5a35020e_gumroad-og.png' width='300' />](https://gumroad.com/)
 
 > Gumroad is a powerful, but simple, e-commerce platform. We make it easy to earn your first dollar online by selling digital products, memberships and more.
 
@@ -1962,7 +1962,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [13. Product Hunt – The best new products in tech.](https://www.producthunt.com/)
 
-[<img src='undefined' width='300' />](https://www.producthunt.com/)
+[<img src='https://ph-static.imgix.net/ph-logo-1.png' width='300' />](https://www.producthunt.com/)
 
 > Product Hunt is a curation of the best new products, every day. Discover the latest mobile apps, websites, and technology products that everyone's talking about.
 
@@ -1971,7 +1971,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [14. 12ft Ladder](https://12ft.io/)
 
-[<img src='https://12ft.io/lefthand.png' width='300' />](https://12ft.io/)
+[<img src='https://12ft.io/og-banner.png' width='300' />](https://12ft.io/)
 
 > Show me a 10ft paywall, I’ll show you a 12ft ladder.
 
@@ -1980,7 +1980,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [15. namecheckr | Social and Domain Name Availability Search For Brand Professionals](https://www.namecheckr.com/)
 
-[<img src='https://www.namecheckr.com/img/namecheckr_logo_v2.svg' width='300' />](https://www.namecheckr.com/)
+[<img src='https://www.namecheckr.com/icon-192x192.png' width='300' />](https://www.namecheckr.com/)
 
 > Social and Domain Name Availability Search For Brand Professionals
 
@@ -1989,7 +1989,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [16. Excel AI Formula Generator - Excelformulabot.com](https://excelformulabot.com/)
 
-[<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' width='300' />](https://excelformulabot.com/)
+[<img src='https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fs3.amazonaws.com%2Fappforest_uf%2Ff1665622638602x985604001714210400%2FScreen%2520Shot%25202022-10-12%2520at%25208.57.04%2520PM.png?w=&h=&auto=compress&dpr=1&fit=max' width='300' />](https://excelformulabot.com/)
 
 > Transform your text instructions into Excel formulas in seconds with the help of AI.
 
@@ -2007,7 +2007,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [18. Global Print On Demand Platform | Gelato](https://www.gelato.com/)
 
-[<img src='https://a.storyblok.com/f/165154/x/db6a0a356e/_logo-_black.svg' width='300' />](https://www.gelato.com/)
+[<img src='https://a.storyblok.com/f/165154/2000x2000/3efa4712d5/gelato-hero.jpg' width='300' />](https://www.gelato.com/)
 
 > Create and sell custom products online. With local production in 33 countries, easy integration, and 24/7 customer support, Gelato is an all-in-one platform.
 
@@ -2025,7 +2025,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [20. Free eBooks | Project Gutenberg](https://www.gutenberg.org/)
 
-[<img src='https://www.gutenberg.org/gutenberg/pg-logo-129x80.png' width='300' />](https://www.gutenberg.org/)
+[<img src='https://www.gutenberg.org/gutenberg/pg-logo-144x144.png' width='300' />](https://www.gutenberg.org/)
 
 > Project Gutenberg is a library of free eBooks.
 
@@ -2097,7 +2097,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [28. Headline Generator](https://www.title-generator.com/)
 
-[<img src='https://www.title-generator.com/images/cloned-website-here-is-what-to-do.jpg' width='300' />](https://www.title-generator.com/)
+[<img src='https://www.title-generator.com/images/upworthy-headline-case.png' width='300' />](https://www.title-generator.com/)
 
 > Title Generator: create 700 headlines
 > with ONE CLICK: 
@@ -2128,7 +2128,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [31. Boost Your Views And Subscribers On YouTube - vidIQ](https://vidiq.com/)
 
-[<img src='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwIiBoZWlnaHQ9IjQ0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==' width='300' />](https://vidiq.com/)
+[<img src='https://cdn.sanity.io/images/7g6d2cj1/production/7c8f9a95d01c8c4043af4f3c39940ba3870bb1a9-512x512.png?w=1200&q=70&auto=format' width='300' />](https://vidiq.com/)
 
 > vidIQ helps you acquire the tools and knowledge needed to grow your audience faster on YouTube and beyond. Learn More
 
@@ -2146,7 +2146,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [33. Starter Story: Learn How People Are Starting Successful Businesses](https://www.starterstory.com/)
 
-[<img src='https://s3.amazonaws.com/www.starterstory.com/semrush-logo.png' width='300' />](https://www.starterstory.com/)
+[<img src='https://api.placid.app/u/ujg5kpeez?title=Starter+Story%3A+Learn+How+People+Are+Starting+Successful+Businesses' width='300' />](https://www.starterstory.com/)
 
 > Starter Story interviews successful entrepreneurs and shares the stories behind their businesses. In each interview, we ask how they got started, how they grew, and how they run their business today.
 
@@ -2155,7 +2155,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [34. How To Say No](https://www.starterstory.com/how-to-say-no)
 
-[<img src='undefined' width='300' />](https://www.starterstory.com/how-to-say-no)
+[<img src='https://i.imgur.com/RymIA2K.png' width='300' />](https://www.starterstory.com/how-to-say-no)
 
 > Saying no is hard, but it's also essential for your sanity. Here are some templates for how to say no - so you can take back your life.
 
@@ -2173,7 +2173,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [36. ClickUp™ | One app to replace them all](https://clickup.com/)
 
-[<img src='https://clickup.com/blog/wp-content/uploads/2022/02/image-design-5-2-1-150x150.png' width='300' />](https://clickup.com/)
+[<img src='https://clickup.com/landing/images/clickup-logo-gradient.png' width='300' />](https://clickup.com/)
 
 > Our mission is to make the world more productive. To do this, we built one app to replace them all - Tasks, Docs, Goals, and Chat.
 
@@ -2182,7 +2182,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [37. The Manual](https://manual.withcompound.com/)
 
-[<img src='https://assets.website-files.com/619b6aaef8c225767c5a3c1b/619b75196c2ac9ad0d15e2b9_manual-book-logo.svg' width='300' />](https://manual.withcompound.com/)
+[<img src='https://assets.website-files.com/619b6aaef8c225767c5a3c1b/61b1065f01710cf930989993_manual-og-image.png' width='300' />](https://manual.withcompound.com/)
 
 > Wealth-planning resources for founders and startup employees
 
@@ -2191,7 +2191,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [38. Software for Amazon FBA Sellers & Walmart Sellers | Helium 10](https://www.helium10.com/)
 
-[<img src='https://www.helium10.com/app/themes/helium10/assets/img/logos/logo-beige.svg' width='300' />](https://www.helium10.com/)
+[<img src='https://www.helium10.com/app/uploads/2021/12/helium10-opengraph-v3.jpg' width='300' />](https://www.helium10.com/)
 
 > If you're looking for the best software for Amazon FBA & Walmart sellers on the market, check out Helium 10's capabilities online today!
 
@@ -2200,7 +2200,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [39. Buffer: All-you-need social media toolkit for small businesses](https://buffer.com/)
 
-[<img src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAwIDgwMCI+DQo8cGF0aCBmaWxsPSIjM2E3NWM0IiBkPSJtMCwwaDEyMDB2ODAwaC0xMjAweiIvPg0KPHBhdGggZmlsbD0iI2Y5ZGQxNiIgZD0ibTAsNDAwaDEyMDB2NDAwaC0xMjAweiIvPg0KPC9zdmc+DQo=' width='300' />](https://buffer.com/)
+[<img src='https://buffer.com/static/ogImages/homepage-anz-og.png' width='300' />](https://buffer.com/)
 
 > Use Buffer to manage your social media so that you have more time for your business. Join 160,000+ small businesses today.
 
@@ -2209,7 +2209,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [40. CPGD — The Consumer Packaged Goods Directory](https://www.cpgd.xyz/)
 
-[<img src='https://global-uploads.webflow.com/6109bb1c8d041ad67b5d60dd/6123bd5b905e20047568b9b5_CPGD-logo.svg' width='300' />](https://www.cpgd.xyz/)
+[<img src='https://global-uploads.webflow.com/6109bb1c8d041ad67b5d60dd/61274fe1efade582d4f8bd01_CPGD_META.jpeg' width='300' />](https://www.cpgd.xyz/)
 
 > The Consumer Packaged Goods Directory is a platform to discover new brands and resources. We share weekly trends in our newsletter and partner with services to provide vetted, recommended platforms for our Directory brands.
 
@@ -2236,7 +2236,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [43. Login - Capital](https://app.capital.xyz/)
 
-[<img src='undefined' width='300' />](https://app.capital.xyz/)
+[<img src='https://imagedelivery.net/HphN2arQy7Wpyua3fqZoeg/ee8e54bd-f1db-4228-c64f-6ee26bf83f00/preview' width='300' />](https://app.capital.xyz/)
 
 > Raise, hold, spend, and send funds — all in one place.
 
@@ -2247,7 +2247,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [1. Pictory – Video Marketing Made Easy - Pictory.ai](https://pictory.ai/)
 
-[<img src='https://mlrdjua3hhlu.i.optimole.com/cb:gO3x.62b97/w:860/h:214/q:mauto/f:avif/https://pictory.ai/wp-content/uploads/2022/08/logo-new-font-TM.png' width='300' />](https://pictory.ai/)
+[<img src='https://mlrdjua3hhlu.i.optimole.com/cb:gO3x.62b97/w:auto/h:auto/q:mauto/f:avif/https://pictory.ai/wp-content/uploads/2022/04/thumb-home.jpg' width='300' />](https://pictory.ai/)
 
 > Pictory's powerful AI enables you to create and edit professional quality videos using text, no technical skills required or software to download.
 
@@ -2256,7 +2256,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [2. Tolstoy | Communicate with interactive videos](https://www.gotolstoy.com/)
 
-[<img src='https://assets.website-files.com/6080285e10b3ca5844aecb46/60812491cf84674b0498eaac_Tolstoy-logo.svg' width='300' />](https://www.gotolstoy.com/)
+[<img src='https://assets.website-files.com/6080285e10b3ca5844aecb46/60881c61d93c7a9f7062fa8c_cover.png' width='300' />](https://www.gotolstoy.com/)
 
 > Start having face-to-face conversations with your customers.
 
@@ -2265,7 +2265,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [3. Create Email Marketing Your Audience Will Love - MailerLite](https://www.mailerlite.com/)
 
-[<img src='https://import.cdn.thinkific.com/347397/custom_site_themes/351877/m6UlvXdNQ9hvoJiBaI1O_mailerlite_academy_logo_png' width='300' />](https://www.mailerlite.com/)
+[<img src='https://www.mailerlite.com/assets/SEO/homepage-meta.jpg' width='300' />](https://www.mailerlite.com/)
 
 > Email marketing tools to grow your audience faster and drive revenue smarter. Get free access to premium features with a 30-day trial! Sign up now!
 
@@ -2274,7 +2274,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [4. Hypefury - Schedule & Automate Social Media Marketing](https://hypefury.com/)
 
-[<img src='data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20640%20123'%3E%3C/svg%3E' width='300' />](https://hypefury.com/)
+[<img src='https://hypefury.com/wp-content/uploads/2021/02/Homepage-FB.png' width='300' />](https://hypefury.com/)
 
 > Save time on social media while creating more value, and growing your audience faster. Schedule & automate your social media experience!
 
@@ -2283,7 +2283,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [5. Klaviyo: Marketing Automation Platform for Email & SMS](https://www.klaviyo.com/)
 
-[<img src='data:image/svg+xml;charset=utf-8,%3Csvg height='281' width='240' xmlns='http://www.w3.org/2000/svg' version='1.1'%3E%3C/svg%3E' width='300' />](https://www.klaviyo.com/)
+[<img src='https://www.klaviyo.com/static/9974b49f1839013c0061d8897b8cd86b/klaviyo-social-share-image.jpg' width='300' />](https://www.klaviyo.com/)
 
 > Klaviyo, an ecommerce marketing automation platform for email marketing and sms syncs your tech stack with your website store to scale your business.
 
@@ -2292,7 +2292,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [6. Online Email & Lead Scraper | Klean Leads](https://www.kleanleads.com/)
 
-[<img src='https://assets.website-files.com/5fdf52f418a0bb4d6f70b426/5fdf567af483a05ac2ee812c_Copy%20of%20KL-3.png' width='300' />](https://www.kleanleads.com/)
+[<img src='https://assets.website-files.com/5fdf52f418a0bb4d6f70b426/5fe7b427e084a83665a481e9_thumbnail.jpg' width='300' />](https://www.kleanleads.com/)
 
 > Klean Leads is an online email scraper & email address finder. Use it to book more appointments, get more replies, and close more sales.
 
@@ -2310,7 +2310,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [8. Call to Action Examples - 300+ CTA Phrases](https://ctaexamples.com/)
 
-[<img src='https://ctaexamples.com/artemis-assets/logos/Logo.svg' width='300' />](https://ctaexamples.com/)
+[<img src='https://ctaexamples.com/./artemis-assets/images/meta-image-1.png' width='300' />](https://ctaexamples.com/)
 
 > See the best CTA example in every situation covered by the library of 300+ CTA goals. Use the examples to create your own CTAs in minutes.
 
@@ -2319,7 +2319,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [9. Creative Center: one-stop creative solution for TikTok](https://ads.tiktok.com/business/creativecenter/pc/en?from=001010)
 
-[<img src='https://sf16-scmcdn-sg.ibytedtos.com/obj/static-sg/ads/creative_hub_i18n/cc/cc_white_logo.svg' width='300' />](https://ads.tiktok.com/business/creativecenter/pc/en?from=001010)
+[<img src='https://p16-cc-sg.ibyteimg.com/tos-alisg-i-hdprqziq2y/7cbe81bcf0d3e1cce41a43f3c62e277a.png~tplv-hdprqziq2y-png.png' width='300' />](https://ads.tiktok.com/business/creativecenter/pc/en?from=001010)
 
 > Come to get your next great idea for TikTok. Here you can find the best performing ads, viral videos, and trending hashtags across regions and verticals.
 
@@ -2328,7 +2328,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [10. Groove.cm GrooveFunnels, GrooveMail with CRM and Digital Marketing Automation Platform - Groove.cm with GrooveFunnels, GroovePages, GrooveKart](https://groove.cm/)
 
-[<img src='https://images.groovetech.io/0Ag1Yg0lq6sBY-BoR3XAM6L8fOG3WcOMjNLXR7FFqAo/rs:fit:0:0:0/g:no:0:0/c:0:0/aHR0cHM6Ly9hc3NldHMuZ3Jvb3ZlYXBwcy5jb20vaW1hZ2VzL2JkYWIwNjg2LTU3OTQtNDdhYy1hNDA4LTUxOWIzNWFlMDIyYy8xNjYwOTM3ODE3X0F1Z3VzdDIwMjItRnJlZS1FYm9vay1MYXVuY2gtdjIxLnBuZw.webp' width='300' />](https://groove.cm/)
+[<img src='https://images.groovetech.io/SL6bV_EfwZ7gAltPZquF4mpuRF6lVxOjIwgLrCXSqJ0/rs:fit:0:0:0/g:no:0:0/c:0:0/aHR0cHM6Ly9hc3NldHMuZ3Jvb3ZlYXBwcy5jb20vaW1hZ2VzLzVkYWViNjIzYjI1NmM1MGUyNTk5M2NjNi8xNjYxMzQ4MDQ0X0dyb3VwMzEucG5n.webp' width='300' />](https://groove.cm/)
 
 > Groove is a website creator, page builder, sales funnel maker, membership site platform, email autoresponder, blog tool, shopping cart system, ecommerce store solution, affiliate manager, video marketing software and more apps to help build your online business.
 
@@ -2337,7 +2337,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [11. SurveyMonkey: The World’s Most Popular Free Online Survey Tool](https://www.surveymonkey.com/)
 
-[<img src='https://prod.smassets.net/assets/website/2.188.0/images/logo-surveymonkey.svg' width='300' />](https://www.surveymonkey.com/)
+[<img src='https://prod.smassets.net/assets/website/2.188.0/images/surveymonkey-blog.png' width='300' />](https://www.surveymonkey.com/)
 
 > Use SurveyMonkey to drive your business forward by using our free online survey tool to capture the voices and opinions of the people who matter most to you.
 
@@ -2346,7 +2346,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [12. Video Maker | Create Videos Online | Promo.com](https://promo.com/)
 
-[<img src='https://ak01-promo-cdn.slidely.com/images/promoVideos/Santa.svg/1664880883' width='300' />](https://promo.com/)
+[<img src='https://ak03-promo-cdn.slidely.com/images/promoVideos/default-og.jpg/1664880883' width='300' />](https://promo.com/)
 
 > Free customizable video maker to help boost your business. Video creator for ads, social media, product and explainer videos, and for anything else you need!
 
@@ -2355,7 +2355,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [13. beehiiv — The newsletter platform built for growth](https://www.beehiiv.com/)
 
-[<img src='https://www.beehiiv.com/star-1.svg' width='300' />](https://www.beehiiv.com/)
+[<img src='https://media.beehiiv.net/static_assets/defaults/beehiiv-thumbnail.png' width='300' />](https://www.beehiiv.com/)
 
 > Access the best tools available in email, helping your newsletter scale and monetize like never before.
 
@@ -2364,7 +2364,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [14. GetResponse | Professional Email Marketing for Everyone](https://www.getresponse.com/)
 
-[<img src='https://us-wn.gr-cdn.com/_next/static/media/email_marketing.589611fb.svg' width='300' />](https://www.getresponse.com/)
+[<img src='https://us-wn.gr-cdn.com/_next/static/media/social-share.8d26a6bc.png' width='300' />](https://www.getresponse.com/)
 
 > No matter your level of expertise, we have a solution for you. At GetResponse, it's email marketing done right. Start your free account today!
 
@@ -2384,7 +2384,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [1. Simplescraper — Scrape Websites and turn them into APIs](https://simplescraper.io/)
 
-[<img src='undefined' width='300' />](https://simplescraper.io/)
+[<img src='https://simplescraper.io/easy_scraper_social.png' width='300' />](https://simplescraper.io/)
 
 > Web scraping made easy — a powerful and free Chrome extension for scraping websites in your browser, automated in the cloud, or via API. No code required.
 
@@ -2393,7 +2393,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [2. Exploding Topics - Discover the hottest new trends.](https://explodingtopics.com/)
 
-[<img src='https://explodingtopics.com/static/images/grid-line.svg' width='300' />](https://explodingtopics.com/)
+[<img src='https://explodingtopics.com/static/exploding-topics-social-og.png' width='300' />](https://explodingtopics.com/)
 
 > See new market opportunities, trending topics, emerging technology, hot startups and more on Exploding Topics.
 
@@ -2402,7 +2402,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [3. Scribe | Visual step-by-step guides](https://scribehow.com/)
 
-[<img src='https://assets-global.website-files.com/615f415173b71a5211e28de7/615f6a53ee1b7359810a43e6_scribe-logo.svg' width='300' />](https://scribehow.com/)
+[<img src='https://assets-global.website-files.com/615f415173b71a5211e28de7/62157d893b7545f369cd25e6_og.png' width='300' />](https://scribehow.com/)
 
 > By capturing your process while you work, Scribe automatically generates a visual guide, ready to share with the click of a button.
 
@@ -2411,7 +2411,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [4. Get It Free – The internet's BEST place to find free stuff!](https://getitfree.us/)
 
-[<img src='https://getitfree.us/wp-content/themes/getitfree/assets/img/logo.png' width='300' />](https://getitfree.us/)
+[<img src='https://getitfree.us/wp-content/plugins/samples-core/assets/img/logo.png' width='300' />](https://getitfree.us/)
 
 > The internet's BEST place to find free stuff!
 
@@ -2429,7 +2429,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [6. Free Online Form Builder & Form Creator | Jotform](https://www.jotform.com/)
 
-[<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' width='300' />](https://www.jotform.com/)
+[<img src='https://cdn.jotfor.ms/assets/img/landing/opengraph.png' width='300' />](https://www.jotform.com/)
 
 > We believe the right form makes all the difference. Go from busywork to less work with powerful forms that use conditional logic, accept payments, generate reports, and automate workflows.
 
@@ -2456,7 +2456,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [9. Create Infographics, Reports and Maps - Infogram](https://infogram.com/)
 
-[<img src='https://cdn-web.jifo.co/_next/static/images/logo-light-6a12d956b64625dbed69e989c9a86b03.svg' width='300' />](https://infogram.com/)
+[<img src='https://cdn.jifo.co/i/frontpage/infogram_share_v3.jpg' width='300' />](https://infogram.com/)
 
 > Infogram is an easy to use infographic and chart maker. Create and share beautiful infographics, online reports, and interactive maps. Make your own here.
 
@@ -2465,7 +2465,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [10. Confetto - Create Instagram content in minutes](https://www.confet.to/)
 
-[<img src='https://uploads-ssl.webflow.com/625c2db3c8a26a3314c25752/625c3f000d7f5c1fead6f7a4_Confetto-logo.png' width='300' />](https://www.confet.to/)
+[<img src='https://uploads-ssl.webflow.com/625c2db3c8a26a3314c25752/628531b238497fa3c3d9bbd8_Homepage.png' width='300' />](https://www.confet.to/)
 
 > Confetto is an all-in-one social media marketing tool built for SMBs and Social Media Managers. Confetto helps you create high-quality content for your audience that maximizes your reach and engagement on social media. Design, copy-write, plan and schedule content all in one place.
 
@@ -2474,7 +2474,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [11. Find email addresses in seconds • Hunter (Email Hunter)](https://hunter.io/)
 
-[<img src='https://hunter.io/assets/customers_logos/google-1a5bff0e369d93820100d14e89817218c1b4a8be39a3cd1eab305af74d32d8cb.svg' width='300' />](https://hunter.io/)
+[<img src='https://hunter.io/assets/social_card/default-d06ff682b93b61db6b56968567844e2cd33f7d6a832e7a2dbe1c830a55872c32.jpg' width='300' />](https://hunter.io/)
 
 > Hunter is the leading solution to find and verify professional email addresses. Start using Hunter and connect with the people that matter for your business.
 > 
@@ -2493,7 +2493,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [13. #1 Free SEO Tools → SEO Review Tools](https://www.seoreviewtools.com/)
 
-[<img src='https://www.seoreviewtools.com/wp-content/themes/seoreviewtools/img/seo-review-tools.png' width='300' />](https://www.seoreviewtools.com/)
+[<img src='http://www.seoreviewtools.com/wp-content/uploads/seo-review-tools-social.png' width='300' />](https://www.seoreviewtools.com/)
 
 > SEO Review Tools: 42+ Free Online SEO Tools build with ❤! → Rank checker → Domain Authority Checker → Keyword Tool → Backlink Checker
 
@@ -2502,7 +2502,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [14. Podcastle: Seamless Podcast Recording & Editing](https://podcastle.ai/)
 
-[<img src='https://podcastle.ai/images/arrow-long.svg' width='300' />](https://podcastle.ai/)
+[<img src='https://storage.googleapis.com/podcastle-prod-public/images/og/podcastle.jpg' width='300' />](https://podcastle.ai/)
 
 > Podcastle is the simplest way to create professional-quality podcasts. Record, edit, transcribe, and export your content with the power of AI, in an intuitive web-based platform.
 
@@ -2511,7 +2511,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [15. Save Ads from TikTok & Facebook Ad Library - Foreplay](https://www.foreplay.co/)
 
-[<img src='https://assets.website-files.com/62a4ed18ddad95dde8b8bfa4/62a4f62f41c0d911a297a8bd_foreplay-logo-full-white.svg' width='300' />](https://www.foreplay.co/)
+[<img src='https://assets.website-files.com/62a4ed18ddad95dde8b8bfa4/62b8addb9b109a2d4349904a_1200x630.png' width='300' />](https://www.foreplay.co/)
 
 > The best way to save ads from TikTok Creative Center and Facebook Ad Library, Organize them into boards and share ad inspiration with your team. Supercharge your creative strategy.
 
@@ -2520,7 +2520,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [16. SiteRight - Automate Your Business](https://www.siteright.co/)
 
-[<img src='https://uploads-ssl.webflow.com/61914141ebd9a28712f489b2/6293da9e9cdd912acd0d7d42_SiteRight%20Logo%20(2022%20Update)-01.png' width='300' />](https://www.siteright.co/)
+[<img src='https://uploads-ssl.webflow.com/61914141ebd9a28712f489b2/6194a3bea0630d8c593d6353_2.jpg' width='300' />](https://www.siteright.co/)
 
 > SiteRight combines the abilities of multiple online resources into a single dashboard allowing you to have full control over how you manage your business.
 
@@ -2529,7 +2529,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [17. Diffchecker - Compare text online to find the difference between two text files](https://www.diffchecker.com/)
 
-[<img src='https://www.diffchecker.com/static/images/logo-v3.png' width='300' />](https://www.diffchecker.com/)
+[<img src='https://www.diffchecker.com/static/images/fb-image.png' width='300' />](https://www.diffchecker.com/)
 
 > Diffchecker will compare text to find the difference between two text files. Just paste your files and click Find Difference!
 
@@ -2538,7 +2538,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [18. Yout.com](https://yout.com/)
 
-[<img src='https://yout.com/static/images/yout-w-a.d06f09cb.png' width='300' />](https://yout.com/)
+[<img src='https://yout.com/static/images/Youty.png' width='300' />](https://yout.com/)
 
 > Yout.com allows you to record videos from YouTube, FaceBook, SoundCloud, VK and others too many formats with clipping. Intuitively easy to use, with Yout the Internet DVR, with a bit of extra.
 
@@ -2547,7 +2547,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [19. AI Content Generation | Competitor Analysis - Predis.ai](https://predis.ai/)
 
-[<img src='https://predis.ai/assets/img/xpredis_logo.png.pagespeed.ic.cwItWLNYcW.png' width='300' />](https://predis.ai/)
+[<img src='https://predis.ai/assets/img/predis_logo.png' width='300' />](https://predis.ai/)
 
 > Predis helps brands and influencers communicate better on social media by 
 >     providing AI-powered content strategy analysis, content and hashtag recommendations.
@@ -2557,7 +2557,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [20. Castr | #1 Live Video Streaming Solution With Video Hosting](https://castr.io/)
 
-[<img src='data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%2037'%3E%3C/svg%3E' width='300' />](https://castr.io/)
+[<img src='https://castr.io/wp-content/uploads/2021/03/Castr--scaled.jpeg' width='300' />](https://castr.io/)
 
 > Castr is a live video streaming solution platform that delivers enterprise-grade live videos globally with CDN. Live event streaming, video hosting, pre-recorded live, multi stream – all in one place using Castr.
 
@@ -2566,7 +2566,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [21. Headliner - Promote your podcast, radio show or blog with video](https://www.headliner.app/)
 
-[<img src='data:image/svg+xml;nitro-empty-id=MTQxOjUzMA==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTU1NSAzMzIiIHdpZHRoPSIxNTU1IiBoZWlnaHQ9IjMzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=' width='300' />](https://www.headliner.app/)
+[<img src='https://www.headliner.app/wp-content/uploads/2021/07/MetaIMG.BrochureA.2021.png' width='300' />](https://www.headliner.app/)
 
 > Easily create videos to promote your podcast, radio show or blog. Share to Instagram, Facebook, Twitter, YouTube, Linkedin and anywhere video lives
 
@@ -2575,7 +2575,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [22. Create Presentations, Infographics, Design & Video | Visme](https://www.visme.co/)
 
-[<img src='https://www.visme.co/wp-content/themes/visme/images/Visme-logo-dark-hor.svg' width='300' />](https://www.visme.co/)
+[<img src='https://www.visme.co/wp-content/uploads/2020/02/Visme-Content-Maker.jpg' width='300' />](https://www.visme.co/)
 
 > Create professional presentations, interactive infographics, beautiful design and engaging videos, all in one place. Start using Visme today.
 
@@ -2593,7 +2593,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [24. SwipeWell | Swipe File Software](https://www.swipewell.app/)
 
-[<img src='data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2732%27%20height=%2732%27/%3e' width='300' />](https://www.swipewell.app/)
+[<img src='https://www.swipewell.app/assets/OG_Image.png' width='300' />](https://www.swipewell.app/)
 
 > The only Chrome extension dedicated to helping you save, organize, and reference marketing examples (so you never feel stumped).
 
@@ -2602,7 +2602,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [25. Tango | Create how-to guides, in seconds](https://www.tango.us/)
 
-[<img src='https://assets.website-files.com/6082c60d97b1e8632342d7d2/618596d0080022367bcde305_tango-logotype.svg' width='300' />](https://www.tango.us/)
+[<img src='https://assets.website-files.com/6082c60d97b1e8632342d7d2/63362f95cb44483bedd39307_New%20Open%20graph%20image%20-%209.26.22%20(1).jpg' width='300' />](https://www.tango.us/)
 
 > Tango takes the pain out of documenting processes by automatically generating how-to guides while you work. Empower your team to do their best work.
 
@@ -2611,7 +2611,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [26. Ad Creative Bank](https://www.theadcreativebank.com/)
 
-[<img src='https://static.wixstatic.com/media/862388_926f596a947346ec9609c1c0eabf62c8~mv2.jpg/v1/crop/x_365,y_0,w_5175,h_3937/fill/w_81,h_62,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/shutterstock_491412196.jpg' width='300' />](https://www.theadcreativebank.com/)
+[<img src='https://static.wixstatic.com/media/862388_b9065fb3ac744dd2ac48c41921575dc6%7Emv2.png/v1/fit/w_2500,h_1330,al_c/862388_b9065fb3ac744dd2ac48c41921575dc6%7Emv2.png' width='300' />](https://www.theadcreativebank.com/)
 
 > Get inspired by ads from across industries, learn new best practices, and start thinking creatively about your brand’s digital creative.
 
@@ -2620,7 +2620,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [27. Signature Hound • Free Email Signature and Template Generator](https://signaturehound.com/)
 
-[<img src='https://signaturehound.com/images/instructions/gmail-webmail.png' width='300' />](https://signaturehound.com/)
+[<img src='https://signaturehound.com/images/social-share.png' width='300' />](https://signaturehound.com/)
 
 > Our email signature generator is free and easy to use. Our customizable templates work with Gmail, Outlook, Office 365, Apple Mail and more.
 
@@ -2629,7 +2629,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [28. Organize All Of Your Marketing In One Place - CoSchedule](https://coschedule.com/)
 
-[<img src='data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%271200%27%20height=%27533%27/%3e' width='300' />](https://coschedule.com/)
+[<img src='https://coschedule.com/img/meta/meta-img.png' width='300' />](https://coschedule.com/)
 
 > Get more done in less time with the only work management software for marketers.
 
@@ -2647,7 +2647,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [30. OmmWriter](https://ommwriter.com/)
 
-[<img src='https://ommwriter.com/wp-content/themes/ommwriter_theme/img/writer1.jpg' width='300' />](https://ommwriter.com/)
+[<img src='https://ommwriter.com/wp-content/themes/ommwriter_theme/img/og_computer.jpg' width='300' />](https://ommwriter.com/)
 
 > Ommwriter
 
@@ -2692,7 +2692,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [35. InspiroBot](https://inspirobot.me/)
 
-[<img src='https://inspirobot.me/website/images/twitter.png' width='300' />](https://inspirobot.me/)
+[<img src='https://inspirobot.me/website/images/inspirobot-dark-green.png' width='300' />](https://inspirobot.me/)
 
 > 
 
@@ -2710,7 +2710,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [37. No Code Chatbot Platform | Free Chatbot Platform | WotNot](https://wotnot.io/)
 
-[<img src='https://images.ctfassets.net/foc8yxpzaiuk/1y3yM1OMqAVNvMlBRCf9Ec/4c3a3580faa28cad63c77562d99ee7d0/Lead_Generation.svg' width='300' />](https://wotnot.io/)
+[<img src='https://images.ctfassets.net/foc8yxpzaiuk/4vMquqQ5T5jeR06tpqVk79/b21ba40e07107945ff4eedbc6e6875cf/Image__6_.png' width='300' />](https://wotnot.io/)
 
 > WotNot is the best no code chatbot platform to build AI bot easily without coding. Deploy bots and live chat on the Website, Messenger, WhatsApp, and more.
 
@@ -2728,7 +2728,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [39. Systeme.io - The only tool you need to launch your online business](https://systeme.io/)
 
-[<img src='https://d1yei2z3i6k35z.cloudfront.net/161/6093bf5960c6b_image10.png' width='300' />](https://systeme.io/)
+[<img src='https://d1yei2z3i6k35z.cloudfront.net/161/60ad0c73e34fc_socialNcopie.png' width='300' />](https://systeme.io/)
 
 > Systeme.io has all the tools you need to grow your online business. Click here to create your FREE account!
 
@@ -2748,7 +2748,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [2. The Visual Collaboration Platform for Every Team | Miro](https://miro.com/)
 
-[<img src='https://images.ctfassets.net/w6r2i5d8q73s/21VkY7RX1MDBBeiQaY3SQe/b97afb5de86853e0e3ddf5866ec2d2ad/new-templates.png?w=13&h=9' width='300' />](https://miro.com/)
+[<img src='https://images.ctfassets.net/w6r2i5d8q73s/5J5nDn6zB1RX2xdCocQcy6/43b468d72b99c0c2a147dda89dcb97b5/miro.png' width='300' />](https://miro.com/)
 
 > Scalable, secure, cross-device and enterprise-ready team collaboration whiteboard for distributed teams. Join 35M+ users from around the world.
 
@@ -2757,7 +2757,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [3. Grammarly: Free Online Writing Assistant](https://www.grammarly.com/)
 
-[<img src='https://static.grammarly.com/assets/files/cb6ce17d281d15f2c819035bcd430b0e/ukraine_grammarly_logo.svg' width='300' />](https://www.grammarly.com/)
+[<img src='https://static.grammarly.com/assets/files/24a1bbf5ca036df03402fbb571f640a2/open-graph-image-newfunnel.png' width='300' />](https://www.grammarly.com/)
 
 > Millions trust Grammarly’s free writing app to make their online writing clear and effective. Getting started is simple — download Grammarly’s extension today.
 
@@ -2766,7 +2766,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [4. Rize · Maximize Your Productivity](https://rize.io/)
 
-[<img src='https://uploads-ssl.webflow.com/61faf45c39183b1a95adaaec/61fb20c29cd675775e238551_hero.svg' width='300' />](https://rize.io/)
+[<img src='https://rize-io.s3-us-west-1.amazonaws.com/assets/vanity/v3/og.png' width='300' />](https://rize.io/)
 
 > Rize is a smart time tracker that improves your focus and helps you build better work habits.
 
@@ -2775,7 +2775,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [5. Motion | Manage calendars, meetings, projects & tasks in one app](https://www.usemotion.com/)
 
-[<img src='https://assets.website-files.com/5fcb349058268443b1f5dbdb/62265e06cee82d77c29cc84d_motion-logo.svg' width='300' />](https://www.usemotion.com/)
+[<img src='https://assets.website-files.com/5fcb349058268443b1f5dbdb/6231fec4e8fc7044d1b863e1_preview.png' width='300' />](https://www.usemotion.com/)
 
 > Automatically prioritize tasks, schedule meetings, and resolve calendar conflicts. Used by over 10k CEOs and professionals to improve focus, get more done, and streamline workday.
 
@@ -2784,7 +2784,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [6. Notion – One workspace. Every team.](https://www.notion.so/)
 
-[<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' width='300' />](https://www.notion.so/)
+[<img src='https://www.notion.so/front-static/meta/default.png' width='300' />](https://www.notion.so/)
 
 > We’re more than a doc. Or a table. Customize Notion to work the way you do.
 
@@ -2793,7 +2793,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [7. Loom: Async Video Messaging for Work | Loom](https://www.loom.com/)
 
-[<img src='data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27805%27%20height=%27649%27/%3e' width='300' />](https://www.loom.com/)
+[<img src='https://cdn.sanity.io/images/pvn35iyy/production/38d2b681648b73c67173e22c6775e2a1d50809cf-2400x1254.png?fm=jpg' width='300' />](https://www.loom.com/)
 
 > Record your screen, share your thoughts, and get things done faster with async video.
 
@@ -2802,7 +2802,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [8. Zapier | Automation that moves you forward](https://zapier.com/)
 
-[<img src='https://res.cloudinary.com/zapier-media/image/upload/q_auto/f_auto/v1658927191/Company%20logos/logo-slack.png' width='300' />](https://zapier.com/)
+[<img src='https://cdn.zappy.app/510654b671e2f1ac493e282bc11882ee.png' width='300' />](https://zapier.com/)
 
 > Workflow automation for everyone. Zapier automates your work across 5,000+ app integrations, so you can focus on what matters.
 
@@ -2811,7 +2811,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [9. Rows — The spreadsheet with superpowers](https://rows.com/)
 
-[<img src='https://rows.com/_next/static/chunks/media/images/illustration01.648cbd6596866ca.png' width='300' />](https://rows.com/)
+[<img src='https://rows.com/_next/static/chunks/media/images/share.52f2c55de2e6fe4.png' width='300' />](https://rows.com/)
 
 > Combine the power of a spreadsheet with built-in integrations from your business apps. Automate workflows and build tools that make work simpler.
 
@@ -2820,7 +2820,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [10. Free Online Form Builder | Tally](https://tally.so/)
 
-[<img src='https://tally.so/images/logo.png' width='300' />](https://tally.so/)
+[<img src='https://tally.so/images/og.jpg' width='300' />](https://tally.so/)
 
 > Tally is the simplest way to create free forms & surveys. Create any type of form in seconds, without knowing how to code, and for free.
 
@@ -2829,7 +2829,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [11. Highbrow | Learn Something New Every Day. Join for Free!](https://gohighbrow.com/)
 
-[<img src='https://gohighbrow.com/wp-content/uploads/2014/12/logo.png' width='300' />](https://gohighbrow.com/)
+[<img src='https://gohighbrow.com/wp-content/uploads/2014/12/home_page_sharing.png' width='300' />](https://gohighbrow.com/)
 
 > Highbrow helps you learn something new every day with 5-minute lessons delivered to your inbox every morning. Join over 400,000 lifelong learners today!
 
@@ -2838,7 +2838,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [12. Slick Write | Check your grammar. Proofread online.](https://www.slickwrite.com/#!home)
 
-[<img src='https://www.paypalobjects.com/en_US/i/scr/pixel.gif' width='300' />](https://www.slickwrite.com/#!home)
+[<img src='https://www.slickwrite.com/ogimage.jpg' width='300' />](https://www.slickwrite.com/#!home)
 
 > Slick Write is a powerful, FREE application that makes it easy to check your writing for grammar errors, potential stylistic mistakes, and other features of interest. Whether you're a blogger, novelist, SEO professional, or student writing an essay for school, Slick Write can help take your writing to the next level.
 
@@ -2874,7 +2874,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [16. Splitbee – Your all-in-one analytics and conversion platform](https://splitbee.io/)
 
-[<img src='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTA5MSIgaGVpZ2h0PSI1ODQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+' width='300' />](https://splitbee.io/)
+[<img src='https://splitbee.io/og-image.png' width='300' />](https://splitbee.io/)
 
 > Track and optimize your online business with Splitbee. Analytics, Funnels, Automations, A/B Testing and more.
 
@@ -2894,7 +2894,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [2. Smallpdf.com - A Free Solution to all your PDF Problems](https://smallpdf.com/)
 
-[<img src='https://s.smallpdf.com/static/95cf74e5f89f93cfd5f97d16fa673f05.svg' width='300' />](https://smallpdf.com/)
+[<img src='https://smallpdf.com/assets/img/fb/smallpdf.png' width='300' />](https://smallpdf.com/)
 
 > Smallpdf - the platform that makes it super easy to convert and edit all your PDF files. Solving all your PDF problems in one place - and yes, free. 
 
@@ -2912,7 +2912,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [4. iLovePDF | Online PDF tools for PDF lovers](https://www.ilovepdf.com/)
 
-[<img src='https://www.ilovepdf.com/img/ilovepdf.svg' width='300' />](https://www.ilovepdf.com/)
+[<img src='https://www.ilovepdf.com/img/ilovepdf/social/en-US/ilovepdf.png' width='300' />](https://www.ilovepdf.com/)
 
 > iLovePDF is an online service to work with PDF files completely free and easy to use. Merge PDF, split PDF, compress PDF, office to PDF, PDF to JPG and more!
 
@@ -2941,7 +2941,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [3. Wordtune | Your personal writing assistant & editor](https://www.wordtune.com/)
 
-[<img src='https://uploads-ssl.webflow.com/5f7e0f9d75fee6f6f546df46/619ce3e7b263b663015dd7e9_close.svg' width='300' />](https://www.wordtune.com/)
+[<img src='https://uploads-ssl.webflow.com/5f7e0f9d75fee6f6f546df46/6007dd9185f529bf1968574b_Social%20Share%20v2%20-%20Main.png' width='300' />](https://www.wordtune.com/)
 
 > Wordtune is the ultimate AI writing tool that rewrites, rephrases, and rewords your writing! Trusted by over 1,000,000 users, Wordtune strengthens articles, academic papers, essays, emails and any other online content.
 
@@ -2979,7 +2979,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [4. Best Dropshipping Suppliers for US + EU Products | Spocket](https://www.spocket.co/)
 
-[<img src='https://assets.website-files.com/5b3213161e5234bf1cfff9e1/5f19f2290e03fe6c0f16adaf_spocket-logo.svg' width='300' />](https://www.spocket.co/)
+[<img src='https://assets.website-files.com/5b3213161e5234bf1cfff9e1/5f8f0ef01af94e453b0561c3_homepage-og.jpg' width='300' />](https://www.spocket.co/)
 
 > Spocket allows you to easily start dropshipping top products from US and EU suppliers. Get started for free and see why Spocket consistently gets 5 stars.
 
@@ -3008,7 +3008,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [1. Oberlo | Where Self Made is Made](https://www.oberlo.com/)
 
-[<img src='https://www.oberlo.com/media/1601648766-icnyneweditsweb-6-1.jpg' width='300' />](https://www.oberlo.com/)
+[<img src='https://www.oberlo.com/media/1603106600-en.jpg' width='300' />](https://www.oberlo.com/)
 
 > Start selling online now with Shopify. All the videos, podcasts, ebooks, and dropshipping tools you'll need to build your online empire.
 
@@ -3017,7 +3017,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [2. Klaviyo: Marketing Automation Platform for Email & SMS](https://www.klaviyo.com/)
 
-[<img src='data:image/svg+xml;charset=utf-8,%3Csvg height='281' width='240' xmlns='http://www.w3.org/2000/svg' version='1.1'%3E%3C/svg%3E' width='300' />](https://www.klaviyo.com/)
+[<img src='https://www.klaviyo.com/static/9974b49f1839013c0061d8897b8cd86b/klaviyo-social-share-image.jpg' width='300' />](https://www.klaviyo.com/)
 
 > Klaviyo, an ecommerce marketing automation platform for email marketing and sms syncs your tech stack with your website store to scale your business.
 
@@ -3026,7 +3026,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [3. SMSBump | SMS Marketing E-Commerce App for Shopify](https://smsbump.com/)
 
-[<img src='https://dnuaqhs941n75.cloudfront.net/img/website/smsbump-yotpo-2.svg' width='300' />](https://smsbump.com/)
+[<img src='https://smsbump.com/img/og_images/homepage.png' width='300' />](https://smsbump.com/)
 
 > SMSBump is an SMS marketing & automation app for Shopify. Segment customers, recover orders, send campaign text messages with a 35%+ click through rate.
 
@@ -3035,7 +3035,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [4. AfterShip: The #1 Shipment Tracking Platform](https://www.aftership.com/)
 
-[<img src='https://a.storyblok.com/f/79434/x/0ceed15f3e/about-us.svg' width='300' />](https://www.aftership.com/)
+[<img src='https://s3.amazonaws.com/assets.aftership.com/img/aftership_facebook_share_thumbnail.png' width='300' />](https://www.aftership.com/)
 
 > Order status lookup, branded tracking page, and multi-carrier tracking API for eCommerce. Supports USPS, FedEx, UPS, and 900+ carriers worldwide.
 
@@ -3044,7 +3044,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [5. #1 Dropshipping App | Zendrop](https://zendrop.com/)
 
-[<img src='https://zendrop.com/wp-content/uploads/2021/04/logo_d.svg' width='300' />](https://zendrop.com/)
+[<img src='https://zendrop.com/wp-content/uploads/2021/11/Zendrop.png' width='300' />](https://zendrop.com/)
 
 > Start and scale your own dropshipping business with Zendrop. Sell and easily fulfill your orders with the fastest shipping in the industry.
 
@@ -3053,7 +3053,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [6. Best Dropshipping Suppliers for US + EU Products | Spocket](https://www.spocket.co/)
 
-[<img src='https://assets.website-files.com/5b3213161e5234bf1cfff9e1/5f19f2290e03fe6c0f16adaf_spocket-logo.svg' width='300' />](https://www.spocket.co/)
+[<img src='https://assets.website-files.com/5b3213161e5234bf1cfff9e1/5f8f0ef01af94e453b0561c3_homepage-og.jpg' width='300' />](https://www.spocket.co/)
 
 > Spocket allows you to easily start dropshipping top products from US and EU suppliers. Get started for free and see why Spocket consistently gets 5 stars.
 
@@ -3091,7 +3091,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [4. All your video needs in one place | Clipchamp](https://clipchamp.com/)
 
-[<img src='https://images.ctfassets.net/b4k16c7lw5ut/5LbGTI1r5Q6hTBWHR2ALIH/196f43ea35e5d2f31f0fd3465558dc61/logo-purple-bg.svg' width='300' />](https://clipchamp.com/)
+[<img src='https://images.ctfassets.net/b4k16c7lw5ut/4kUq2MuaqToMM52D1J8mHs/d0acb440508e06439d302ce33221283c/default.jpg' width='300' />](https://clipchamp.com/)
 
 > Fast-forward your creations with our video editing platform. Start with a video template or record your webcam or screen. Get the pro look with filters, transitions, text and more. Then, export in minutes and share in an instant.  
 
@@ -3100,7 +3100,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [5. Descript | All-in-one audio/video editing, as easy as a doc.](https://www.descript.com/)
 
-[<img src='https://assets-global.website-files.com/5d761d627a6dfa6a5b28ab12/5d761d627a6dfa6c3f28ab40_descript-logo.svg' width='300' />](https://www.descript.com/)
+[<img src='https://assets-global.website-files.com/5d761d627a6dfa6a5b28ab12/611ae20e6437e9af44306b9c_Descript_Podcast_App_Features.png' width='300' />](https://www.descript.com/)
 
 > Record, transcribe, edit, mix, collaborate, and master your audio and video with Descript. Download for free →.
 
@@ -3109,7 +3109,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [6. Kapwing — Reach more people with your content](https://www.kapwing.com/)
 
-[<img src='https://cdn.kapwing.com/static/9XE-logo-small.webp' width='300' />](https://www.kapwing.com/)
+[<img src='https://cdn.kapwing.com/static/ROz-og-image.webp' width='300' />](https://www.kapwing.com/)
 
 > Kapwing is a collaborative, online content creation platform that you can use to edit video and create content. Join over 10 million modern creators who trust Kapwing to create, edit, and grow their content on every channel.
 
@@ -3136,7 +3136,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [9. Kapwing — Reach more people with your content](https://www.kapwing.com/)
 
-[<img src='https://cdn.kapwing.com/static/9XE-logo-small.webp' width='300' />](https://www.kapwing.com/)
+[<img src='https://cdn.kapwing.com/static/ROz-og-image.webp' width='300' />](https://www.kapwing.com/)
 
 > Kapwing is a collaborative, online content creation platform that you can use to edit video and create content. Join over 10 million modern creators who trust Kapwing to create, edit, and grow their content on every channel.
 
@@ -3145,7 +3145,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [10. ClipDrop](https://clipdrop.co/)
 
-[<img src='https://clipdrop.co/_next/image?url=https%3A%2F%2Fstatic.clipdrop.co%2Fweb%2Fhomepage%2Fuse-case_ecommerce.webp&w=1920&q=75' width='300' />](https://clipdrop.co/)
+[<img src='http://static.clipdrop.co/web/homepage/preview.jpg' width='300' />](https://clipdrop.co/)
 
 > Create professional visuals without a photo studio
 
@@ -3163,7 +3163,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [12. VEED - Online Video Editor - Video Editing Made Simple](https://www.veed.io/)
 
-[<img src='https://assets-global.website-files.com/616e938268c8f02f94b2b53c/616e938268c8f06a8db2b5a9_veed-alt.svg' width='300' />](https://www.veed.io/)
+[<img src='https://assets-global.website-files.com/5ea7ec2f0fe2ee14fc247bf0/601a85303dc778f045aa6a27_Frame%207%20(1).png' width='300' />](https://www.veed.io/)
 
 > Make stunning videos with a single click. Cut, trim, crop, add subtitles and more. Online, no account needed. Try it now, free. VEED
 
@@ -3181,7 +3181,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [14. Runway - Online Video Editor | Everything you need to make content, fast.](https://runwayml.com/)
 
-[<img src='https://runwayml.com/images/icons/video-editing.svg' width='300' />](https://runwayml.com/)
+[<img src='https://runwayml.com/images/og/og_2022-V1.png' width='300' />](https://runwayml.com/)
 
 > Discover advanced video editing capabilities to take your creations to the next level.
 
@@ -3190,7 +3190,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [15. CreatorKit - A.I. video creator for marketers](https://creatorkit.com/)
 
-[<img src='https://creatorkit.com/gatsby/static/mano_peludita-c8b0e2014219516fcc52d81c3090271c.png' width='300' />](https://creatorkit.com/)
+[<img src='https://blog.creatorkit.com/content/images/2022/10/og-image.jpg' width='300' />](https://creatorkit.com/)
 
 > Create videos with just one click, using our A.I. video editor purpose built for marketers. Create scroll stopping videos, Instagram stories, Ads, Reels, and TikTok videos.
 
@@ -3199,7 +3199,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [16. Pixar in a Box | Computing | Khan Academy](https://www.khanacademy.org/computing/pixar)
 
-[<img src='data:image/svg+xml;charset=utf8,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%3E%3C/svg%3E' width='300' />](https://www.khanacademy.org/computing/pixar)
+[<img src='https://cdn.kastatic.org/images/khan-logo-dark-background-2.png' width='300' />](https://www.khanacademy.org/computing/pixar)
 
 > 
 
@@ -3210,7 +3210,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [1. Plask - AI Motion Capture and 3D Animation Tool](https://plask.ai/)
 
-[<img src='undefined' width='300' />](https://plask.ai/)
+[<img src='https://user-images.githubusercontent.com/88308589/147996881-5ee0c416-44c3-406f-b74f-f34b1832f9ac.png' width='300' />](https://plask.ai/)
 
 > Plask is an all-in-one browser-based AI motion capture tool and animation editor that anybody can use, from motion designers to every day content creators.
 
@@ -3221,7 +3221,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [1. Captions](https://www.getcaptions.app/)
 
-[<img src='https://assets.website-files.com/60d0c29c2e1261708dd228ea/60d0e130ca300755ad33d0d7_captions-logo-navbar.svg' width='300' />](https://www.getcaptions.app/)
+[<img src='https://assets.website-files.com/60d0c29c2e1261708dd228ea/62dec426e327b622dca44c9a_OGP.png' width='300' />](https://www.getcaptions.app/)
 
 > Say hello to Captions, the only camera and editing app that automatically transcribes, captions and clips your talking videos for you.
 
@@ -3250,7 +3250,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [3. Mixkit - Awesome free assets for your next video project](https://mixkit.co/)
 
-[<img src='https://mixkit.imgix.net/static/home/video-thumb1.png?q=80&auto=format%2Ccompress&w=445&h=250&fit=crop' width='300' />](https://mixkit.co/)
+[<img src='https://mixkit.imgix.net/mixkit-social-meta.png?q=80&auto=format%2Ccompress' width='300' />](https://mixkit.co/)
 
 > Download Free Stock Video Footage, Stock Music & Premiere Pro Templates for your next video editing project. All assets can be downloaded for free!
 
@@ -3259,7 +3259,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [4. Free Stock Video Footage HD 4K Download Royalty-Free Clips](https://www.videvo.net/)
 
-[<img src='data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHdpZHRoPSI5OTk5OXB4IiBoZWlnaHQ9Ijk5OTk5cHgiIHZpZXdCb3g9IjAgMCA5OTk5OSA5OTk5OSIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj48ZyBzdHJva2U9Im5vbmUiIGZpbGw9Im5vbmUiIGZpbGwtb3BhY2l0eT0iMCI+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9Ijk5OTk5IiBoZWlnaHQ9Ijk5OTk5Ij48L3JlY3Q+IDwvZz4gPC9zdmc+' width='300' />](https://www.videvo.net/)
+[<img src='https://www.videvo.net/wp-content/uploads/2015/11/Logo_2.png' width='300' />](https://www.videvo.net/)
 
 > Download free stock video footage with over 300,000 video clips in 4K and HD. We also offer a wide selection of music and sound effect files with over 180,000 clips available. Click here to download royalty-free licensing videos, motion graphics, music and sound effects from Videvo today.
 
@@ -3268,7 +3268,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [5. Free Stock Video Footage HD Royalty-Free Videos Download](https://mazwai.com/)
 
-[<img src='data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHdpZHRoPSI5OTk5OXB4IiBoZWlnaHQ9Ijk5OTk5cHgiIHZpZXdCb3g9IjAgMCA5OTk5OSA5OTk5OSIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj48ZyBzdHJva2U9Im5vbmUiIGZpbGw9Im5vbmUiIGZpbGwtb3BhY2l0eT0iMCI+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9Ijk5OTk5IiBoZWlnaHQ9Ijk5OTk5Ij48L3JlY3Q+IDwvZz4gPC9zdmc+' width='300' />](https://mazwai.com/)
+[<img src='https://mazwai.com/' width='300' />](https://mazwai.com/)
 
 > Download free stock video footage with clips available in HD. Click here to download royalty-free licensing videos from Mazwai now.
 
@@ -3286,7 +3286,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [7. Free Stock Video Footage, Royalty Free Videos for Download](https://coverr.co/)
 
-[<img src='https://image.mux.com/bRZDK6axXokrN02Rrv1vzJbWbb47FrwSC/thumbnail.jpg?token=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InQ5UHZucm9ZY0hQNjhYSmlRQnRHTEVVSkVSSXJ0UXhKIn0.eyJ3aWR0aCI6NjQwLCJ0aW1lIjowLCJleHAiOjMxNzE5MjE3MTAwNSwiYXVkIjoidCIsInN1YiI6ImJSWkRLNmF4WG9rck4wMlJydjF2ekpiV2JiNDdGcndTQyJ9.K5V1HcmfaHyju_Cy3cHP3q9WzucF3vKJKh7oP5wZuXaTe5fji1fASER2PgGrLK1rj21scbXPfs-Urk_t1UfpRw5Pw9bTmuHe1VVv19HN4HSmoRWL8EfpqecIyxWSFeHTKfXiElqkwfdzYeCHJPqetfQcGDdtcYMfIovtuz9UVWp0GNzeADfPo_cQdyRvrcdTdix5QBVNVraGklldC37oBMU0m7CQmlhVtqpo4HbURjPej7Qaun0g93FhHgjFwDf_2vm8YTT1ODXKH2UYuBerK0ZJnbTChxdCRDpM5XUd0BPk4MNkp6c90Dsc4F1ENrV5yswGHFKJFsVXc_VU6hfa2w' width='300' />](https://coverr.co/)
+[<img src='https://storage.googleapis.com/coverr-public/coverr_meta_image.jpg' width='300' />](https://coverr.co/)
 
 > Download royalty free (for personal and commercial use), unique and beautiful video footage for your website or any project. No attribution required.
 
@@ -3297,7 +3297,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [1. Beautiful Free Images & Pictures | Unsplash](https://unsplash.com/)
 
-[<img src='https://images.unsplash.com/photo-1664127543072-8615a3b17367?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1vZi10aGUtZGF5fHx8fGVufDB8fHx8&auto=format%2Ccompress&fit=crop&w=1000&h=1000' width='300' />](https://unsplash.com/)
+[<img src='https://images.unsplash.com/opengraph/1x1.png?auto=format&fit=crop&w=1200&h=630&q=60&mark-w=64&mark-align=top%2Cleft&mark-pad=50&blend-w=1&mark=https%3A%2F%2Fimages.unsplash.com%2Fopengraph%2Flogo.png&blend=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1664127543072-8615a3b17367%3Fcrop%3Dfaces%252Cedges%26cs%3Dtinysrgb%26fit%3Dcrop%26fm%3Djpg%26ixid%3DMnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjY1NjYwMzA3%26ixlib%3Drb-1.2.1%26q%3D60%26w%3D1200%26auto%3Dformat%26h%3D630%26mark-w%3D424%26mark-align%3Dmiddle%252Ccenter%26blend-mode%3Dnormal%26blend-alpha%3D10%26mark%3Dhttps%253A%252F%252Fimages.unsplash.com%252Fopengraph%252Fwordmark.png%26blend%3D000000' width='300' />](https://unsplash.com/)
 
 > Beautiful, free images and photos that you can download and use for any project. Better than any royalty free or stock photos.
 
@@ -3306,7 +3306,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [2. When we share, everyone wins - Creative Commons](https://creativecommons.org/)
 
-[<img src='https://creativecommons.org/wp-content/themes/cc/images/cc.logo.white.svg' width='300' />](https://creativecommons.org/)
+[<img src='https://creativecommons.org/wp-content/uploads/2022/09/20CC-300x213.png' width='300' />](https://creativecommons.org/)
 
 > Creative Commons licenses are 20! Honoring 20 years of open sharing using CC licenses, join us in 2022 to celebrate Better Sharing — advancing universal access to knowledge and culture, and fostering creativity, innovation, and collaboration. Help us reach our goal of raising $15 million for a future of Better Sharing.  20 Years of Better … Read More "When we share, everyone wins"
 
@@ -3315,7 +3315,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [3. Food Pictures • Foodiesfeed • Free Food Photos](https://www.foodiesfeed.com/)
 
-[<img src='data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E' width='300' />](https://www.foodiesfeed.com/)
+[<img src='https://foodiesfeed.com/wp-content/uploads/2017/06/og.jpg' width='300' />](https://www.foodiesfeed.com/)
 
 > Download 2000+ food pictures ⋆ The best free food photos for commercial use ⋆ CC0 license
 
@@ -3324,7 +3324,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [4. Free Stock Photos and Images for Websites & Commercial Use](https://burst.shopify.com/)
 
-[<img src='https://burst.shopifycdn.com/photos/two-customized-cars-rolling-through-a-city-street.jpg?width=1200&format=pjpg&exif=0&iptc=0' width='300' />](https://burst.shopify.com/)
+[<img src='https://cdn.shopifycloud.com/stock_photos/assets/global/burst-share-df978141accd818331ea8b59ac61c9f52dd7a1d26c96db143e3a2593298b00da.jpg' width='300' />](https://burst.shopify.com/)
 
 > Browse thousands of beautiful copyright-free images. All our pictures are free to download for personal and commercial use, no attribution required.
 > 
@@ -3334,7 +3334,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [5. EyeEm | Authentic Stock Photography and Royalty-Free Images](https://www.eyeem.com/)
 
-[<img src='https://assets-global.website-files.com/5a016d51240da900013d2ea2/5fce247a6f6f3b7c3f802032_logo-strip.svg' width='300' />](https://www.eyeem.com/)
+[<img src='https://www.eyeem.com/node-static/img/ogimages/default.jpg' width='300' />](https://www.eyeem.com/)
 
 > Explore high-quality, royalty-free stock photos for commercial use. License individual images or save money with our flexible subscription and image pack plans.
 
@@ -3343,7 +3343,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [6. picjumbo: Free Stock Photos](https://picjumbo.com/)
 
-[<img src='https://picjumbo.com/wp-content/themes/picjumbofree/data/picjumbo_logo.png' width='300' />](https://picjumbo.com/)
+[<img src='https://picjumbo.com/wp-content/uploads/free-stock-photos-picjumbo.jpg' width='300' />](https://picjumbo.com/)
 
 > Free stock photos and images for your projects and websites.️ Beautiful 100% free high-resolution stock images with no watermark.
 
@@ -3352,7 +3352,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [7. Free Stock Photos, Images, and Vectors](https://www.stockvault.net/)
 
-[<img src='https://www.stockvault.net/templates/default/images/logo.png' width='300' />](https://www.stockvault.net/)
+[<img src='https://www.stockvault.net/templates/default/images/logo_square.png' width='300' />](https://www.stockvault.net/)
 
 > 139.738 free stock photos, textures, backgrounds and graphics for your next project. No attribution required.
 
@@ -3361,7 +3361,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [8. Free Stock Photos, PNGs, Templates & Mockups | rawpixel](https://www.rawpixel.com/)
 
-[<img src='https://static.rawpixel.com/_next/static/images/footerads-pinterest2-1200-9e8b9c908fd4072e.jpg' width='300' />](https://www.rawpixel.com/)
+[<img src='https://static.rawpixel.com/_next/static/images/img-social-share-2021-84163ec2260c97b90267a91645d2bf3a.jpg' width='300' />](https://www.rawpixel.com/)
 
 > Free images, PNGs, stickers, backgrounds, wallpapers, graphic templates and PSD mockups. All safe to use with commercial licenses.
 
@@ -3390,7 +3390,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [1. Royalty Free Music for video creators | Epidemic Sound](https://www.epidemicsound.com/)
 
-[<img src='undefined' width='300' />](https://www.epidemicsound.com/)
+[<img src='https://cdn.epidemicsound.com/curation-assets/commercial-release-cover-images/1533/300x300.jpg' width='300' />](https://www.epidemicsound.com/)
 
 > Download premium Royalty free Music and SFX! Our free trial gives you access to over 35,000 tracks and 90,000 sound effects for video, streaming and more!
 
@@ -3399,7 +3399,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [2. Royalty-Free Music & SFX for Video Creators | Artlist](https://artlist.io/)
 
-[<img src='https://artlist-dev.imgix.net/common/Artlist-logo.svg' width='300' />](https://artlist.io/)
+[<img src='https://cdn.artlist.io/artlist-aboutpage/new-artlist-logo.jpg' width='300' />](https://artlist.io/)
 
 > Explore the ultimate royalty-free music & sound effects catalogs for unlimited use in YouTube videos, social media & films created by inspiring indie artists worldwide. The go-to music licensing choice for all creators
 
@@ -3408,7 +3408,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [3. Royalty Free Audio Tracks - Envato Elements](https://elements.envato.com/audio)
 
-[<img src='https://envato-shoebox.imgix.net/48f6/cd1b-cfc9-41a6-ab26-cdeabbd4a9c3/_W7A0595_1.jpg?crop=top&fit=crop&fm=jpeg&h=40&q=80&w=60&s=00b65827deeb139a34f3af03a373326d' width='300' />](https://elements.envato.com/audio)
+[<img src='https://assets.elements.envato.com/apps/storefront/og-default-227422eb95d65450e799.jpg' width='300' />](https://elements.envato.com/audio)
 
 > Download Royalty Free Stock Audio Tracks for your next project from Envato Elements. Premium, High Quality handpicked Audio files ideal for any genre.
 
@@ -3417,7 +3417,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [4. License popular music for videos • Lickd](https://lickd.co/)
 
-[<img src='https://lickd.co/wp-content/uploads/2022/06/logo-white.svg' width='300' />](https://lickd.co/)
+[<img src='https://lickd.co/wp-content/uploads/2022/07/Share-Image.jpg' width='300' />](https://lickd.co/)
 
 > The only place you can license popular music for videos. Access 1M+ mainstream tracks, plus high-quality stock music for content creators
 
@@ -3426,7 +3426,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [5. NCS (NoCopyrightSounds) - free music for content creators](https://ncs.io/)
 
-[<img src='https://ncs.io/static/web/img/logo.png?_m=1597301782' width='300' />](https://ncs.io/)
+[<img src='https://ncs.io/static/web/img/logo-og.png?_m=1597301782' width='300' />](https://ncs.io/)
 
 > NCS is a Record Label dedicated to giving a platform to the next generation of Artists in electronic music, representing genres from house to dubstep via trap, drum & bass, electro pop and more.
 
@@ -3437,7 +3437,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [1. Keyword Tool For Monthly Search Volume, CPC & Competition](https://keywordseverywhere.com/)
 
-[<img src='https://keywordseverywhere.com/img/keywords-everywhere-logo.png' width='300' />](https://keywordseverywhere.com/)
+[<img src='https://keywordseverywhere.com/img/screenshots/people-also-search-for.png' width='300' />](https://keywordseverywhere.com/)
 
 > Keywords Everywhere is a browser add-on for Chrome & Firefox that shows search volume, CPC & competition on multiple websites.
 
@@ -3446,7 +3446,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [2. Semrush - Online Marketing Can Be Easy](https://www.semrush.com/)
 
-[<img src='https://cdn.semrush.com/static/index/logos/Tesla_logo.f58ace4c9fc6.svg' width='300' />](https://www.semrush.com/)
+[<img src='https://static.semrush.com/wt-static/semrush-com.png' width='300' />](https://www.semrush.com/)
 
 > Turn the algorithm into a friend. Make your business visible online with 55+ tools for SEO, PPC, content, social media, competitive research, and more.
 
@@ -3455,7 +3455,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [3. DuckDuckGo — Privacy, simplified.](https://duckduckgo.com/)
 
-[<img src='undefined' width='300' />](https://duckduckgo.com/)
+[<img src='https://duckduckgo.com/assets/logo_social-media.png' width='300' />](https://duckduckgo.com/)
 
 > The Internet privacy company that empowers you to seamlessly take control of your personal information online, without any tradeoffs.
 
@@ -3464,7 +3464,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [4. SEO Software for 360° Analysis of Your Website](https://seranking.com/)
 
-[<img src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20500%20310%22%3E%3C/svg%3E' width='300' />](https://seranking.com/)
+[<img src='https://seranking.com/wp-content/uploads/sites/9/2019/07/og-image.png' width='300' />](https://seranking.com/)
 
 > Leading SEO software for business owners, agencies, and SEO specialists. Track your rankings, monitor competitors, spot technical errors, and more.
 
@@ -3473,7 +3473,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [5. Skyrocket your organic traffic with Surfer](https://surferseo.com/)
 
-[<img src='https://assets-global.website-files.com/62666115cfab458794bd512f/6306099013c15cb52bd40ce6_address%20bar%20-%20app.surfer.com.svg' width='300' />](https://surferseo.com/)
+[<img src='https://assets-global.website-files.com/5e09dd04ad6bad1923bf1aae/61389d1e177e837f830b04ee_Surfer%20OG.jpg' width='300' />](https://surferseo.com/)
 
 > Use Surfer to research, write, optimize, and audit! Everything you need to create a comprehensive content strategy that yields real results is right here.
 
@@ -3482,7 +3482,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [6. Ahrefs - SEO Tools & Resources To Grow Your Search Traffic](https://ahrefs.com/)
 
-[<img src='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTMzIiBoZWlnaHQ9IjE2IiB2aWV3Qm94PSIwIDAgMTMzIDE2IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgo8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTEwLjg2NjEgMS4zNDg0VjMuMTkwMzRDMTAuODY2MSAzLjMxMDQ0IDEwLjc4NiAzLjM5MDU0IDEwLjY2NTkgMy4zOTA1NEgyLjc1NzY0VjcuMTU0NTNIOS4yODQ0OEM5LjQwNDU4IDcuMTU0NTMgOS40ODQ2OCA3LjIzNDUyIDkuNDg0NjggNy4zNTQ2MlY5LjE5NjY3QzkuNDg0NjggOS4zMTY3NyA5LjQwNDU4IDkuMzk2NzYgOS4yODQ0OCA5LjM5Njc2SDIuNzU3NjRWMTQuOTYyNkMyLjc1NzY0IDE1LjA4MjggMi42Nzc2NCAxNS4xNjI4IDIuNTU3NDMgMTUuMTYyOEgwLjU3NTMzOEMwLjQ1NTIzOCAxNS4xNjI4IDAuMzc1MjQ0IDE1LjA4MjggMC4zNzUyNDQgMTQuOTYyNlYxLjM0ODRDMC4zNzUyNDQgMS4yMjgzIDAuNDU1MjM4IDEuMTQ4MTkgMC41NzUzMzggMS4xNDgxOUgxMC42NjU5QzEwLjc4NiAxLjE0ODE5IDEwLjg2NjEgMS4yMjgzIDEwLjg2NjEgMS4zNDg0WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0yMi44MDg3IDkuMjM2NTZDMjIuMDc4MSA3LjIxNDQ3IDIxLjI2NzMgNS4xOTIzOCAyMC40MzYzIDMuMzUwNDRIMTkuOTY1OUMxOS4xMzUgNS4xOTIzOCAxOC4zMTQxIDcuMjE0NDcgMTcuNTgzMyA5LjIzNjU2SDIyLjgwODdaTTI3LjAwMzIgMTUuMTYyOEgyNC44MjA5QzI0LjcwMDggMTUuMTYyOCAyNC42MjA3IDE1LjEwMjYgMjQuNTkwNyAxNC45ODI1QzI0LjMwMDMgMTMuODMxMyAyMy45NTAxIDEyLjYyMDEgMjMuNTQ5NiAxMS4zOTg4SDE2Ljg1MjVDMTYuNDUyMiAxMi42MjAxIDE2LjEwMTggMTMuODMxMyAxNS44MjE1IDE0Ljk4MjVDMTUuNzkxNiAxNS4xMDI2IDE1LjcxMTQgMTUuMTYyOCAxNS41OTEzIDE1LjE2MjhIMTMuNDg5MkMxMy4zNDkgMTUuMTYyOCAxMy4yNjg4IDE1LjA4MjggMTMuMzA4OSAxNC45NDI1QzE0LjU3MDIgMTAuNDc4IDE2LjQ5MjIgNS41NTI2OCAxOC40MzQyIDEuNDA4NDVDMTguNTI0MyAxLjIxODI3IDE4LjYzNDUgMS4xNDgxOSAxOC44MjQ3IDEuMTQ4MTlIMjEuNjY3NkMyMS44NTc3IDEuMTQ4MTkgMjEuOTY3OSAxLjIxODI3IDIyLjA1OCAxLjQwODQ1QzI0LjAyMDEgNS41NDI3NiAyNS45MTIxIDEwLjQ3OCAyNy4xODM0IDE0Ljk0MjVDMjcuMjIzNSAxNS4wODI4IDI3LjE0MzQgMTUuMTYyOCAyNy4wMDMyIDE1LjE2MjhaIiBmaWxsPSJ3aGl0ZSIvPgo8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTMwLjU4NTcgOC4yNzcxMUMzMC41ODU3IDMuOTMyNDYgMzMuNDQ4NiAwLjg4OTQwNCAzNy41MzMgMC44ODk0MDRIMzcuODMzMUM0MC4zOTU5IDAuODg5NDA0IDQyLjM3OCAyLjE5MDY3IDQzLjQyOSA0LjA3MjYxQzQzLjQ5OTEgNC4xOTI4MiA0My40NzkxIDQuMjkyODcgNDMuMzU5IDQuMzUzMDNMNDEuNTk3MiA1LjIyMzgxQzQxLjQ3NyA1LjI4Mzg2IDQxLjMyNjcgNS4yODM4NiA0MS4yNDY3IDUuMTMzNzlDNDAuNTA2IDMuODUyNDYgMzkuMzk0OSAzLjE3MTc1IDM3Ljc1MzEgMy4xNzE3NUgzNy40NTI4QzM0Ljg4MDIgMy4xNzE3NSAzMy4xMDgyIDUuMjEzODkgMzMuMTA4MiA4LjE3NzA2QzMzLjEwODIgMTEuMTUwMiAzNC44NTAxIDEzLjE0MjIgMzcuNDUyOCAxMy4xNDIySDM3Ljc1MzFDMzkuNDM1IDEzLjE0MjIgNDAuNDE1OCAxMi41NzE1IDQxLjE2NjcgMTEuNzAwNkM0MS4yNjY4IDExLjU5MDQgNDEuMzc3IDExLjU3MDUgNDEuNDk3MSAxMS42MzA2TDQzLjMwODkgMTIuNTExNUM0My4zNzkgMTIuNTUxNSA0My40MDkgMTIuNjAxNSA0My40MDkgMTIuNjUxNkM0My40MDkgMTIuNzAxNiA0My4zODg5IDEyLjc0MTggNDMuMzQ5IDEyLjgwMTdDNDIuMjM3OCAxNC40MjM1IDQwLjIzNTggMTUuNDI0NSAzNy43OTMzIDE1LjQyNDVIMzcuNDkyOUMzMy4zMzg2IDE1LjQyNDUgMzAuNTg1NyAxMi41NzE1IDMwLjU4NTcgOC4yNzcxMVoiIGZpbGw9IndoaXRlIi8+CjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNNTkuMzc1IDEzLjEyMDZWMTQuOTYyNkM1OS4zNzUgMTUuMDgyOCA1OS4yOTQ4IDE1LjE2MjggNTkuMTc0NyAxNS4xNjI4SDQ4LjY2MzdDNDguNTQzNiAxNS4xNjI4IDQ4LjQ2MzYgMTUuMDgyOCA0OC40NjM2IDE0Ljk2MjZWMS4zNDg0QzQ4LjQ2MzYgMS4yMjgzIDQ4LjU0MzYgMS4xNDgxOSA0OC42NjM3IDEuMTQ4MTlINTguOTk0NUM1OS4xMTQ4IDEuMTQ4MTkgNTkuMTk0NyAxLjIyODMgNTkuMTk0NyAxLjM0ODRWMy4xOTAzNEM1OS4xOTQ3IDMuMzEwNDQgNTkuMTE0OCAzLjM5MDU0IDU4Ljk5NDUgMy4zOTA1NEg1MC44NDZWNy4wMzQyMUg1Ny40NzI5QzU3LjU5MyA3LjAzNDIxIDU3LjY3MzIgNy4xMTQ0MiA1Ny42NzMyIDcuMjM0NTJWOS4wNTY0MUM1Ny42NzMyIDkuMTc2NTEgNTcuNTkzIDkuMjU2NjEgNTcuNDcyOSA5LjI1NjYxSDUwLjg0NlYxMi45MjA0SDU5LjE3NDdDNTkuMjk0OCAxMi45MjA0IDU5LjM3NSAxMy4wMDA1IDU5LjM3NSAxMy4xMjA2WiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik03NS4wMzI5IDExLjEwODVDNzUuMDMyOSA5LjgwNzIgNzQuMTcyIDkuMjE2NTEgNzIuMjggOS4yMTY1MUg2Ny41NjVWMTIuOTgwNUg3Mi4yOEM3NC4yMDIgMTIuOTgwNSA3NS4wMzI5IDEyLjQxOTkgNzUuMDMyOSAxMS4xMDg1Wk03MS42MDkzIDMuMzMwNDlINjcuNTY1VjcuMDk0MzdINzEuNjA5M0M3My40MjEyIDcuMDk0MzcgNzQuMjUyMSA2LjUwMzY3IDc0LjI1MjEgNS4yMTI0M0M3NC4yNTIxIDMuOTIwOTcgNzMuNDIxMiAzLjMzMDQ5IDcxLjYwOTMgMy4zMzA0OVpNNzcuNDc1NSAxMS4zMTg4Qzc3LjQ3NTUgMTMuNzcxMyA3NS41OTM0IDE1LjE2MjggNzIuMjY5OSAxNS4xNjI4SDY1LjM4MjdDNjUuMjYyNiAxNS4xNjI4IDY1LjE4MjYgMTUuMDgyOCA2NS4xODI2IDE0Ljk2MjZWMS4zNDg0QzY1LjE4MjYgMS4yMjgzIDY1LjI2MjYgMS4xNDgxOSA2NS4zODI3IDEuMTQ4MTlINzEuNjU5M0M3NC44OTI3IDEuMTQ4MTkgNzYuNjU0NCAyLjQyOTUyIDc2LjY1NDQgNC43NzE5MUM3Ni42NTQ0IDYuMzEzNSA3NS44NzM3IDcuMzI0NjUgNzQuMjkyIDcuNzk1MDJDNzYuNTE0MyA4LjI2NTUxIDc3LjQ3NTUgOS41OTY5NyA3Ny40NzU1IDExLjMxODhaIiBmaWxsPSJ3aGl0ZSIvPgo8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTg5LjE3NjQgMTMuMTQyMkM5Mi4wNDg5IDEzLjE0MjIgOTMuODYxNCAxMS4xNzAxIDkzLjg2MTQgOC4xNTcwMUM5My44NjE0IDUuMTQzNzEgOTIuMDQ4OSAzLjE3MTc1IDg5LjE3NjQgMy4xNzE3NUg4OC44NzU2Qzg2LjAwMjkgMy4xNzE3NSA4NC4xOTEgNS4xNDM3MSA4NC4xOTEgOC4xNTcwMUM4NC4xOTEgMTEuMTcwMSA4Ni4wMDI5IDEzLjE0MjIgODguODc1NiAxMy4xNDIySDg5LjE3NjRaTTgxLjY2ODUgOC4xNTcwMUM4MS42Njg1IDMuOTMyNDYgODQuNDcxNCAwLjg4OTQwNCA4OC44NzU2IDAuODg5NDA0SDg5LjE3NjRDOTMuNTgwNCAwLjg4OTQwNCA5Ni4zODM1IDMuOTMyNDYgOTYuMzgzNSA4LjE1NzAxQzk2LjM4MzUgMTIuMzgxMyA5My41ODA0IDE1LjQyNDUgODkuMTc2NCAxNS40MjQ1SDg4Ljg3NTZDODQuNDcxNCAxNS40MjQ1IDgxLjY2ODUgMTIuMzgxMyA4MS42Njg1IDguMTU3MDFaIiBmaWxsPSJ3aGl0ZSIvPgo8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTEwNy45NTMgMTMuMTQyMkMxMTAuODI2IDEzLjE0MjIgMTEyLjYzOCAxMS4xNzAxIDExMi42MzggOC4xNTcwMUMxMTIuNjM4IDUuMTQzNzEgMTEwLjgyNiAzLjE3MTc1IDEwNy45NTMgMy4xNzE3NUgxMDcuNjUzQzEwNC43NzkgMy4xNzE3NSAxMDIuOTY4IDUuMTQzNzEgMTAyLjk2OCA4LjE1NzAxQzEwMi45NjggMTEuMTcwMSAxMDQuNzc5IDEzLjE0MjIgMTA3LjY1MyAxMy4xNDIySDEwNy45NTNaTTEwMC40NDUgOC4xNTcwMUMxMDAuNDQ1IDMuOTMyNDYgMTAzLjI0OCAwLjg4OTQwNCAxMDcuNjUzIDAuODg5NDA0SDEwNy45NTNDMTEyLjM1OCAwLjg4OTQwNCAxMTUuMTYxIDMuOTMyNDYgMTE1LjE2MSA4LjE1NzAxQzExNS4xNjEgMTIuMzgxMyAxMTIuMzU4IDE1LjQyNDUgMTA3Ljk1MyAxNS40MjQ1SDEwNy42NTNDMTAzLjI0OCAxNS40MjQ1IDEwMC40NDUgMTIuMzgxMyAxMDAuNDQ1IDguMTU3MDFaIiBmaWxsPSJ3aGl0ZSIvPgo8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTEzMi40MjkgMTUuMTYyOEgxMjkuODQ2QzEyOS42NzcgMTUuMTYyOCAxMjkuNjA2IDE1LjEyMjcgMTI5LjQ5NiAxNC45OTI2QzEyNy42ODQgMTIuODYwNCAxMjUuNTQyIDEwLjczODMgMTIzLjcyIDkuMTc2NTFIMTIyLjU1OVYxNC45NjI2QzEyMi41NTkgMTUuMDgyOCAxMjIuNDc4IDE1LjE2MjggMTIyLjM1OCAxNS4xNjI4SDEyMC4zNzZDMTIwLjI1NiAxNS4xNjI4IDEyMC4xNzcgMTUuMDgyOCAxMjAuMTc3IDE0Ljk2MjZWMS4zNDg0QzEyMC4xNzcgMS4yMjgzIDEyMC4yNTYgMS4xNDgxOSAxMjAuMzc2IDEuMTQ4MTlIMTIyLjM1OEMxMjIuNDc4IDEuMTQ4MTkgMTIyLjU1OSAxLjIyODMgMTIyLjU1OSAxLjM0ODRWNi44NzQyMkgxMjMuNzRDMTI1LjY5MiA1LjExMjI3IDEyNy40OTQgMy4yMTAzOSAxMjguOTY2IDEuMjk4MjZDMTI5LjA2NSAxLjE2ODE0IDEyOS4xNDUgMS4xNDgxOSAxMjkuMjY2IDEuMTQ4MTlIMTMxLjcwOEMxMzEuODI4IDEuMTQ4MTkgMTMxLjg4OSAxLjIwODI0IDEzMS44ODkgMS4yODgzNUMxMzEuODg5IDEuMzI4MzQgMTMxLjg2OCAxLjM3ODM3IDEzMS44MTkgMS40Mzg0MkMxMjkuNjY3IDQuMDkxMiAxMjcuNTMzIDYuMjYzNDcgMTI1LjU2MiA3Ljk0NTIxQzEyOC4wNDUgMTAuMDQ3MyAxMzAuMzk3IDEyLjM4OTggMTMyLjUzOSAxNC45MTI1QzEzMi42NDkgMTUuMDQyNiAxMzIuNTkgMTUuMTYyOCAxMzIuNDI5IDE1LjE2MjhaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K' width='300' />](https://ahrefs.com/)
+[<img src='https://static.ahrefs.com/static/assets/static/ahrefs-logo-8b1ac30fdccbb84b3da69d159b5914ca.jpg' width='300' />](https://ahrefs.com/)
 
 > You don't have to be an SEO pro to rank higher and get more traffic. Join Ahrefs – we're a powerful but easy to learn SEO toolset with a passionate community.
 
@@ -3491,7 +3491,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [7. Neon Tools](https://neontools.io/)
 
-[<img src='undefined' width='300' />](https://neontools.io/)
+[<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width='300' />](https://neontools.io/)
 
 > 
 
@@ -3518,7 +3518,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [10. PageOptimizer Pro](https://pageoptimizer.pro/)
 
-[<img src='https://pageoptimizer.pro/wp-content/uploads/2020/03/PageOptimizer-Pro-Logo-1024x104.png' width='300' />](https://pageoptimizer.pro/)
+[<img src='https://pageoptimizer.pro/wp-content/uploads/2020/06/poplogo.png' width='300' />](https://pageoptimizer.pro/)
 
 > Plans Services SEO Consulting Learn SEO About Blog POP SEO Community Podcast Support POP On Page Workshops With Kyle Roof POP Chrome Extension Guide Tutorial Videos Frequently Asked Questions Best Practices Login Cancel Anytime Plans Services SEO Consulting Learn SEO About Blog POP SEO Community Podcast Support POP On Page…
 
@@ -3527,7 +3527,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [11. Keyword Chef - Keywords for Publishers](https://keywordchef.com/)
 
-[<img src='https://keywordchef.com/wp-content/uploads/2021/11/keyword-chef-logo.png' width='300' />](https://keywordchef.com/)
+[<img src='http://../wp-content/uploads/2021/11/Dane-Eyerly-testimonial.png' width='300' />](https://keywordchef.com/)
 
 > Rank Insanely Fast for Keywords Your Competition Can’t Find “Every long-tail keyword I find ends up ranking within a day” – Dane Eyerly, Owner at TextGoods.com Keyword Chef automatically finds and filters keywords for you. Real-time SERP analysis lets you find keywords nearly guaranteed to rank. Try for free → Let’s face it, most keyword tools ... Read more
 
@@ -3556,7 +3556,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [1. The 60 Hottest Front-end Tools of 2021 | CSS-Tricks - CSS-Tricks](https://css-tricks.com/hottest-front-end-tools-in-2021/)
 
-[<img src='https://secure.gravatar.com/avatar/b8eb0184e62e8a6e71a2d1d7be558248?s=80&d=retro&r=pg' width='300' />](https://css-tricks.com/hottest-front-end-tools-in-2021/)
+[<img src='https://css-tricks.com/wp-json/social-image-generator/v1/image/361047' width='300' />](https://css-tricks.com/hottest-front-end-tools-in-2021/)
 
 > A complete list of the most popular front-end tools in 2021, according to the Web Tools Weekly newsletter. See which resources made the list.
 
@@ -3567,7 +3567,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [1. ResumeGlow - AI Powered Resume Builder](https://resumeglow.com/)
 
-[<img src='data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20100'%3E%3C/svg%3E' width='300' />](https://resumeglow.com/)
+[<img src='https://resumeglow.com/wp-content/uploads/2022/10/Image-2022-10-11-at-4.32.42-pm-1024x543.jpg' width='300' />](https://resumeglow.com/)
 
 > Get hired fast with a resume that grabs attention. Designed by a team of HR experts and typographers. Customizable templates with more than a million possible
 
@@ -3576,7 +3576,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [2. Create Your Job-winning Resume - (Free) Resume maker · Resume.io](https://resume.io/)
 
-[<img src='https://s3.resume.io/cdn-cgi/image/width=770,height=350,fit=crop,gravity=top,quality=75,format=auto/uploads/local_template_image/image/488/persistent-resource/dublin-resume-templates.jpg' width='300' />](https://resume.io/)
+[<img src='https://s3.resume.io/uploads/country/og_image/2/OG.png' width='300' />](https://resume.io/)
 
 > Free online resume maker, allows you to create a perfect Resume or Cover Letter in 5 minutes. See how easy it is to write a professional resume - apply for jobs today!
 
@@ -3585,7 +3585,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [3. Rezi - The Leading AI-Powered Free Resume Builder](https://www.rezi.ai/)
 
-[<img src='https://assets.website-files.com/62f0854c1cef28185535ab61/62f0a15cf4eb678703006e9b_rezi.svg' width='300' />](https://www.rezi.ai/)
+[<img src='https://firebasestorage.googleapis.com/v0/b/rezi-3f268.appspot.com/o/images%2Frezi_share.png?alt=media&token=8e5e94f7-be90-42cf-9395-94965666b25d' width='300' />](https://www.rezi.ai/)
 
 > Rezi’s award-winning AI-powered resume builder is trusted by hundreds of thousands of job seekers. Create your perfect resume in minutes with Rezi.
 
@@ -3594,7 +3594,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [4. Create a Perfect Resume | Free Resume Builder | Resumaker.ai](https://resumaker.ai/)
 
-[<img src='https://resumaker.ai/assets/logo.png?max=500' width='300' />](https://resumaker.ai/)
+[<img src='https://resumaker.ai/assets/og/OG.png' width='300' />](https://resumaker.ai/)
 
 > Create your professional resume with this online resume maker. Choose a designer-made template and grab any employer attention in seconds.
 
@@ -3603,7 +3603,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [5. Trusted AI Resume Maker Helps You Get Hired Fast](https://skillroads.com/)
 
-[<img src='https://skillroads.com/images/ic/magician-hat.svg' width='300' />](https://skillroads.com/)
+[<img src='https://skillroads.com/images/og-robic.png' width='300' />](https://skillroads.com/)
 
 > Reach a 96.4% success rate in the job hunt race with the best resume creator. Our innovative technologies and 24/7 support help you to become a perfect candidate for any job. Do not lose your chance to become the One.
 
@@ -3612,7 +3612,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [6. Kickresume | Best Online Resume & Cover Letter Builder](https://www.kickresume.com/)
 
-[<img src='https://d1civoyjepycei.cloudfront.net/static/img/kickresume-logo-black.4a2a4eb3ee16.svg' width='300' />](https://www.kickresume.com/)
+[<img src='https://d1civoyjepycei.cloudfront.net/static/img/meta/meta-general.1b0472a58d18.png' width='300' />](https://www.kickresume.com/)
 
 > Create your best resume yet. Online resume and cover letter builder used by 1,300,000 job seekers worldwide. Professional templates approved by recruiters.
 
@@ -3621,7 +3621,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [7. ResumeMaker.Online | Create a Professional Resume for Free](https://www.resumemaker.online/)
 
-[<img src='https://www.resumemaker.online/img/oval.svg' width='300' />](https://www.resumemaker.online/)
+[<img src='https://www.resumemaker.online/img/twittercard.jpg' width='300' />](https://www.resumemaker.online/)
 
 > Save time with the easiest-to-use Resume Maker Online. Create an effective resume in just minutes and land your dream job. No Sign-up required, start now!
 
@@ -3632,7 +3632,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [1. Interview Warmup - Grow with Google](https://grow.google/certificates/interview-warmup/)
 
-[<img src='undefined' width='300' />](https://grow.google/certificates/interview-warmup/)
+[<img src='https://grow.google/certificates/interview-warmup/assets/interview-warmup-og.jpg' width='300' />](https://grow.google/certificates/interview-warmup/)
 
 > A quick way to prepare for your next interview. Practice key questions, get insights about your answers, and get more comfortable interviewing.
 
@@ -3652,7 +3652,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [2. Webflow: Create a custom website | No-code website builder](https://webflow.com/)
 
-[<img src='https://assets-global.website-files.com/5d3e265ac89f6a3e64292efc/624c943184a931871001da0d_designer.png' width='300' />](https://webflow.com/)
+[<img src='https://assets-global.website-files.com/5d3e265ac89f6a3e64292efc/619553e0e507dd1017564b68_Opengraph.jpg' width='300' />](https://webflow.com/)
 
 > Create professional, custom websites in a completely visual canvas with no code. Learn how to create a website by trying Webflow for free!
 
@@ -3670,7 +3670,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [4. FlutterFlow - Build beautiful, modern apps incredibly fast!](https://flutterflow.io/)
 
-[<img src='https://flutterflow.io/images/3xlogo_primary_color.png' width='300' />](https://flutterflow.io/)
+[<img src='https://uploads-ssl.webflow.com/608d9c1a6cbcc01b80952190/62f1a2ee0897775f2b7f4422_shareLink_1.jpg' width='300' />](https://flutterflow.io/)
 
 > FlutterFlow lets you build apps incredibly fast in your browser. Build fully functional apps with Firebase integration, API support, animations, and more. Export your code or even easier deploy directly to the app stores!
 
@@ -3679,7 +3679,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [5. Free Website Builder: Build a Free Website or Online Store | Weebly](https://www.weebly.com/)
 
-[<img src='https://cdn2.editmysite.com/images/landing-pages/global/shared/navbar/carrot.svg' width='300' />](https://www.weebly.com/)
+[<img src='https://www.weebly.com/editor/uploads/1/_/1/custom_themes/578730180640357361/files/weebly.jpg' width='300' />](https://www.weebly.com/)
 
 > Weebly’s free website builder makes it easy to create a website, blog, or online store. Find customizable templates, domains, and easy-to-use tools for any type of business website.
 
@@ -3688,7 +3688,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [6. Glide • No Code App Builder • Nocode Application Development](https://www.glideapps.com/)
 
-[<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' width='300' />](https://www.glideapps.com/)
+[<img src='https://glideapps.com/images/cover-logo.png' width='300' />](https://www.glideapps.com/)
 
 > Create the apps your business needs, without coding, waiting or overpaying. Get started for free and build an app today
 
@@ -3697,7 +3697,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [7. Adalo - Build Your Own No Code App](https://www.adalo.com/)
 
-[<img src='https://global-uploads.webflow.com/5d123a0e13543973a9665271/5d123bef06b9a863a21eefa0_Adalo-Logo-Large-Transparent.png' width='300' />](https://www.adalo.com/)
+[<img src='https://global-uploads.webflow.com/5d123a0e13543973a9665271/5d12abc27a65fcc988b77320_Adalo-Share-Image.png' width='300' />](https://www.adalo.com/)
 
 > Adalo makes creating apps as easy as putting together a slide deck. Turn your idea into a real native app — no code needed!
 
@@ -3706,7 +3706,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [8. Siter.io - The collaborative web design tool, no-code website builder](https://siter.io/)
 
-[<img src='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTA4MCIgaGVpZ2h0PSI2MTEiIHZpZXdCb3g9IjAgMCAxMDgwIDYxMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSIjZTVlNWU1Ij48cmVjdCB3aWR0aD0iMTA4MCIgaGVpZ2h0PSI2MTEiIGZpbGw9IiNlNWU1ZTUiLz48L3N2Zz4=' width='300' />](https://siter.io/)
+[<img src='https://siter.io/assets/img/builder.png' width='300' />](https://siter.io/)
 
 > Siter.io is a visual website builder for designers. Prototype, design, and create responsive websites in the browser. Work together with your team in one place.
 
@@ -3715,7 +3715,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [9. Elementor: #1 Free WordPress Website Builder | Elementor.com](https://elementor.com/)
 
-[<img src='https://elementor.com/marketing/wp-content/uploads/2021/08/Group-1087165.png' width='300' />](https://elementor.com/)
+[<img src='https://elementor.com/marketing/wp-content/uploads/2022/02/HP.png' width='300' />](https://elementor.com/)
 
 > Elementor is the platform web creators choose to build professional WordPress websites, grow their skills, and build their business. Start for free today!
 
@@ -3724,7 +3724,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [10. No code app builder | Bravo Studio](https://www.bravostudio.app/)
 
-[<img src='https://uploads-ssl.webflow.com/5d1329454b05c80580fc0fb7/62a9bff76b98291f7bad7ccb_Logo_Bravo_BG_white.png' width='300' />](https://www.bravostudio.app/)
+[<img src='https://uploads-ssl.webflow.com/5d1329454b05c80580fc0fb7/621f612dd9688624c607a4ac_Home.png' width='300' />](https://www.bravostudio.app/)
 
 > Your no-code mobile app builder for iOS and Android. Create MVP’s, validate ideas and publish on App Store and Google Play Store.
 
@@ -3733,7 +3733,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [11. Home](https://typedream.com/)
 
-[<img src='https://api.typedream.com/v0/document/public/13910d1b-55b5-41e0-852b-8f251ed59ef5_block_cloud_svg_svg.svg?bucket=document' width='300' />](https://typedream.com/)
+[<img src='https://api.typedream.com/v0/document/public/2F8Q3jnsbjWLxHyz2bw4TiwsRJg_Screen_Shot_2022-09-22_at_11_23_36_AM.png?bucket=document' width='300' />](https://typedream.com/)
 
 > The simplest way to build a website with no-code, as easy as writing on Notion. Try Typedream for free and upgrade for custom domains, collaborators, and unlimited pages.
 
@@ -3742,7 +3742,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [12. Free Website Builder | Create a Free Website | Wix.com](https://www.wix.com/)
 
-[<img src='https://static.wixstatic.com/media/311dce_1ce121f609e448f3882eba93e995f297~mv2.png/v1/fill/w_27,h_28,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/%F0%9F%87%BA%F0%9F%87%A6.png' width='300' />](https://www.wix.com/)
+[<img src='https://static.wixstatic.com/media/0784b1_62ef978b62c549ffa9131b6c75e0e9be~mv2.jpeg/v1/fill/w_1200,h_628,al_c/0784b1_62ef978b62c549ffa9131b6c75e0e9be~mv2.jpeg' width='300' />](https://www.wix.com/)
 
 > Create a website with Wix’s robust website builder. With 900+ strategically designed templates and advanced SEO and marketing tools, build your brand online today.
 
@@ -3760,7 +3760,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [14. Home](https://typedream.com/)
 
-[<img src='https://api.typedream.com/v0/document/public/13910d1b-55b5-41e0-852b-8f251ed59ef5_block_cloud_svg_svg.svg?bucket=document' width='300' />](https://typedream.com/)
+[<img src='https://api.typedream.com/v0/document/public/2F8Q3jnsbjWLxHyz2bw4TiwsRJg_Screen_Shot_2022-09-22_at_11_23_36_AM.png?bucket=document' width='300' />](https://typedream.com/)
 
 > The simplest way to build a website with no-code, as easy as writing on Notion. Try Typedream for free and upgrade for custom domains, collaborators, and unlimited pages.
 
@@ -3769,7 +3769,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [15. Ownit Connected Checkout](https://www.ownit.co/)
 
-[<img src='https://static.ownit.co/landing/slides/puracy.png' width='300' />](https://www.ownit.co/)
+[<img src='https://static.ownit.co/landing/about-us/checkout-view.jpg' width='300' />](https://www.ownit.co/)
 
 > Ownit Connected Checkout
 
@@ -3778,7 +3778,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [16. Bookmark.com | No-code Website Builder to Start Your Business](https://www.bookmark.com/)
 
-[<img src='https://www.bookmark.com/assets/v2/images/logos/bookmark-red.svg' width='300' />](https://www.bookmark.com/)
+[<img src='https://www.bookmark.com/assets/images/meta/ogimage.png' width='300' />](https://www.bookmark.com/)
 
 > Our AI powered platform ensures your business is future proof. Try Bookmark for free.
 > 
@@ -3788,7 +3788,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [17. The best way to build web apps without code | Bubble](https://bubble.io/)
 
-[<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7' width='300' />](https://bubble.io/)
+[<img src='https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fs3.amazonaws.com%2Fappforest_uf%2Ff1578495816588x646815646347334700%2FBubble%2520Tags.png?w=&h=&auto=compress&dpr=1&fit=max' width='300' />](https://bubble.io/)
 
 > Bubble introduces a new way to build software. It’s a no-code tool that lets you build SaaS platforms, marketplaces and CRMs without code. Bubble hosts all web apps on its cloud platform.
 
@@ -3797,7 +3797,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [18. Responsive Web Design | Website Creation | Editor X](https://www.editorx.com/)
 
-[<img src='https://static.wixstatic.com/media/0d6674_3273624179554397b2baeeee15d4c724~mv2.png/v1/fill/w_49,h_28,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/0d6674_3273624179554397b2baeeee15d4c724~mv2.png' width='300' />](https://www.editorx.com/)
+[<img src='https://static.wixstatic.com/media/0d6674_96f2f78703d447b98bc4d5221b204445~mv2.png/v1/fill/w_1200,h_628,al_c/0d6674_96f2f78703d447b98bc4d5221b204445~mv2.png' width='300' />](https://www.editorx.com/)
 
 > Experience the future of website design with responsive layouts, CSS precision and smooth drag and drop.
 
@@ -3806,7 +3806,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [19. Create a Website for Free. Tilda Website Builder](https://tilda.cc/)
 
-[<img src='https://static.tildacdn.com/tild3935-3966-4237-a163-623363626162/logoblackontranspare.png' width='300' />](https://tilda.cc/)
+[<img src='https://static.tildacdn.com/tild3635-6533-4135-b034-306362363465/fbbadge_v2.png' width='300' />](https://tilda.cc/)
 
 > Create a website, online store, landing page with Tilda intuitive website builder. Build your site from hundreds of pre-designed templates and publish it today. No code required.
 
@@ -3815,7 +3815,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [20. No-code headless commerce and websites | Unstack Inc.](https://www.unstack.com/)
 
-[<img src='https://cdn.spark.app/media/www/image/unstack_logo_black.svg' width='300' />](https://www.unstack.com/)
+[<img src='https://cdn.spark.app/media/www/image/masonry.png' width='300' />](https://www.unstack.com/)
 
 > Deploy high performance eCommerce storefronts and websites without the engineering overhead using Unstack's no-code CMS
 
@@ -3824,7 +3824,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [21. Best Drag-and-Drop Website Builder | Jemi](https://jemi.so/)
 
-[<img src='https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=308848&theme=light' width='300' />](https://jemi.so/)
+[<img src='https://firebasestorage.googleapis.com/v0/b/jemi-testing.appspot.com/o/public%2Fassets%2Fwebsite-preview.png?alt=media&token=9833e405-df4d-4ca9-8e07-dface6f09943' width='300' />](https://jemi.so/)
 
 > The modern website builder for creatives, entrepreneurs, and dreamers. Build a beautiful link in bio site, portfolio, or landing page in minutes.
 
@@ -3833,7 +3833,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [22. No-code website builder that works like Notion](https://popsy.co/)
 
-[<img src='https://popsy.co/_nuxt/geometric-shapes.3600f132.svg' width='300' />](https://popsy.co/)
+[<img src='https://popsy.co/SEO-popsy-builder.png' width='300' />](https://popsy.co/)
 
 > Create a beautiful no-code website in minutes. Popsy works just like Notion but is built from the ground up for building websites. Choose a free template. Edit content just like in Notion. Customize styles without code. Free Notion icons and illustrations.
 
@@ -3842,7 +3842,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [23. Unbounce - The Landing Page Builder & Platform](https://unbounce.com/)
 
-[<img src='https://unbounce.com/wp-content/themes/unbounce2019/assets/img/unbounce-icon-dark.svg?v=1' width='300' />](https://unbounce.com/)
+[<img src='https://unbounce.com/photos/opengraph_homepage.jpg' width='300' />](https://unbounce.com/)
 
 > Grow your relevance, leads, and sales with Unbounce. Use Unbounce to easily create and optimize landing pages for your small business and boost conversions with AI insights.
 
@@ -3851,7 +3851,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [24. Low-code Front-end Design & Development Platform | TeleportHQ](https://teleporthq.io/)
 
-[<img src='https://teleporthq.io/playground_assets/teleport-logo-white-text.svg.svg' width='300' />](https://teleporthq.io/)
+[<img src='https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/036d27db-9db4-40e9-907e-034abb817baa/b1bd51c3-bc28-4448-aff4-4d109e482662?org_if_sml=1' width='300' />](https://teleporthq.io/)
 
 > Front-end development platform, with a visual builder and headless content modelling capabilities. Static website creation, and UI development tools.
 
@@ -3862,7 +3862,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [1. MemberSpace - Turn any part of your website into members-only with just a few clicks](https://www.memberspace.com/)
 
-[<img src='https://www.memberspace.com/images/logo.png' width='300' />](https://www.memberspace.com/)
+[<img src='https://www.memberspace.com/images/memberspace-social-logo.png' width='300' />](https://www.memberspace.com/)
 
 > Create memberships on your website for anything you want like courses, video tutorials, member directories, and more while having 100% control over look & feel.
 
@@ -3871,7 +3871,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [2. Triggre | The number one true no-code platform to run your business](https://www.triggre.com/)
 
-[<img src='https://uploads-ssl.webflow.com/6018010527c02c8435fa6acc/604a9beda543ebad95468ba9_close-button.svg' width='300' />](https://www.triggre.com/)
+[<img src='https://uploads-ssl.webflow.com/6018010527c02c8435fa6acc/61bb44372e57483fa0d05ac3_NL%20square%20icons%20(4).png' width='300' />](https://www.triggre.com/)
 
 > The best no-code platform to create highly advanced business applications in hours, without programming. Try it now for free!
 
@@ -3891,7 +3891,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [2. Flowlab Game Creator - Make games online](https://flowlab.io/)
 
-[<img src='https://flowlab.io/images/logo.png' width='300' />](https://flowlab.io/)
+[<img src='https://flowlab.io/images/home/opengraph.png' width='300' />](https://flowlab.io/)
 
 > Flowlab is an online game creator.  Make your own games to share with friends.
 
@@ -3900,7 +3900,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [3. Make 2D Games With GameMaker | Free Video Game Maker](https://gamemaker.io/)
 
-[<img src='https://coal.gamemaker.io/sites/5d75794b3c84c70006700381/theme/images/svg/logomark.svg?1665587864' width='300' />](https://gamemaker.io/)
+[<img src='https://coal.gamemaker.io/sites/5d75794b3c84c70006700381/theme/images/og/banner_gm.png?1665587864' width='300' />](https://gamemaker.io/)
 
 > Make a game with GameMaker, the best free video game engine. Perfect for beginners and professionals. Learn to build your own 2D games with our simple tutorials.
 
@@ -3911,7 +3911,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [1. Side Hustle Stack](https://sidehustlestack.co/)
 
-[<img src='https://sidehustlestack.co/_next/image?url=https%3A%2F%2Fsuper-static-assets.s3.amazonaws.com%2Ffe3e1885-4c3e-4d4f-9dd3-ad4cee841cf8%2Fimages%2Fe3f45d30-a743-4d5d-86f9-c8c6a69b65ee.png&w=3840&q=80' width='300' />](https://sidehustlestack.co/)
+[<img src='https://s3.amazonaws.com/super-notion/images/c6964b05-835b-4fc4-9e35-7431eab7a096.jpg' width='300' />](https://sidehustlestack.co/)
 
 > Side Hustle Stack is a resource for finding platform-based work, ranging from gig work and side hustles to platforms that help you start a small business that can grow.
 
@@ -3929,7 +3929,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [3. Remotasks: Work From Home, Online Bootcamp Training](https://www.remotasks.com/en)
 
-[<img src='https://assets-global.website-files.com/5e6035eb6aea331e9e880fa0/5eab5e622d63572666309a9c_remotasks-logo-full.svg' width='300' />](https://www.remotasks.com/en)
+[<img src='https://assets-global.website-files.com/5e6035eb6aea331e9e880fa0/5eab66bf2d6357158e30d624_Facebook%20Share%20Card.png' width='300' />](https://www.remotasks.com/en)
 
 > Make money doing tasks. Start earning today! Free bootcamp training offered online. Sign up for a free Remotasks account and work from home. Earn up to $200/month.
 
@@ -3938,7 +3938,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [4. Transcribe Speech to Text | Rev](https://www.rev.com/)
 
-[<img src='https://images.ctfassets.net/fud10lj9l803/77TAZvk49CG3OQ1RKZCNOY/42cad4a17fcf6a6256fdc2a1632c9460/Logo_Feature_-_Oak_National_Academy.jpg' width='300' />](https://www.rev.com/)
+[<img src='https://www.rev.com/cms-assets/Rev-Logo.jpg' width='300' />](https://www.rev.com/)
 
 > Transcribe Speech to Text with Rev. Reach your audience with clear and accurate captions, transcripts, and subtitles.
 
@@ -3947,7 +3947,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [5. AI Training Data and other Data Management Services](https://www.clickworker.com/)
 
-[<img src='https://cdn.clickworker.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/us.png' width='300' />](https://www.clickworker.com/)
+[<img src='https://cdn.clickworker.com/wp-content/uploads/2020/06/support-chatbot-training.jpeg' width='300' />](https://www.clickworker.com/)
 
 > AI training data, SEO texts, web research, tagging, surveys and more - Use the crowdsourcing principle with the power of >4.5M Clickworkers.
 
@@ -3967,7 +3967,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [1. Latest Crypto Jobs, Web3 Jobs and Blockchain Jobs in the leading tech companies.](https://cryptojobslist.com/)
 
-[<img src='https://res.cloudinary.com/cryptojobslist/image/upload/w_1028,q_auto,f_auto,e_make_transparent/v1536304779/assets/company-logos.jpg' width='300' />](https://cryptojobslist.com/)
+[<img src='https://api.placid.app/uuid/vn0jwsz?title=Latest%20Crypto%20Jobs,%20Web3%20Jobs%20and%20Blockchain%20Jobs%20in%20the%20leading%20tech%20companies.&create_now=true' width='300' />](https://cryptojobslist.com/)
 
 > New Cryptocurrency Jobs, Web3 Jobs and Blockchain Jobs on CryptoJobsList — the leading site to find and post jobs. Connect with companies hiring in a few clicks and begin your next experience in the industry. Updated daily.
 
@@ -3976,7 +3976,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [2. Remote Jobs: Design, Marketing, Programming, Writing & More](https://justremote.co/)
 
-[<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADYAAAA8CAYAAAAt3km7AAAKr2lDQ1BEaXNwbGF5AABIx62Wd1RT2RaHz73pjRaIgJTQO1IEAkivoUsHUQlJgFBCTAggdmRwBEYUFRFURlQQUHBUiowFEcXCIFjAPkFERR3Fgg2Vd4EhzFtvvT/eWm/fte/51l777LPPufes9QOA/IQlEKTBcgCk8zOFoT7u9OiYWDruMUADNSAPcIDOYosEbiEhAQCx2fEfBgHwcWDqDcBNs6la4H8zeQ5XxEbKhCCcwBGx0xE+ifhVtkCYCQBqPRLXyc4UTPFBhBWFSIMIt01x0gz3THHCDEumc8JDPRD+AACezGIJkwAgT61Fz2InIXXIdIQt+BweH+GpdZ3ZySwOwlsRNk1Pz5ji0wgbJvyjTtK/1UyQ1mSxkqQ8s5dpw3vyRII01krw/7b0NPHsGjqIk5OFvqHISJs6t9QMfynzE4KCZ5nHmc6f5mSxb8Qss0UesbPMYXn6S+emBQXMciLPmymtk8kMn2VhRqi0PlfkFTbLLOHcWuLUCDfpulymtGZucnjULGfxIoNmWZQa5j+X4yGNC8Wh0p4Thd7SPaaL/rEvHlOan5kc7ivdI2uuN64oWtoDh+vpJY3zI6Q5gkx3aX1BWog0n5vmI42LssKkczORn21uboj0fFJYfiGzDDyBFwhAHjqIAFbADlgCG4B0mMnNyZzagEeGYKWQl5ScSXdDbhCXzuSzzU3pVhaWDACm7uPM535/Z/qeQTT8XCyjDwC7OgRq52KseADakJNR0pmL6R0CQPYJAGfYbLEwayaGnnphABHIAkWgAjSQ/8kQmCH92QJH4Ip07AeCQTiIAcsAGySDdCAE2WA12AAKQBHYCnaCClAFDoDD4Cg4DlrBaXAeXALXQB+4De4DCRgBL8EY+AgmIAjCQRSICqlAmpAeZAJZQQzIGfKCAqBQKAaKh5IgPiSGVkMboSKoFKqA9kN10G/QKeg8dAXqh+5CQ9Ao9A76CqNgMqwIq8P68AKYAbvB/nA4vBROglfAuXA+vAUuh6vhI3ALfB6+Bt+GJfBLeBwFUCQUDaWFMkMxUB6oYFQsKhElRK1FFaLKUNWoRlQ7qht1EyVBvUJ9QWPRVDQdbYZ2RPuiI9Bs9Ar0WnQxugJ9GN2C7kLfRA+hx9A/MBSMGsYE44BhYqIxSZhsTAGmDFODacZcxNzGjGA+YrFYGtYAa4f1xcZgU7CrsMXYvdgmbAe2HzuMHcfhcCo4E5wTLhjHwmXiCnC7cUdw53A3cCO4z3gSXhNvhffGx+L5+Dx8Gb4efxZ/A/8MP0GQI+gRHAjBBA5hJaGEcJDQTrhOGCFMEOWJBkQnYjgxhbiBWE5sJF4kPiC+J5FI2iR70mISj7SeVE46RrpMGiJ9ISuQjcke5DiymLyFXEvuIN8lv6dQKPoUV0osJZOyhVJHuUB5RPksQ5Uxl2HKcGTWyVTKtMjckHktS5DVk3WTXSabK1sme0L2uuwrOYKcvpyHHEturVyl3Cm5Qblxeaq8pXywfLp8sXy9/BX55wo4BX0FLwWOQr7CAYULCsNUFFWH6kFlUzdSD1IvUkcUsYoGikzFFMUixaOKvYpjSgpKC5UilXKUKpXOKEloKJo+jUlLo5XQjtMGaF/nqc9zm8edt3le47wb8z4pz1d2VeYqFyo3Kd9W/qpCV/FSSVXZptKq8lAVrWqsulg1W3Wf6kXVV/MV5zvOZ88vnH98/j01WM1YLVRtldoBtR61cXUNdR91gfpu9QvqrzRoGq4aKRo7NM5qjGpSNZ01eZo7NM9pvqAr0d3oafRyehd9TEtNy1dLrLVfq1drQttAO0I7T7tJ+6EOUYehk6izQ6dTZ0xXUzdQd7Vug+49PYIeQy9Zb5det94nfQP9KP1N+q36zw2UDZgGuQYNBg8MKYYuhisMqw1vGWGNGEapRnuN+oxhYxvjZONK4+smsImtCc9kr0m/KcbU3pRvWm06aEY2czPLMmswGzKnmQeY55m3mr9eoLsgdsG2Bd0LfljYWKRZHLS4b6lg6WeZZ9lu+c7K2IptVWl1y5pi7W29zrrN+u1Ck4XchfsW3rGh2gTabLLptPlua2crtG20HbXTtYu322M3yFBkhDCKGZftMfbu9uvsT9t/cbB1yHQ47vDG0cwx1bHe8fkig0XcRQcXDTtpO7Gc9jtJnOnO8c6/OktctFxYLtUuj111XDmuNa7P3IzcUtyOuL12t3AXuje7f/Jw8Fjj0eGJ8vTxLPTs9VLwivCq8Hrkre2d5N3gPeZj47PKp8MX4+vvu813kKnOZDPrmGN+dn5r/Lr8yf5h/hX+jwOMA4QB7YFwoF/g9sAHQXpB/KDWYBDMDN4e/DDEIGRFyO+LsYtDFlcufhpqGbo6tDuMGrY8rD7sY7h7eEn4/QjDCHFEZ6RsZFxkXeSnKM+o0ihJ9ILoNdHXYlRjeDFtsbjYyNia2PElXkt2LhmJs4kriBtYarA0Z+mVZarL0padWS67nLX8RDwmPiq+Pv4bK5hVzRpPYCbsSRhje7B3sV9yXDk7OKNcJ24p91miU2Jp4vMkp6TtSaPJLsllya94HrwK3tsU35SqlE+pwam1qZNpUWlN6fj0+PRTfAV+Kr8rQyMjJ6NfYCIoEEhWOKzYuWJM6C+sEUGipaK2TEVE+PSIDcU/iYeynLMqsz5nR2afyJHP4ef0rDReuXnls1zv3EOr0KvYqzpXa63esHpojdua/WuhtQlrO9fprMtfN7LeZ/3hDcQNqRv+yLPIK837sDFqY3u+ev76/OGffH5qKJApEBYMbnLcVPUz+mfez72brTfv3vyjkFN4tciiqKzoWzG7+Oovlr+U/zK5JXFLb4ltyb6t2K38rQPbXLYdLpUvzS0d3h64vWUHfUfhjg87l++8UrawrGoXcZd4l6Q8oLxtt+7urbu/VSRX3K50r2zao7Zn855Pezl7b+xz3ddYpV5VVPX1V96vd/b77G+p1q8uO4A9kHXg6cHIg92HGIfqalRrimq+1/JrJYdDD3fV2dXV1avVlzTADeKG0SNxR/qOeh5tazRr3N9Eayo6Bo6Jj734Lf63geP+xztPME40ntQ7uaeZ2lzYArWsbBlrTW6VtMW09Z/yO9XZ7tje/Lv577WntU5XnlE6U3KWeDb/7OS53HPjHYKOV+eTzg93Lu+8fyH6wq2uxV29F/0vXr7kfelCt1v3uctOl09fcbhy6irjaus122stPTY9zX/Y/NHca9vbct3ueluffV97/6L+szdcbpy/6Xnz0i3mrWu3g273D0QM3BmMG5Tc4dx5fjft7tt7Wfcm7q9/gHlQ+FDuYdkjtUfVfxr92SSxlZwZ8hzqeRz2+P4we/jlE9GTbyP5TylPy55pPqt7bvX89Kj3aN+LJS9GXgpeTrwq+Ev+rz2vDV+ffOP6pmcsemzkrfDt5Lvi9yrvaz8s/NA5HjL+6GP6x4lPhZ9VPh/+wvjS/TXq67OJ7G+4b+Xfjb63//D/8WAyfXJSwBKypqUACnE4MRGAd7UAUGIAoCK6grhkRi//rfOhOcX/33hGU0+bLQB1rgBMybZAZNyLjPrIKIt4COLhrgC2tpb63yZKtLaaqUVqRaRJ2eTke0Qn4owA+D44OTnROjn5vQZp9h4AHR9ndPqUyR0BoI9rEeIeMOD75j/08r8A3YEHjuMNvAkAAAAJcEhZcwAACxMAAAsTAQCanBgAAAlkaVRYdFhNTDpjb20uYWRvYmUueG1wAAAAAAA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENlaGlIenJlU3pOVGN6a2M5ZCI/PiA8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIiB4OnhtcHRrPSJBZG9iZSBYTVAgQ29yZSA1LjYtYzE0MCA3OS4xNjA0NTEsIDIwMTcvMDUvMDYtMDE6MDg6MjEgICAgICAgICI+IDxyZGY6UkRGIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyI+IDxyZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PSIiIHhtbG5zOnhtcD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wLyIgeG1sbnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RFdnQ9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZUV2ZW50IyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgKE1hY2ludG9zaCkiIHhtcDpDcmVhdGVEYXRlPSIyMDE4LTA2LTA3VDExOjM5OjA5KzAxOjAwIiB4bXA6TWV0YWRhdGFEYXRlPSIyMDE5LTExLTAzVDIxOjM0OjQyWiIgeG1wOk1vZGlmeURhdGU9IjIwMTktMTEtMDNUMjE6MzQ6NDJaIiBkYzpmb3JtYXQ9ImltYWdlL3BuZyIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDphNzcxODE0OC0wN2YxLTQwMGEtOTU4NS0wZGEzNDNhOWUwNmQiIHhtcE1NOkRvY3VtZW50SUQ9ImFkb2JlOmRvY2lkOnBob3Rvc2hvcDoxYTM1ZjQ4NS1jZDkzLTdmNDQtYmVmMC01ZGM3M2QwZDdmNzkiIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDpjY2QxMmYyMC0wOWMzLTRlMDYtODEzYy03MDViZjQ1MzA5NTAiIHBob3Rvc2hvcDpDb2xvck1vZGU9IjMiIHBob3Rvc2hvcDpJQ0NQcm9maWxlPSJEaXNwbGF5Ij4gPHhtcE1NOkhpc3Rvcnk+IDxyZGY6U2VxPiA8cmRmOmxpIHN0RXZ0OmFjdGlvbj0iY3JlYXRlZCIgc3RFdnQ6aW5zdGFuY2VJRD0ieG1wLmlpZDpjY2QxMmYyMC0wOWMzLTRlMDYtODEzYy03MDViZjQ1MzA5NTAiIHN0RXZ0OndoZW49IjIwMTgtMDYtMDdUMTE6Mzk6MDkrMDE6MDAiIHN0RXZ0OnNvZnR3YXJlQWdlbnQ9IkFkb2JlIFBob3Rvc2hvcCBDQyAoTWFjaW50b3NoKSIvPiA8cmRmOmxpIHN0RXZ0OmFjdGlvbj0ic2F2ZWQiIHN0RXZ0Omluc3RhbmNlSUQ9InhtcC5paWQ6ZmUzNjQ3NjUtZTIxNC00MDUxLWFkMTQtMTRiMzc1NTdkNDgxIiBzdEV2dDp3aGVuPSIyMDE4LTA2LTA3VDExOjM5OjU1KzAxOjAwIiBzdEV2dDpzb2Z0d2FyZUFnZW50PSJBZG9iZSBQaG90b3Nob3AgQ0MgKE1hY2ludG9zaCkiIHN0RXZ0OmNoYW5nZWQ9Ii8iLz4gPHJkZjpsaSBzdEV2dDphY3Rpb249ImNvbnZlcnRlZCIgc3RFdnQ6cGFyYW1ldGVycz0iZnJvbSBhcHBsaWNhdGlvbi92bmQuYWRvYmUucGhvdG9zaG9wIHRvIGltYWdlL3BuZyIvPiA8cmRmOmxpIHN0RXZ0OmFjdGlvbj0iZGVyaXZlZCIgc3RFdnQ6cGFyYW1ldGVycz0iY29udmVydGVkIGZyb20gYXBwbGljYXRpb24vdm5kLmFkb2JlLnBob3Rvc2hvcCB0byBpbWFnZS9wbmciLz4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOjRkY2YwNTA1LTM3ZTctNDJlYS05Y2NiLWNjYjkxZDVjYmVmZiIgc3RFdnQ6d2hlbj0iMjAxOC0wNi0wN1QxMTozOTo1NSswMTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIChNYWNpbnRvc2gpIiBzdEV2dDpjaGFuZ2VkPSIvIi8+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJzYXZlZCIgc3RFdnQ6aW5zdGFuY2VJRD0ieG1wLmlpZDphNzcxODE0OC0wN2YxLTQwMGEtOTU4NS0wZGEzNDNhOWUwNmQiIHN0RXZ0OndoZW49IjIwMTktMTEtMDNUMjE6MzQ6NDJaIiBzdEV2dDpzb2Z0d2FyZUFnZW50PSJBZG9iZSBQaG90b3Nob3AgQ0MgKE1hY2ludG9zaCkiIHN0RXZ0OmNoYW5nZWQ9Ii8iLz4gPC9yZGY6U2VxPiA8L3htcE1NOkhpc3Rvcnk+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOmZlMzY0NzY1LWUyMTQtNDA1MS1hZDE0LTE0YjM3NTU3ZDQ4MSIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDpjY2QxMmYyMC0wOWMzLTRlMDYtODEzYy03MDViZjQ1MzA5NTAiIHN0UmVmOm9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDpjY2QxMmYyMC0wOWMzLTRlMDYtODEzYy03MDViZjQ1MzA5NTAiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz4xsbJ1AAAO7UlEQVRo3s1bCVQUZxL+5+C+xURg1SDgFVzXMy7xBDS7XomRZDeCghrfBhdjnvcRr5goIggmQUQRvOJtvCP3ZQweMXk+BXSjiUm4GWaGue/prWoOZ4Zm6CEmsd9rnen+u/76+q/6quqfgtTW1pKbN2+SS5cukW+//ZacPHmSXLhwgRw6dIjcunWL7Ny5k3z++ef09dOnT5MvvviCXL16leTk5JA9e/bQz2VlZZGMjAx6HN7b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' width='300' />](https://justremote.co/)
+[<img src='https://s3.eu-west-2.amazonaws.com/remoteworker-live-superbrnds/Shareable/JustRemote_homepage.jpg' width='300' />](https://justremote.co/)
 
 > Discover Remote Jobs from around the world. Give up the commute, work remotely and do what you love, daily, from anywhere. Find your perfect remote development, design, sales or marketing job today.
 
@@ -4003,7 +4003,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [5. We Work Remotely: Remote jobs in design, programming, marketing and more](https://weworkremotely.com/)
 
-[<img src='https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg' width='300' />](https://weworkremotely.com/)
+[<img src='https://weworkremotely.com/assets/wwr-social-fd7d545c56e975b65fae9cf49346aac95a8cdb4774b2c269af89ac8993141380.png' width='300' />](https://weworkremotely.com/)
 
 > Find the most qualified people in the most unexpected places: Hire remote! We Work Remotely is the best place to find and list remote jobs that aren't restricted by commutes or a particular geographic area. Browse thousands of remote work jobs today.
 
@@ -4021,7 +4021,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [7. Remote Work: Jobs, Companies & Virtual Teams - Remote.co](https://remote.co/)
 
-[<img src='https://remoteco.s3.amazonaws.com/wp-content/uploads/2019/04/Rco_logo_2x.png' width='300' />](https://remote.co/)
+[<img src='https://remote.co/wp-content/uploads/2015/07/remote_co_twitter.png' width='300' />](https://remote.co/)
 
 > Remote.co is the definitive remote work job board for online job seekers and companies hiring. Start your remote job search here!
 
@@ -4030,7 +4030,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [8. FlexJobs: Best Remote Jobs, Work from Home Jobs, Online Jobs & More](https://www.flexjobs.com/)
 
-[<img src='https://www.flexjobs.com/images/icons/savings-icon-white.svg' width='300' />](https://www.flexjobs.com/)
+[<img src='https://www.flexjobs.com/images/logos/flexjobsopengraph.png' width='300' />](https://www.flexjobs.com/)
 
 > The #1 job search site for hand-screened flexible and remote jobs (work from home jobs) since 2007. Plus get resume, coaching and career help. Join today!
 
@@ -4039,7 +4039,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [9. Remote jobs remotefront.io](https://remotefront.io/)
 
-[<img src='data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27180%27%20height=%2760%27/%3e' width='300' />](https://remotefront.io/)
+[<img src='https://image-322k.onrender.com/image?link=https://remotefront.io/remote-jobs' width='300' />](https://remotefront.io/)
 
 > All remote jobs at remotefront.io
 
@@ -4048,7 +4048,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [10. Daily Virtual Events Helping You Grow Professionally](https://powertofly.com/)
 
-[<img src='https://powertofly-rm-assets.s3.us-east-2.amazonaws.com/img/banner-green-side-image.svg' width='300' />](https://powertofly.com/)
+[<img src='https://assets.rbl.ms/27580523/origin.png' width='300' />](https://powertofly.com/)
 
 > PowerToFly is where you receive expert career advice, free video training, coaching and exclusive access to jobs and events at top companies.
 
@@ -4093,7 +4093,9 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [15. NoDesk - Where Everyone Works Remote](https://nodesk.co/)
 
-[<img src='https://nodesk.co/remote-companies/assets/logos/gelt_hu6a85c58e7a86df77ea0be90de0a405bb_1648_96x0_resize_box_3.png' width='300' />](https://nodesk.co/)
+[<img src='
+  https://nodesk.co/images/homepage.8b089d060444124170b4b03834eb8e52565bdc000b51d1fc546913855546b887.png
+' width='300' />](https://nodesk.co/)
 
 > Browse and apply to the best new remote jobs at leading remote companies and startups for free. Join hundreds of companies that use NoDesk to build their remote teams.
 
@@ -4104,7 +4106,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [1. Blackbox - Select. Copy. Paste & Search - Magazinul web Chrome](https://chrome.google.com/webstore/detail/blackbox-select-copy-past/mcgbeeipkmelnpldkobichboakdfaeon)
 
-[<img src='undefined' width='300' />](https://chrome.google.com/webstore/detail/blackbox-select-copy-past/mcgbeeipkmelnpldkobichboakdfaeon)
+[<img src='https://lh3.googleusercontent.com/q5uwqkllozidCFMBRQX2-wq8n6OjVM_ZKojN_pHWiwL8N84tx7AZwdBwO4GgFjs9K4qXGJUKBVd8RS9l8aDeowXb4A=w128-h128-e365-rj-sc0x00ffffff' width='300' />](https://chrome.google.com/webstore/detail/blackbox-select-copy-past/mcgbeeipkmelnpldkobichboakdfaeon)
 
 > Fastest Way to Copy Text from Videos & Images
 
@@ -4113,7 +4115,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [2. Octotree - GitHub code tree - Magazinul web Chrome](https://chrome.google.com/webstore/detail/octotree-github-code-tree/bkhaagjahfmjljalopjnoealnfndnagc)
 
-[<img src='undefined' width='300' />](https://chrome.google.com/webstore/detail/octotree-github-code-tree/bkhaagjahfmjljalopjnoealnfndnagc)
+[<img src='https://lh3.googleusercontent.com/wafm5uFaPRSo1RHMbhcdEghFzTPUfYo5GosPmBhkdNuYlGz8WigoAQM-8lulzuhWQBGTbbUyRvfoyIMDypJzuAVZ=w128-h128-e365-rj-sc0x00ffffff' width='300' />](https://chrome.google.com/webstore/detail/octotree-github-code-tree/bkhaagjahfmjljalopjnoealnfndnagc)
 
 > GitHub on steroids
 
@@ -4122,7 +4124,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [3. WhatFont - Chrome Web Store](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en)
 
-[<img src='undefined' width='300' />](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en)
+[<img src='https://lh3.googleusercontent.com/dPdyfSl7seUOpHe4rDj-oxo7oQ9P60809H2MY4NynmV9CDsY9p-p8Ovb_QmsYdGM7jgjCYG6s7MGYnMOMOjtpbdGLJ4=w128-h128-e365-rj-sc0x00ffffff' width='300' />](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en)
 
 > The easiest way to identify fonts on web pages.
 
@@ -4131,7 +4133,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [4. Window Resizer - Chrome Web Store](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en)
 
-[<img src='undefined' width='300' />](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en)
+[<img src='https://lh3.googleusercontent.com/IVHTJU2a1JphDt6dqhpDPVcZG0SCpYAK1lS9QIIXwXIk__e5GdF0xcULafHMmH54-RCembM6OTrIB_BmZ-9b-zln=w128-h128-e365-rj-sc0x00ffffff' width='300' />](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en)
 
 > Resize the browser window to emulate various screen resolutions.
 
@@ -4140,7 +4142,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [5. Amino: CSS Editor - Magazinul web Chrome](https://chrome.google.com/webstore/detail/amino-css-editor/pbcpfbcibpcbfbmddogfhcijfpboeaaf)
 
-[<img src='undefined' width='300' />](https://chrome.google.com/webstore/detail/amino-css-editor/pbcpfbcibpcbfbmddogfhcijfpboeaaf)
+[<img src='https://lh3.googleusercontent.com/G3IvwY9I1OJ8elCR1ZTDzx-xapAh6VWRUjIzL4IQWaJ0zSf2wMwttO7eXmxeJx-OSjsFd8b3gx3ohvhls0hTv1MRkOc=w128-h128-e365-rj-sc0x00ffffff' width='300' />](https://chrome.google.com/webstore/detail/amino-css-editor/pbcpfbcibpcbfbmddogfhcijfpboeaaf)
 
 > Live CSS Editor. Write custom CSS for any website and see your changes in real time.
 
@@ -4149,7 +4151,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [6. Checkbot: SEO, Web Speed & Security Tester 🚀 - Chrome Web Store](https://chrome.google.com/webstore/detail/checkbot-seo-web-speed-se/dagohlmlhagincbfilmkadjgmdnkjinl?hl=en)
 
-[<img src='undefined' width='300' />](https://chrome.google.com/webstore/detail/checkbot-seo-web-speed-se/dagohlmlhagincbfilmkadjgmdnkjinl?hl=en)
+[<img src='https://lh3.googleusercontent.com/LCg4FiSPVs93s1Wotz9p5FxiYWKpP-irHfqJc2zji0Ew-Rga2D_XSHyXvCXzCuwEzpkRZx0d-ZFULB77cbVd6rvKqg=w128-h128-e365-rj-sc0x00ffffff' width='300' />](https://chrome.google.com/webstore/detail/checkbot-seo-web-speed-se/dagohlmlhagincbfilmkadjgmdnkjinl?hl=en)
 
 > Test SEO/speed/security of 100s of pages in a click! Check broken links, HTML/JavaScript/CSS, URL redirects, duplicate titles...
 
@@ -4158,7 +4160,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [7. Honey: Automatic Coupons & Rewards - Magazinul web Chrome](https://chrome.google.com/webstore/detail/honey-automatic-coupons-r/bmnlcjabgnpnenekpadlanbbkooimhnj)
 
-[<img src='undefined' width='300' />](https://chrome.google.com/webstore/detail/honey-automatic-coupons-r/bmnlcjabgnpnenekpadlanbbkooimhnj)
+[<img src='https://lh3.googleusercontent.com/7JKQtRzFchNfomvdwyw0W2xhYnsSjNhWz7h2HpCihLEy9MjrodV4g0UFJFqBKgf2fZsmPF_rTVz-beAVrrXdsEzK5w=w128-h128-e365-rj-sc0x00ffffff' width='300' />](https://chrome.google.com/webstore/detail/honey-automatic-coupons-r/bmnlcjabgnpnenekpadlanbbkooimhnj)
 
 > Save money and earn rewards when you shop online.
 
@@ -4167,7 +4169,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [8. Tango: screenshots, training, & documentation - Magazinul web Chrome](https://chrome.google.com/webstore/detail/tango-screenshots-trainin/lggdbpblkekjjbobadliahffoaobaknh)
 
-[<img src='undefined' width='300' />](https://chrome.google.com/webstore/detail/tango-screenshots-trainin/lggdbpblkekjjbobadliahffoaobaknh)
+[<img src='https://lh3.googleusercontent.com/H5SvCAM_D1jTBjTBgCI4Np1ZwKKeAFTHwgOg-6o9x8zYv7bNkkom0iyqyIdf_Ph2-jaG59o0719iCeAoAoK8BQdq=w128-h128-e365-rj-sc0x00ffffff' width='300' />](https://chrome.google.com/webstore/detail/tango-screenshots-trainin/lggdbpblkekjjbobadliahffoaobaknh)
 
 > Automatically create beautiful step-by-step guides with screenshots, in seconds.
 
@@ -4187,7 +4189,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [1. Bildr - Visual Web Development in your Browser](https://www.bildr.com/)
 
-[<img src='undefined' width='300' />](https://www.bildr.com/)
+[<img src='https://documents-scus.bildr.com/bildr2ac3ef7a68e34896b1c2c2f93c0b6addrev1020/doc/BildrShareImage-Rebrand-Color.CpAjh1fDFk6PLkOAlRZA6Q.png' width='300' />](https://www.bildr.com/)
 
 > Visually build SaaS products, Chrome extensions, and web3 dApps
 
@@ -4198,7 +4200,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [1. Repurposing content for social media the easy way » Repurpose.io](https://repurpose.io/)
 
-[<img src='data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20176'%3E%3C/svg%3E' width='300' />](https://repurpose.io/)
+[<img src='https://repurpose.io/wp-content/uploads/2022/03/content-repurposing-repurpose-io-video-podcast-youtube-facebook-tiktok-twitter-instagram-linkedin-content-marketing-automation-social-media.png' width='300' />](https://repurpose.io/)
 
 > Repurposing content for social media made easy. Automatically repurpose YouTube, TikTok, Lives, Podcasts, and Zoom calls. Try it for FREE.
 
@@ -4243,7 +4245,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [6. BNProject | Home](https://buynothingproject.org/)
 
-[<img src='https://static.tildacdn.com/tild6266-3738-4630-a461-633835623034/-/empty/100_pxl_contributor_.png' width='300' />](https://buynothingproject.org/)
+[<img src='https://static.tildacdn.com/tild6135-3936-4430-b731-656634393563/shutterstock_3179410.jpg' width='300' />](https://buynothingproject.org/)
 
 > 
 
@@ -4252,7 +4254,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [7. Open Source Alternatives to Proprietary Software](https://www.opensourcealternative.to/)
 
-[<img src='https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=336482&theme=light' width='300' />](https://www.opensourcealternative.to/)
+[<img src='https://uploads-ssl.webflow.com/6220c55c697338c9388a4715/622cb3010148d041f5b294a3_OPENSOURCE%20ALTERNATIVE.TO%20(2).png' width='300' />](https://www.opensourcealternative.to/)
 
 > Discover 400+ popular open source alternatives to proprietary SaaS.
 
@@ -4261,7 +4263,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [8. URL Shortener - Short URLs & Custom Free Link Shortener | Bitly](https://bitly.com/)
 
-[<img src='https://docrdsfx76ssb.cloudfront.net/static/1665519614/pages/wp-content/uploads/2022/07/chip.svg' width='300' />](https://bitly.com/)
+[<img src='https://docrdsfx76ssb.cloudfront.net/static/1665519614/pages/wp-content/uploads/2022/08/home-hero-social-sharing.png' width='300' />](https://bitly.com/)
 
 > Bitly’s Connections Platform is more than a free URL shortener, with robust link management software, advanced QR Code features, and a Link-in-bio solution.
 
@@ -4279,7 +4281,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [10. Good Books | Books recommended by successful people](https://www.goodbooks.io/)
 
-[<img src='https://global-uploads.webflow.com/61cb87c1189790ed10f7936d/61cb87c118979029f9f795f8_webflow-icon.svg' width='300' />](https://www.goodbooks.io/)
+[<img src='https://global-uploads.webflow.com/5e3396fc2524a2846621fa7d/5ea4eb05d3a80fc4a1c744c7_good-books-home-og-image.jpg' width='300' />](https://www.goodbooks.io/)
 
 > Looking for the best books to read in 2022? Discover the best book recommendations from the world's most successful, influential and interesting people.
 
@@ -4288,7 +4290,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [11. Directory - Website Recommendations](https://tokapps.com/directory/)
 
-[<img src='https://tokapps.com/ygroaphy/2022/04/xBlue-Dark-Minimalist-Initial-T-Letter-Logo.png.pagespeed.ic.fxNAgxGyS4.png' width='300' />](https://tokapps.com/directory/)
+[<img src='https://tokapps.com/ygroaphy/2022/04/PREFER-ALL-WEBSITES-IN-GOOGLE-SHEETS.png' width='300' />](https://tokapps.com/directory/)
 
 > 0 TRIED & TESTED WEBSITES LISTED Insanely Useful Websites A combination of useful websites for businesses, freelancers, DIYers, and individuals in a centralised area.All websites have been tried and tested. Filter Websites Audio Business Tools Copywriting Design Entertainment Graphics Guides Health Marketing PC Resources Savings SEO Software Travel Video Apply filter
 
@@ -4297,7 +4299,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [12. Watch Anime Online, Free Anime Streaming Online on Zoro.to Anime Website](https://zoro.to/)
 
-[<img src='https://zoro.to/images/zoro.png' width='300' />](https://zoro.to/)
+[<img src='https://zoro.to/images/capture.png' width='300' />](https://zoro.to/)
 
 > Zoro is a Free anime streaming website which you can watch English Subbed and Dubbed Anime online with No Account and Daily update. WATCH NOW!
 
@@ -4333,7 +4335,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [16. Tiktok Downloader - Download Video tiktok Without Watermark - SnapTik](https://snaptik.app/en)
 
-[<img src='https://snaptik.app/assets/imgs/appicon.webp' width='300' />](https://snaptik.app/en)
+[<img src='https://snaptik.app/assets/img/snapthumb.jpg' width='300' />](https://snaptik.app/en)
 
 > TikTok Video Downloader - SnapTik.App is one of the best free Download video Tiktok No Watermark tool available online. You can download TikTok video from any device you have.
 
@@ -4351,7 +4353,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [18. Fake Text Message | Make Fake Text Conversation](https://ifaketextmessage.com/)
 
-[<img src='https://cdn.ifaketextmessage.com/theme/images/ifake_text_message_iphone_logo.png' width='300' />](https://ifaketextmessage.com/)
+[<img src='https://cdn.ifaketextmessage.com/theme/images/fake_text_message_og.jpg' width='300' />](https://ifaketextmessage.com/)
 
 > Fake Text Message is a tool to create a Fake Text Conversation and a Fake iMessage.
 
@@ -4369,7 +4371,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [20. Omni Calculator](https://www.omnicalculator.com/)
 
-[<img src='data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHdpZHRoPSI5OTk5cHgiIGhlaWdodD0iOTk5OXB4IiB2aWV3Qm94PSIwIDAgOTk5OSA5OTk5IiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPjxkZWZzPjxyYWRpYWxHcmFkaWVudCBpZD0id2hpdGUiIGN4PSI1MCUiIGN5PSI1MCUiIHI9IjUwJSIgZng9IjUwJSIgZnk9IjUwJSI+PHN0b3Agb2Zmc2V0PSIwJSIgc3R5bGU9InN0b3AtY29sb3I6cmdiKDI1NSwyNTUsMjU1KTtzdG9wLW9wYWNpdHk6MC4wMSIgLz48c3RvcCBvZmZzZXQ9IjEwMCUiIHN0eWxlPSJzdG9wLWNvbG9yOnJnYigyNTUsMjU1LDI1NSk7c3RvcC1vcGFjaXR5OjAiIC8+PC9yYWRpYWxHcmFkaWVudD48L2RlZnM+PGcgc3Ryb2tlPSJub25lIiBmaWxsPSJ1cmwoI3doaXRlKSIgZmlsbC1vcGFjaXR5PSIxIj48cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iOTk5OSIgaGVpZ2h0PSI5OTk5Ij48L3JlY3Q+PC9nPjwvc3ZnPg==' width='300' />](https://www.omnicalculator.com/)
+[<img src='https://og-imgs.omnicalculator.com/homepage/2960.png' width='300' />](https://www.omnicalculator.com/)
 
 > Omni Calculator solves 2960 problems anywhere from finance and business to health. It’s so fast and easy you won’t want to do the math again!
 
@@ -4378,7 +4380,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [21. Watch Movies Online Free | Watch Series HD Free](https://hdtoday.tv/)
 
-[<img src='https://img.hdtoday.tv/xxrz/400x400/100/c4/93/c49337aa9c92d6fbf56b6b5830c6849c/c49337aa9c92d6fbf56b6b5830c6849c.png' width='300' />](https://hdtoday.tv/)
+[<img src='https://img.hdtoday.tv/xxrz/1300x700/100/87/db/87db01c609dc3a0e1c1349d50d9efc6d/87db01c609dc3a0e1c1349d50d9efc6d.png' width='300' />](https://hdtoday.tv/)
 
 > Free Access to the Biggest library of HD Movies and HD Series online - NO ADS - No Account Required - Fast Free Streaming
 
@@ -4389,7 +4391,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [1. Answers - The Most Trusted Place for Answering Life's Questions](https://www.answers.com/)
 
-[<img src='https://www.answers.com/icons/hamburgerMenuIcon.svg' width='300' />](https://www.answers.com/)
+[<img src='https://st.answers.com/html_test_assets/Answers_Blue.jpeg' width='300' />](https://www.answers.com/)
 
 > Answers is the place to go to get the answers you need and to ask the questions you want
 
@@ -4398,7 +4400,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [2. Wolfram|Alpha: Computational Intelligence](https://www.wolframalpha.com/)
 
-[<img src='https://www.wolframalpha.com/_next/static/images/Logo_1t99UmgS.svg' width='300' />](https://www.wolframalpha.com/)
+[<img src='https://www.wolframalpha.com/_next/static/images/share_3eSzXbxb.png' width='300' />](https://www.wolframalpha.com/)
 
 > Compute answers using Wolfram's breakthrough technology & knowledgebase, relied on by millions of students & professionals. For math, science, nutrition, history, geography, engineering, mathematics, linguistics, sports, finance, music…
 
@@ -4407,7 +4409,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [3. Online Math Tools - Simple, free and easy to use math utilities](https://onlinemathtools.com/)
 
-[<img src='https://onlinemathtools.com/images/logo-onlinemathtools.png' width='300' />](https://onlinemathtools.com/)
+[<img src='https://onlinemathtools.com/images/preview-image-onlinemathtools.png' width='300' />](https://onlinemathtools.com/)
 
 > World's simplest collection of useful mathematics utilities. Generate number sequences, draw fractals, do quick matrix and numerical calculations and more!
 
@@ -4416,7 +4418,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [4. edX | Free Online Courses by Harvard, MIT, & more | edX](https://www.edx.org/)
 
-[<img src='https://www.edx.org/images/logos/edx-logo-elm.svg' width='300' />](https://www.edx.org/)
+[<img src='https://images.ctfassets.net/ii9ehdcj88bc/24nI9FEfxhYsu4JtOI8esA/283e8add221ba5a36b9af0b595f5cd61/edx-homepage-preview.jpg?' width='300' />](https://www.edx.org/)
 
 > Access 2000 free online courses from 140 leading institutions worldwide. Gain new skills and earn a certificate of completion. Join today.
 
@@ -4434,7 +4436,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [6. DigitalDefynd - Find the Best + Free Courses Online](https://digitaldefynd.com/)
 
-[<img src='https://digitaldefynd.com/wp-content/uploads/2022/05/Asset-6.svg' width='300' />](https://digitaldefynd.com/)
+[<img src='https://digitaldefynd.com/wp-content/uploads/2022/09/Search-8.png' width='300' />](https://digitaldefynd.com/)
 
 > 4 Million+ Learners | 96,000+ Courses | 45,000+ Free Courses | 1200+ Free Certificates
 

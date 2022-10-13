@@ -2,8 +2,8 @@ const fs = require("fs");
 const json2md = require("json2md");
 const { parser } = require("html-metadata-parser");
 
-const fetchData = require("./fetch");
 const regex = require("./regex");
+const isValidHttpUrl = require("./checkIfUrl");
 const { getTitles, getLinks } = require("./regex.test");
 
 const readFile = () => {
@@ -39,10 +39,6 @@ const readFile = () => {
 			.map(async (url, index) => {
 				try {
 					const result = await parser(url);
-					// if (index === 0) {
-					// 	const thedata = await parser("https://carrd.co/");
-					// 	console.log(thedata);
-					// }
 					return result;
 				} catch (error) {
 					return {};
@@ -103,7 +99,9 @@ const readFile = () => {
 					const appIcon = {
 						link: {
 							title: `<img src='${
-								image || images.length > 0
+								isValidHttpUrl(image)
+									? image
+									: images.length > 0
 									? images[0]?.src
 									: "https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png"
 							}' width='300' />`,
