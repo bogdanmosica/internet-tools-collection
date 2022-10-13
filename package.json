@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "html-metadata-parser": "^2.0.4",
-    "json2md": "^2.0.0",
+    "json2md": "^2.0.0"
   }
 }
