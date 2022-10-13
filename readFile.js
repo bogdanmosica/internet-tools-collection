@@ -110,7 +110,7 @@ const readFile = () => {
 						link: {
 							title: `<img src=${
 								image ||
-								"https://i.pinimg.com/originals/7c/1c/a4/7c1ca448be31c489fb66214ea3ae6deb.jpg"
+								"https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png"
 							} width="300" />`,
 							source: url,
 						},
