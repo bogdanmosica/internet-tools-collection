@@ -30,7 +30,7 @@ const readFile = () => {
 			const heading =
 				theSplitByHashTag.length === 4
 					? theSplitByHashTag[3].slice(1).slice(0, -1)
-					: theSplitByHashTag[1].slice(1).slice(0, -1);
+					: theSplitByHashTag[1].slice(1);
 
 			const tag = theSplitByHashTag.length === 4 ? "h2" : "h1";
 			return { id, name, url, heading, tag };

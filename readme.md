@@ -41,7 +41,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 [18. Students](#students)
 
-## Artificial Intelligenc
+# Artificial Intelligence
 
 ## [1. Jasper - The Best AI Writing Assistant](https://www.jasper.ai/)
 
@@ -377,7 +377,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## Developer
+# Developers
 
 ## [1. Over API](https://overapi.com/)
 
@@ -917,7 +917,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## Desig
+# Design
 
 ## [1. Useberry](https://www.useberry.com/)
 
@@ -1265,7 +1265,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [12. SAVEE](https://savee.it/)
 
-[<img src=https://st.savee-cdn.com/_next/static/media/default-og-image.4c07ae17.jpg?1665659939189 width="300" />](https://savee.it/)
+[<img src=https://st.savee-cdn.com/_next/static/media/default-og-image.4c07ae17.jpg?1665660082598 width="300" />](https://savee.it/)
 
 > 
 
@@ -1859,7 +1859,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## Entrepreneu
+# Entrepreneur
 
 ## [1. Username Search](https://instantusername.com/#/)
 
@@ -3068,7 +3068,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## Video Editin
+# Video Editing
 
 ## [1. Jitter • The simplest motion design tool on the web.](https://jitter.video/)
 
@@ -3236,7 +3236,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## Stock video
+# Stock videos
 
 ## [1. Pexels](https://www.pexels.com/)
 
@@ -3301,7 +3301,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## Stock Photo
+# Stock Photos
 
 ## [1. Beautiful Free Images & Pictures | Unsplash](https://unsplash.com/)
 
@@ -3394,7 +3394,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## Stock musi
+# Stock music
 
 ## [1. Royalty Free Music for video creators | Epidemic Sound](https://www.epidemicsound.com/)
 
@@ -3441,7 +3441,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## Search Engine Optimizatio
+# Search Engine Optimization
 
 ## [1. Browser add-on to see Google search volume everywhere](https://keywordseverywhere.com/)
 
@@ -3560,7 +3560,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## Blog Post
+# Blog Posts
 
 ## [1. The 60 Hottest Front-end Tools of 2021 | CSS-Tricks](https://css-tricks.com/hottest-front-end-tools-in-2021/)
 
@@ -3571,7 +3571,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## Resum
+# Resume
 
 ## [1. ResumeGlow - AI Powered Resume Builder](https://resumeglow.com/)
 
@@ -3636,7 +3636,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## Interview
+# Interviews
 
 ## [1. Interview Warmup](https://grow.google/certificates/interview-warmup/)
 
@@ -3647,7 +3647,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## No code website builde
+# No code website builder
 
 ## [1. Carrd](https://carrd.co/)
 
@@ -3885,7 +3885,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## No code game builde
+# No code game builder
 
 ## [1. BuildBox](https://signup.buildbox.com/)
 
@@ -3914,7 +3914,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## Side Hustl
+# Side Hustle
 
 ## [1. Side Hustle Stack](https://sidehustlestack.co/)
 
@@ -4109,7 +4109,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## Browser Extension
+# Browser Extensions
 
 ## [1. Blackbox - Select. Copy. Paste & Search](https://chrome.google.com/webstore/detail/blackbox-select-copy-past/mcgbeeipkmelnpldkobichboakdfaeon)
 
@@ -4203,7 +4203,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## Othe
+# Other
 
 ## [1. Repurposing content for social media the easy way » Repurpose.io](https://repurpose.io/)
 
@@ -4394,7 +4394,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## Student
+# Students
 
 ## [1. Answers - The Most Trusted Place for Answering Life's Questions](https://www.answers.com/)
 
