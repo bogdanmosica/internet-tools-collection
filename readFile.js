@@ -28,7 +28,7 @@ const readFile = () => {
 			const theSplitByHashTag = headers[index] ? headers[index].split("#") : "";
 			const heading =
 				theSplitByHashTag.length === 4
-					? theSplitByHashTag[3].slice(1).slice(0, -1)
+					? theSplitByHashTag[3].slice(1)
 					: theSplitByHashTag[1].slice(1);
 
 			const tag = theSplitByHashTag.length === 4 ? "h2" : "h1";
@@ -39,10 +39,10 @@ const readFile = () => {
 			.map(async (url, index) => {
 				try {
 					const result = await parser(url);
-					if (index === 0) {
-						const thedata = await parser("https://carrd.co/");
-						console.log(thedata);
-					}
+					// if (index === 0) {
+					// 	const thedata = await parser("https://carrd.co/");
+					// 	console.log(thedata);
+					// }
 					return result;
 				} catch (error) {
 					return {};
@@ -98,7 +98,7 @@ const readFile = () => {
 							[textHeaders.includes(heading) ? "h1" : "h2"]: heading,
 						});
 					const appTitle = {
-						h2: `[${id}. ${title || name}](${url})`,
+						h2: `[${id}. ${title.trim() || name.trim()}](${url})`,
 					};
 					const appIcon = {
 						link: {

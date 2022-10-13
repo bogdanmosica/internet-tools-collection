@@ -349,7 +349,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## Text to Speac
+## Text to Speach
 
 ## [1. Listnr: Generate realistic Text to Speech voiceovers in seconds](https://www.listnr.tech/)
 
@@ -470,7 +470,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [12. HubSpot | Software, Tools, and Resources to Help Your Business Grow Better ](https://www.hubspot.com/)
+## [12. HubSpot | Software, Tools, and Resources to Help Your Business Grow Better](https://www.hubspot.com/)
 
 [<img src='data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDI2LjMuMSwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgoJIHZpZXdCb3g9IjAgMCAzMzguNjU5NjEgOTYiIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMCAwIDMzOC42NTk2MSA5NiIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxnPgoJPHBvbHlnb24gZmlsbD0iIzIxMzM0MyIgcG9pbnRzPSIzNi42NzcyNSw1NC4zMzIxOSAxMS44MDkxOCw1NC4zMzIxOSAxMS44MDkxOCw4MC41Mjg1OSAwLDgwLjUyODU5IDAsMTUuODkwODMgMTEuODA5MTgsMTUuODkwODMgCgkJMTEuODA5MTgsNDIuOTcxMDMgMzYuNjc3MjUsNDIuOTcxMDMgMzYuNjc3MjUsMTUuODkwODMgNDguNDgzNzgsMTUuODkwODMgNDguNDgzNzgsODAuNTI4NTkgMzYuNjc3MjUsODAuNTI4NTkgCSIvPgoJPHBhdGggZmlsbD0iIzIxMzM0MyIgZD0iTTg2LjI2OTM2LDU5LjYzNjM0YzAsNS4zODM0NC00LjM4NTMxLDkuNzYzNzUtOS43Njc1NSw5Ljc2Mzc1Yy01LjM4MzY4LDAtOS43NjYxNi00LjM4MDMxLTkuNzY2MTYtOS43NjM3NQoJCXYtMjcuNjg0OUg1NS41NTMzOXYyNy42ODQ5YzAsMTEuNTUwMjUsOS4zOTc2NCwyMC45NDU1OCwyMC45NDg0MiwyMC45NDU1OGMxMS41NDg0MiwwLDIwLjk0NjA1LTkuMzk1MzMsMjAuOTQ2MDUtMjAuOTQ1NTgKCQl2LTI3LjY4NDloLTExLjE3ODVWNTkuNjM2MzR6Ii8+Cgk8cGF0aCBmaWxsPSIjMjEzMzQzIiBkPSJNMTY5LjI0NTU2LDM0LjgwMTljMC01LjY3NjIxLDMuNzU2OTktNy40NzYxNSw3Ljg3MDI1LTcuNDc2MTVjMy4zMTIwMSwwLDcuNjk0NzIsMi41MjA2OSwxMC41NTQyNCw1LjU4MzYxCgkJbDcuMzMzMjUtOC42NDQ0Yy0zLjY2NDUxLTQuOTUxMi0xMS4wODc5MS04LjM3NDEzLTE3LjE3MDc1LTguMzc0MTNjLTEyLjE2NzMxLDAtMjAuOTMzODUsNy4xMTQyNC0yMC45MzM4NSwxOC45MTEwNgoJCWMwLDIxLjg4MDQ2LDI2Ljc0ODIsMTQuOTQ0NzksMjYuNzQ4MiwyNy4xOTQwNGMwLDMuNzc3NTMtMy42NjYzOCw3LjExMjM2LTcuODY5MzQsNy4xMTIzNgoJCWMtNi42MjE3LDAtOC43Njk2MS0zLjI0MTc0LTExLjgwOTg2LTYuNjY0bC04LjE0MTgyLDguNDYyNzJjNS4xOTEyMiw2LjM5MzczLDExLjYzMDA4LDkuNjM3MzYsMTkuMzIzNjUsOS42MzczNgoJCWMxMS41Mzk0OSwwLDIwLjg0MzI1LTcuMjA0MDUsMjAuODQzMjUtMTguNDYxNDlDMTk1Ljk5MjgsMzcuNzcxNDgsMTY5LjI0NTU2LDQ1LjMzNjI3LDE2OS4yNDU1NiwzNC44MDE5eiIvPgoJPHBhdGggZmlsbD0iIzIxMzM0MyIgZD0iTTMzNC43MjA0OSw3MC4yMDI3OGMtNi42MTY5NywwLTguNDk1MDYtMi44NjA5Ni04LjQ5NTA2LTcuMjQ1OThWNDMuNTQ2NThoMTAuMjg0ODJ2LTkuODM4OTJoLTEwLjI4NDgyCgkJVjIwLjczNTE1bC0xMS4zNTc3OSw1LjA5ODI2djM5LjUzOTMxYzAsMTAuMTA5Myw2Ljk3NDY0LDE1LjIwOTIsMTYuNTQyNjYsMTUuMjA5MmMxLjQzMTIxLDAsMy40MDEyMS0wLjA5MjQ4LDQuNDc1NjgtMC4zNTc2NgoJCWwyLjc3MzYyLTEwLjE5NzA2QzMzNy40MDc3NSw3MC4xMTM1NywzMzUuOTc3MDIsNzAuMjAyNzgsMzM0LjcyMDQ5LDcwLjIwMjc4eiIvPgoJPHBhdGggZmlsbD0iIzIxMzM0MyIgZD0iTTEyOC44OTMyMywzMi4yNzUzM2MtNS41NDY3MywwLTkuNDE4MjksMS42MTAwMi0xMy4xNTczNiw1LjI4MDAzVjE2LjI3Njg1aC0xMS4yMTgwOXYzOS40MzU0NgoJCWMwLDE0Ljc2MDQsMTAuNjcxNjEsMjQuODY5NjMsMjIuNjYyMzYsMjQuODY5NjNjMTMuMzI5MDYsMCwyNS4wMDc3Ny0xMC4yODg5OSwyNS4wMDc3Ny0yNC4xNTIzMgoJCUMxNTIuMTg3OTEsNDIuNzQxOTEsMTQxLjQxODY5LDMyLjI3NTMzLDEyOC44OTMyMywzMi4yNzUzM3ogTTEyOC44MjM1LDY5LjI5MTczYy03LjAyNzU0LDAtMTIuNzIzNzQtNS42OTY0Mi0xMi43MjM3NC0xMi43MjM1MwoJCWMwLTcuMDI2ODksNS42OTYyLTEyLjcyMzUzLDEyLjcyMzc0LTEyLjcyMzUzYzcuMDI2NjcsMCwxMi43MjMzMSw1LjY5NjY0LDEyLjcyMzMxLDEyLjcyMzUzCgkJQzE0MS41NDY4MSw2My41OTUzLDEzNS44NTAxNyw2OS4yOTE3MywxMjguODIzNSw2OS4yOTE3M3oiLz4KCTxwYXRoIGZpbGw9IiMyMTMzNDMiIGQ9Ik0yNTAuNjgzNDYsNTUuODQ3MjRjMC0xMy44NjMzMy0xMS42Nzg3My0yNC4xNTIzMi0yNS4wMDc3OC0yNC4xNTIzMgoJCWMtMTEuOTkwNzUsMC0yMi42NjIzNSwxMC4xMDkyMi0yMi42NjIzNSwyNC44Njk2M1Y5NmgxMS4yMTgwOVY3NC43MjE0OWMzLjczOTA2LDMuNjcwMDEsNy42MTA2Myw1LjI4MDAzLDEzLjE1NzM1LDUuMjgwMDMKCQlDMjM5LjkxNDIyLDgwLjAwMTUyLDI1MC42ODM0Niw2OS41MzQ5NCwyNTAuNjgzNDYsNTUuODQ3MjR6IE0yNDAuMDQyMzQsNTUuNzA4NjVjMCw3LjAyNjg5LTUuNjk2NjQsMTIuNzIzNTMtMTIuNzIzMzEsMTIuNzIzNTMKCQljLTcuMDI3NTQsMC0xMi43MjM3NC01LjY5NjY0LTEyLjcyMzc0LTEyLjcyMzUzYzAtNy4wMjcxLDUuNjk2Mi0xMi43MjM1MywxMi43MjM3NC0xMi43MjM1MwoJCUMyMzQuMzQ1Nyw0Mi45ODUxMywyNDAuMDQyMzQsNDguNjgxNTUsMjQwLjA0MjM0LDU1LjcwODY1eiIvPgoJPHBhdGggZmlsbD0iI0ZGNUMzNSIgZD0iTTI4Ni45MzI0NiwzMS4xNTE1NFYxOS44ODMxMmMyLjk0MTE2LTEuMzg5NTEsNS4wMDIwMS00LjM2NTA4LDUuMDAyMDEtNy44MTg1di0wLjI2MDM4CgkJYzAtNC43NjU1Ny0zLjg5OTQ0LTguNjY0OC04LjY2NDgzLTguNjY0OGgtMC4yNjAxNmMtNC43NjU3OCwwLTguNjY1MjIsMy44OTkyMy04LjY2NTIyLDguNjY0OHYwLjI2MDM4CgkJYzAsMy40NTM0MSwyLjA2MTI4LDYuNDI5NDIsNS4wMDI0MSw3LjgxODcydjExLjI2ODQyYy00LjM3OTI0LDAuNjc2NTYtOC4zODA2NSwyLjQ4MjY5LTExLjY4MjE5LDUuMTQwNzlsLTMwLjkzODg3LTI0LjA2NzU2CgkJYzAuMjAzNTEtMC43ODM3NywwLjM0NjQ1LTEuNTkxMjksMC4zNDczMi0yLjQzODY4YzAuMDA2OTctNS4zOTc5MS00LjM2MzEzLTkuNzc5MzMtOS43NjEyNS05Ljc4NjMxCgkJYy01LjM5ODEzLTAuMDA2NzUtOS43Nzk1Niw0LjM2MzU2LTkuNzg2NTMsOS43NjE0N2MtMC4wMDY1Myw1LjM5NzkxLDQuMzYzNTYsOS43NzkzMyw5Ljc2MTY5LDkuNzg2MDkKCQljMS43NTkyOCwwLjAwMjE4LDMuMzg3MzktMC40OTc0NSw0LjgxNDYxLTEuMzA5MTFsMzAuNDM0NjUsMjMuNjc1NzljLTIuNTg4NTksMy45MDY4NS00LjEwNDI1LDguNTg2OC00LjEwNDI1LDEzLjYyNDUyCgkJYzAsNS4yNzQ1OCwxLjY2NjAyLDEwLjE1MjgxLDQuNDgyMDksMTQuMTY1NzdsLTkuMjU1NzQsOS4yNTU3NGMtMC43MzE2OS0wLjIxOTQyLTEuNDkxMjctMC4zNzMwNC0yLjI5NDg2LTAuMzczMDQKCQljLTQuNDM1NDcsMC04LjAzMTYsMy41OTU5Mi04LjAzMTYsOC4wMzE2czMuNTk2MTMsOC4wMzE2LDguMDMxNiw4LjAzMTZjNC40MzU5LDAsOC4wMzE1OS0zLjU5NTkyLDguMDMxNTktOC4wMzE2CgkJYzAtMC44MDMxNi0wLjE1MzM4LTEuNTYyOTYtMC4zNzMwMi0yLjI5NDY1bDkuMTU1NDktOS4xNTUyOGM0LjE1NTcsMy4xNzI1NSw5LjMzMDY5LDUuMDc4MDMsMTQuOTYyODMsNS4wNzgwMwoJCWMxMy42NDU0NSwwLDI0LjcwNzUyLTExLjA2MjI5LDI0LjcwNzUyLTI0LjcwODE3QzMwNy44NDc3NSw0My4xODU4NywyOTguNzcyODYsMzIuOTgwMzMsMjg2LjkzMjQ2LDMxLjE1MTU0eiBNMjgzLjE0MDIzLDY4LjIwNjI4CgkJYy02Ljk5NjE1LDAtMTIuNjY4NC01LjY3MTM3LTEyLjY2ODQtMTIuNjY3NTNjMC02Ljk5NTk0LDUuNjcyMjQtMTIuNjY3NTMsMTIuNjY4NC0xMi42Njc1MwoJCWM2Ljk5NTMsMCwxMi42Njc1NCw1LjY3MTU4LDEyLjY2NzU0LDEyLjY2NzUzQzI5NS44MDc3Nyw2Mi41MzQ5MiwyOTAuMTM1NTMsNjguMjA2MjgsMjgzLjE0MDIzLDY4LjIwNjI4eiIvPgo8L2c+Cjwvc3ZnPgo=' width='300' />](https://www.hubspot.com/)
 
@@ -515,7 +515,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## CSS Generator
+## CSS Generators
 
 ## [1. Get Waves – Create SVG waves for your next design](https://getwaves.io/)
 
@@ -580,7 +580,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## CSS Animation
+## CSS Animations
 
 ## [1. Animista - CSS Animations on Demand](https://animista.net/)
 
@@ -591,7 +591,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## Build Internal app
+## Build Internal apps
 
 ## [1. Superblocks | Save 100s of developer hours on internal tools](https://www.superblocks.com/)
 
@@ -620,7 +620,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## GitHub Repositorie
+## GitHub Repositories
 
 ## [1. GitHub - vasanthk/how-web-works: What happens behind the scenes when we type www.google.com in a browser?](https://github.com/vasanthk/how-web-works)
 
@@ -660,7 +660,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [5. GitHub - Kristories/awesome-guidelines: A curated list of high quality coding style conventions and standards.](https://github.com/Kristories/awesome-guidelines)
 
-[<img src='https://avatars.githubusercontent.com/u/774338?s=48&v=4' width='300' />](https://github.com/Kristories/awesome-guidelines)
+[<img src='https://camo.githubusercontent.com/a1f2219dea1f79426a0158cfa13c815c8df2d9905fbd9ffb04c04768a91a29dd/68747470733a2f2f617765736f6d652d67756964656c696e65732e636f6d2f6173736574732f696d672f636f7665722e676966' width='300' />](https://github.com/Kristories/awesome-guidelines)
 
 > A curated list of high quality coding style conventions and standards. - GitHub - Kristories/awesome-guidelines: A curated list of high quality coding style conventions and standards.
 
@@ -694,7 +694,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## Blockchain/Crypt
+## Blockchain/Crypto
 
 ## [1. Dashboards](https://dune.com/)
 
@@ -759,7 +759,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## Stock Tradin
+## Stock Trading
 
 ## [1. Quiver Quantitative](https://www.quiverquant.com/)
 
@@ -779,7 +779,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## Learnin
+## Learning
 
 ## [1. Hacker Rank](https://www.hackerrank.com/)
 
@@ -799,8 +799,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [3. 
-        Competitive Programming | Participate & Learn | CodeChef    ](https://www.codechef.com/)
+## [3. Competitive Programming | Participate & Learn | CodeChef](https://www.codechef.com/)
 
 [<img src='https://cdn.codechef.com/images/cc-logo.svg' width='300' />](https://www.codechef.com/)
 
@@ -854,9 +853,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [9. 
-      Your Career in Web Development Starts Here | The Odin Project
-    ](https://www.theodinproject.com/)
+## [9. Your Career in Web Development Starts Here | The Odin Project](https://www.theodinproject.com/)
 
 [<img src='https://www.theodinproject.com/assets/icons/odin-icon-b5b31c073f7417a257003166c98cc23743654715305910c068b93a3bf4d3065d.svg' width='300' />](https://www.theodinproject.com/)
 
@@ -865,7 +862,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## Code Learning Game
+## Code Learning Games
 
 ## [1. CheckiO - coding games and programming challenges for beginner and advanced](https://checkio.org/)
 
@@ -1085,11 +1082,11 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [20. PromptHero - Search prompts for Stable Diffusion, DALL-E & Midjourney](https://prompthero.com/)
+## [20. Prompt Hero](https://prompthero.com/)
 
-[<img src='https://prompthero.com/assets/logo-1a320e7d99d0b1dfef7d9531a95ce4ba0654ed3da28f3da9163c203f6729ace2.svg' width='300' />](https://prompthero.com/)
+[<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width='300' />](https://prompthero.com/)
 
-> Search the world's best AI prompts. Explore millions of Artificial Intelligence generated images by models like DALL-E, Stable Diffusion, Midjourney...
+> 
 
 
 ---
@@ -1157,7 +1154,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## UI/UX - Inspirationa
+## UI/UX - Inspirational
 
 ## [1. Free Website Builder Software | 10,000+ Free Templates](https://nicepage.com/)
 
@@ -1285,11 +1282,9 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## Websites Free template
+## Websites Free templates
 
-## [1. 
-        Premium Bootstrap Themes and Templates: Download @ Creative Tim
-    ](https://www.creative-tim.com/)
+## [1. Premium Bootstrap Themes and Templates: Download @ Creative Tim](https://www.creative-tim.com/)
 
 [<img src='https://www.creative-tim.com/assets/logo/logo-ct-white-170d794e447f75aec55c6effdfbedced9dd268ceceece152675ff8f9891e3588.svg' width='300' />](https://www.creative-tim.com/)
 
@@ -1379,7 +1374,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## Create Online Graphic
+## Create Online Graphics
 
 ## [1. Snappa - Quick & Easy Graphic Design Software](https://snappa.com/)
 
@@ -1483,7 +1478,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## Color Palle
+## Color Pallet
 
 ## [1. Color Palettes for Designers and Artists - Color Hunt](https://colorhunt.co/)
 
@@ -1539,7 +1534,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## Font
+## Fonts
 
 ## [1. Google Fonts](https://fonts.google.com/)
 
@@ -1577,7 +1572,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## Illustration
+## Illustrations
 
 ## [1. Illustrations | unDraw](https://undraw.co/illustrations)
 
@@ -1642,7 +1637,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## Mockup
+## Mockups
 
 ## [1. Angle 4 - 5000+ Device Mockups for Figma, Sketch and XD](https://angle.sh/)
 
@@ -1707,9 +1702,9 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## Othe
+# Other
 
-## [1. BuiltWith Technology Lookup](https://builtwith.com/)
+## [1. BuiltWith Technology Lookup](https://builtwith.com/)
 
 [<img src='undefined' width='300' />](https://builtwith.com/)
 
@@ -1754,9 +1749,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [6. 
-    Remove Video Background – Unscreen
-  ](https://www.unscreen.com/)
+## [6. Remove Video Background – Unscreen](https://www.unscreen.com/)
 
 [<img src='https://www.unscreen.com/assets/logo-7cfc1fe268299b5a810322ccdaa708d9927fcbbd218b417e110663e02c4221bf.svg' width='300' />](https://www.unscreen.com/)
 
@@ -1792,7 +1785,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## Learning U
+## Learning UX
 
 ## [1. Degreeless.design - Everything I Learned in Design School](https://degreeless.design/)
 
@@ -1967,7 +1960,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [13.  Product Hunt – The best new products in tech. ](https://www.producthunt.com/)
+## [13. Product Hunt – The best new products in tech.](https://www.producthunt.com/)
 
 [<img src='undefined' width='300' />](https://www.producthunt.com/)
 
@@ -2232,8 +2225,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [42. 
-          BuzzSumo | The World's #1 Content Marketing Platform      ](https://buzzsumo.com/)
+## [42. BuzzSumo | The World's #1 Content Marketing Platform](https://buzzsumo.com/)
 
 [<img src='https://buzzsumo.com/wp-content/themes/brandwatch/src/site--buzzsumo.com/assets/svg/hatch.svg' width='300' />](https://buzzsumo.com/)
 
@@ -2242,9 +2234,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [43. 
-		Login - Capital
-	](https://app.capital.xyz/)
+## [43. Login - Capital](https://app.capital.xyz/)
 
 [<img src='undefined' width='300' />](https://app.capital.xyz/)
 
@@ -2253,7 +2243,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## Marketin
+## Marketing
 
 ## [1. Pictory – Video Marketing Made Easy - Pictory.ai](https://pictory.ai/)
 
@@ -2390,7 +2380,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## Other Tool
+## Other Tools
 
 ## [1. Simplescraper — Scrape Websites and turn them into APIs](https://simplescraper.io/)
 
@@ -2482,8 +2472,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [11. Find email addresses in seconds • Hunter (Email Hunter)
-](https://hunter.io/)
+## [11. Find email addresses in seconds • Hunter (Email Hunter)](https://hunter.io/)
 
 [<img src='https://hunter.io/assets/customers_logos/google-1a5bff0e369d93820100d14e89817218c1b4a8be39a3cd1eab305af74d32d8cb.svg' width='300' />](https://hunter.io/)
 
@@ -2556,9 +2545,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [19. 
-    AI Content Generation | Competitor Analysis - Predis.ai
-  ](https://predis.ai/)
+## [19. AI Content Generation | Competitor Analysis - Predis.ai](https://predis.ai/)
 
 [<img src='https://predis.ai/assets/img/xpredis_logo.png.pagespeed.ic.cwItWLNYcW.png' width='300' />](https://predis.ai/)
 
@@ -2748,7 +2735,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## Productivit
+## Productivity
 
 ## [1. Temp Mail](https://temp-mail.org/en/)
 
@@ -2894,11 +2881,9 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## PDF Tool
+## PDF Tools
 
-## [1. 
-                    Free PDF, Video, Image & Other Online Tools - TinyWow
-            ](https://tinywow.com/)
+## [1. Free PDF, Video, Image & Other Online Tools - TinyWow](https://tinywow.com/)
 
 [<img src='https://tinywow.com/v2/img/logo.svg' width='300' />](https://tinywow.com/)
 
@@ -2907,7 +2892,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [2. Smallpdf.com - A Free Solution to all your PDF Problems ](https://smallpdf.com/)
+## [2. Smallpdf.com - A Free Solution to all your PDF Problems](https://smallpdf.com/)
 
 [<img src='https://s.smallpdf.com/static/95cf74e5f89f93cfd5f97d16fa673f05.svg' width='300' />](https://smallpdf.com/)
 
@@ -2934,7 +2919,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## Text rewrit
+## Text rewrite
 
 ## [1. QuillBot](https://quillbot.com/)
 
@@ -2963,13 +2948,13 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## Aliexpress alternative
+## Aliexpress alternatives
 
-## [1. CJDropshipping](https://cjdropshipping.com/)
+## [1. CJdropshipping - Dropshipping from Worldwide to Worldwide!](https://cjdropshipping.com/)
 
-[<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width='300' />](https://cjdropshipping.com/)
+[<img src='https://frontend.cjdropshipping.cn/cjweb-static/images/flag/US.png' width='300' />](https://cjdropshipping.com/)
 
-> 
+> China's reliable eCommerce dropshipping fulfillment supplier, helps small businesses ship worldwide, dropship and fulfillment services that are friendly to start-ups and small businesses, Shopify dropshipping.
 
 
 ---
@@ -3019,7 +3004,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## Dropshipping Tool
+## Dropshipping Tools
 
 ## [1. Oberlo | Where Self Made is Made](https://www.oberlo.com/)
 
@@ -3039,8 +3024,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [3. 
-                    SMSBump | SMS Marketing E-Commerce App for Shopify](https://smsbump.com/)
+## [3. SMSBump | SMS Marketing E-Commerce App for Shopify](https://smsbump.com/)
 
 [<img src='https://dnuaqhs941n75.cloudfront.net/img/website/smsbump-yotpo-2.svg' width='300' />](https://smsbump.com/)
 
@@ -3222,7 +3206,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## 3D Video Motion
+## 3D Video Motions
 
 ## [1. Plask - AI Motion Capture and 3D Animation Tool](https://plask.ai/)
 
@@ -3233,7 +3217,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## Caption
+## Captions
 
 ## [1. Captions](https://www.getcaptions.app/)
 
@@ -3460,11 +3444,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [2. 
-    
-        Semrush - Online Marketing Can Be Easy
-    
-](https://www.semrush.com/)
+## [2. Semrush - Online Marketing Can Be Easy](https://www.semrush.com/)
 
 [<img src='https://cdn.semrush.com/static/index/logos/Tesla_logo.f58ace4c9fc6.svg' width='300' />](https://www.semrush.com/)
 
@@ -3697,9 +3677,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [5. 
-				Free Website Builder: Build a Free Website or Online Store | Weebly
-		](https://www.weebly.com/)
+## [5. Free Website Builder: Build a Free Website or Online Store | Weebly](https://www.weebly.com/)
 
 [<img src='https://cdn2.editmysite.com/images/landing-pages/global/shared/navbar/carrot.svg' width='300' />](https://www.weebly.com/)
 
@@ -3798,8 +3776,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [16. 
-        Bookmark.com | No-code Website Builder to Start Your Business     ](https://www.bookmark.com/)
+## [16. Bookmark.com | No-code Website Builder to Start Your Business](https://www.bookmark.com/)
 
 [<img src='https://www.bookmark.com/assets/v2/images/logos/bookmark-red.svg' width='300' />](https://www.bookmark.com/)
 
@@ -3881,7 +3858,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## Other tools used in no code websit
+## Other tools used in no code website
 
 ## [1. MemberSpace - Turn any part of your website into members-only with just a few clicks](https://www.memberspace.com/)
 
@@ -3959,7 +3936,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [4. Transcribe Speech to Text | Rev ](https://www.rev.com/)
+## [4. Transcribe Speech to Text | Rev](https://www.rev.com/)
 
 [<img src='https://images.ctfassets.net/fud10lj9l803/77TAZvk49CG3OQ1RKZCNOY/42cad4a17fcf6a6256fdc2a1632c9460/Logo_Feature_-_Oak_National_Academy.jpg' width='300' />](https://www.rev.com/)
 
@@ -3986,7 +3963,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## Jobs Websites - Remot
+## Jobs Websites - Remote
 
 ## [1. Latest Crypto Jobs, Web3 Jobs and Blockchain Jobs in the leading tech companies.](https://cryptojobslist.com/)
 
@@ -4042,8 +4019,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [7. 
-  Remote Work: Jobs, Companies & Virtual Teams - Remote.co](https://remote.co/)
+## [7. Remote Work: Jobs, Companies & Virtual Teams - Remote.co](https://remote.co/)
 
 [<img src='https://remoteco.s3.amazonaws.com/wp-content/uploads/2019/04/Rco_logo_2x.png' width='300' />](https://remote.co/)
 
@@ -4079,7 +4055,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [11. Best Remote and Work from Home Jobs - Virtual Vocations ](https://www.virtualvocations.com/)
+## [11. Best Remote and Work from Home Jobs - Virtual Vocations](https://www.virtualvocations.com/)
 
 [<img src='https://www.virtualvocations.com/images/logo-orange.png' width='300' />](https://www.virtualvocations.com/)
 
@@ -4207,7 +4183,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## No Code Browser extensions builde
+## No Code Browser extensions builder
 
 ## [1. Bildr - Visual Web Development in your Browser](https://www.bildr.com/)
 
@@ -4247,9 +4223,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [4. 
-	Online Room Planner - Design Your Room
-](http://www.planyourroom.com/)
+## [4. Online Room Planner - Design Your Room](http://www.planyourroom.com/)
 
 [<img src='https://images.furnituredealer.net/img/dealer/1/upload/roomplanner/planyourroom-logo-56x50.png' width='300' />](http://www.planyourroom.com/)
 
