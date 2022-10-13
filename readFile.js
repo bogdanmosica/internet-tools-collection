@@ -71,13 +71,12 @@ const readFile = () => {
 				...og,
 				...extractedData[i],
 			}));
-			console.log(appList);
 			const markdownModelContent = filteredH1Headers.reduce(
-				(prev, current) => {
+				(prev, current, index) => {
 					const linkName = current.split("#")[1].slice(1).slice(0, -1);
 					prev.push({
 						link: {
-							title: linkName,
+							title: `${index + 1}. ${linkName}`,
 							source: `#${linkName.replace(/\s+/g, "-").toLowerCase()}`,
 						},
 					});
@@ -105,7 +104,7 @@ const readFile = () => {
 							[textHeaders.includes(heading) ? "h1" : "h2"]: heading,
 						});
 					const appTitle = {
-						h2: `[${title || name}](${image})`,
+						h2: `[${id}. ${title || name}](${image})`,
 					};
 					const appIcon = {
 						link: {
