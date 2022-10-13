@@ -17,9 +17,7 @@ const readFile = () => {
 		const filteredH1Headers = headers.filter(
 			(header, index) => index !== 0 && header.split("#").length < 4
 		);
-		const textHeaders = filteredH1Headers.map((h) =>
-			h.split("#")[1].slice(1).slice(0, -1)
-		);
+		const textHeaders = filteredH1Headers.map((h) => h.split("#")[1].slice(1));
 
 		const extractedData = getLinks(data).map((token) => {
 			const id = +token.match(regex.numbers)[0];

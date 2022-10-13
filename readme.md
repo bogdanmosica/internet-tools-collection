@@ -41,7 +41,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 [18. Student](#student)
 
-# Artificial Intelligenc
+## Artificial Intelligenc
 
 ## [1. Jasper - The Best AI Writing Assistant](https://www.jasper.ai/)
 
@@ -377,7 +377,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-# Developer
+## Developer
 
 ## [1. Over API](https://overapi.com/)
 
@@ -632,7 +632,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [1. GitHub - vasanthk/how-web-works: What happens behind the scenes when we type www.google.com in a browser?](https://github.com/vasanthk/how-web-works)
 
-[<img src=https://opengraph.githubassets.com/e8a36cda9f38d557ad6c0dca89757dd29ece741d52e9ddd2a0607491c3ab7db5/vasanthk/how-web-works width="300" />](https://github.com/vasanthk/how-web-works)
+[<img src=https://opengraph.githubassets.com/923065e87870971437d48a287070705c8dd6286e93e97c3c3cafb389d11f9bc3/vasanthk/how-web-works width="300" />](https://github.com/vasanthk/how-web-works)
 
 > What happens behind the scenes when we type www.google.com in a browser? - GitHub - vasanthk/how-web-works: What happens behind the scenes when we type www.google.com in a browser?
 
@@ -641,7 +641,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [2. GitHub - kamranahmedse/developer-roadmap: Interactive roadmaps, guides and other educational content to help developers grow in their careers.](https://github.com/kamranahmedse/developer-roadmap)
 
-[<img src=https://opengraph.githubassets.com/70519176877b8c1bedc24ff5d4bfa3c032c7aba8a4b65081692590e2cad52f5f/kamranahmedse/developer-roadmap width="300" />](https://github.com/kamranahmedse/developer-roadmap)
+[<img src=https://opengraph.githubassets.com/580a9aa89de2aa6ff341cffb2e6bd93b1f4abd7c0432f7fd562f3e7736b1ef16/kamranahmedse/developer-roadmap width="300" />](https://github.com/kamranahmedse/developer-roadmap)
 
 > Interactive roadmaps, guides and other educational content to help developers grow in their careers. - GitHub - kamranahmedse/developer-roadmap: Interactive roadmaps, guides and other educational c...
 
@@ -677,7 +677,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [6. GitHub - tiimgreen/github-cheat-sheet: A list of cool features of Git and GitHub.](https://github.com/tiimgreen/github-cheat-sheet)
 
-[<img src=https://opengraph.githubassets.com/49ba40a21fab5bb8322d682f7a0029733d9c41c1d9b5239efc0f77ce0df72189/tiimgreen/github-cheat-sheet width="300" />](https://github.com/tiimgreen/github-cheat-sheet)
+[<img src=https://opengraph.githubassets.com/bb4dee0637ee46369c7dbe3d5a977b4847219bd9de73838144d1fa7f3e6a2fec/tiimgreen/github-cheat-sheet width="300" />](https://github.com/tiimgreen/github-cheat-sheet)
 
 > A list of cool features of Git and GitHub. Contribute to tiimgreen/github-cheat-sheet development by creating an account on GitHub.
 
@@ -917,7 +917,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-# Desig
+## Desig
 
 ## [1. Useberry](https://www.useberry.com/)
 
@@ -1265,7 +1265,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [12. SAVEE](https://savee.it/)
 
-[<img src=https://st.savee-cdn.com/_next/static/media/default-og-image.4c07ae17.jpg?1665646480586 width="300" />](https://savee.it/)
+[<img src=https://st.savee-cdn.com/_next/static/media/default-og-image.4c07ae17.jpg?1665659782510 width="300" />](https://savee.it/)
 
 > 
 
@@ -1350,7 +1350,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 [<img src=https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png width="300" />](https://themesberg.com/)
 
-> Free and Premium Bootstrap Themes, Templates & UI Kits by Themesberg. Join over 38810 developers to access our free and premium themes.
+> Free and Premium Bootstrap Themes, Templates & UI Kits by Themesberg. Join over 38818 developers to access our free and premium themes.
 
 
 ---
@@ -1711,7 +1711,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-# Othe
+## Othe
 
 ## [1. BuiltWith](https://builtwith.com/)
 
@@ -1859,7 +1859,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-# Entrepreneu
+## Entrepreneu
 
 ## [1. Username Search](https://instantusername.com/#/)
 
@@ -3068,7 +3068,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-# Video Editin
+## Video Editin
 
 ## [1. Jitter • The simplest motion design tool on the web.](https://jitter.video/)
 
@@ -3236,7 +3236,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-# Stock video
+## Stock video
 
 ## [1. Pexels](https://www.pexels.com/)
 
@@ -3301,11 +3301,11 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-# Stock Photo
+## Stock Photo
 
 ## [1. Beautiful Free Images & Pictures | Unsplash](https://unsplash.com/)
 
-[<img src=https://images.unsplash.com/opengraph/1x1.png?auto=format&fit=crop&w=1200&h=630&q=60&mark-w=64&mark-align=top%2Cleft&mark-pad=50&blend-w=1&mark=https%3A%2F%2Fimages.unsplash.com%2Fopengraph%2Flogo.png&blend=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1664127543072-8615a3b17367%3Fcrop%3Dfaces%252Cedges%26cs%3Dtinysrgb%26fit%3Dcrop%26fm%3Djpg%26ixid%3DMnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjY1NjQ2MTk5%26ixlib%3Drb-1.2.1%26q%3D60%26w%3D1200%26auto%3Dformat%26h%3D630%26mark-w%3D424%26mark-align%3Dmiddle%252Ccenter%26blend-mode%3Dnormal%26blend-alpha%3D10%26mark%3Dhttps%253A%252F%252Fimages.unsplash.com%252Fopengraph%252Fwordmark.png%26blend%3D000000 width="300" />](https://unsplash.com/)
+[<img src=https://images.unsplash.com/opengraph/1x1.png?auto=format&fit=crop&w=1200&h=630&q=60&mark-w=64&mark-align=top%2Cleft&mark-pad=50&blend-w=1&mark=https%3A%2F%2Fimages.unsplash.com%2Fopengraph%2Flogo.png&blend=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1664127543072-8615a3b17367%3Fcrop%3Dfaces%252Cedges%26cs%3Dtinysrgb%26fit%3Dcrop%26fm%3Djpg%26ixid%3DMnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjY1NjU2NzA0%26ixlib%3Drb-1.2.1%26q%3D60%26w%3D1200%26auto%3Dformat%26h%3D630%26mark-w%3D424%26mark-align%3Dmiddle%252Ccenter%26blend-mode%3Dnormal%26blend-alpha%3D10%26mark%3Dhttps%253A%252F%252Fimages.unsplash.com%252Fopengraph%252Fwordmark.png%26blend%3D000000 width="300" />](https://unsplash.com/)
 
 > Beautiful, free images and photos that you can download and use for any project. Better than any royalty free or stock photos.
 
@@ -3394,7 +3394,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-# Stock musi
+## Stock musi
 
 ## [1. Royalty Free Music for video creators | Epidemic Sound](https://www.epidemicsound.com/)
 
@@ -3441,7 +3441,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-# Search Engine Optimizatio
+## Search Engine Optimizatio
 
 ## [1. Browser add-on to see Google search volume everywhere](https://keywordseverywhere.com/)
 
@@ -3560,7 +3560,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-# Blog Post
+## Blog Post
 
 ## [1. The 60 Hottest Front-end Tools of 2021 | CSS-Tricks](https://css-tricks.com/hottest-front-end-tools-in-2021/)
 
@@ -3571,7 +3571,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-# Resum
+## Resum
 
 ## [1. ResumeGlow - AI Powered Resume Builder](https://resumeglow.com/)
 
@@ -3636,7 +3636,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-# Interview
+## Interview
 
 ## [1. Interview Warmup](https://grow.google/certificates/interview-warmup/)
 
@@ -3647,7 +3647,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-# No code website builde
+## No code website builde
 
 ## [1. Carrd](https://carrd.co/)
 
@@ -3885,7 +3885,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-# No code game builde
+## No code game builde
 
 ## [1. BuildBox](https://signup.buildbox.com/)
 
@@ -3914,7 +3914,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-# Side Hustl
+## Side Hustl
 
 ## [1. Side Hustle Stack](https://sidehustlestack.co/)
 
@@ -4109,7 +4109,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-# Browser Extension
+## Browser Extension
 
 ## [1. Blackbox - Select. Copy. Paste & Search](https://chrome.google.com/webstore/detail/blackbox-select-copy-past/mcgbeeipkmelnpldkobichboakdfaeon)
 
@@ -4203,7 +4203,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-# Othe
+## Othe
 
 ## [1. Repurposing content for social media the easy way » Repurpose.io](https://repurpose.io/)
 
@@ -4394,7 +4394,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-# Student
+## Student
 
 ## [1. Answers - The Most Trusted Place for Answering Life's Questions](https://www.answers.com/)
 
