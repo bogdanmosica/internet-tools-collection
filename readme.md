@@ -633,7 +633,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [2. GitHub - kamranahmedse/developer-roadmap: Interactive roadmaps, guides and other educational content to help developers grow in their careers.](https://github.com/kamranahmedse/developer-roadmap)
 
-[<img src='https://opengraph.githubassets.com/f42fd45759ab294455376d13c6e99c6f152df7018dfd995fef2eb40d513eff59/kamranahmedse/developer-roadmap' width="300" />](https://github.com/kamranahmedse/developer-roadmap)
+[<img src='https://opengraph.githubassets.com/383c571fdf44c28daeda1d452eae0e7696d2b1c320e825fd4b0e4888b8501881/kamranahmedse/developer-roadmap' width="300" />](https://github.com/kamranahmedse/developer-roadmap)
 
 > Interactive roadmaps, guides and other educational content to help developers grow in their careers. - GitHub - kamranahmedse/developer-roadmap: Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
@@ -1260,7 +1260,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [12. SAVEE](https://savee.it/)
 
-[<img src='https://st.savee-cdn.com/_next/static/media/default-og-image.4c07ae17.jpg?1665660946371' width="300" />](https://savee.it/)
+[<img src='https://st.savee-cdn.com/_next/static/media/default-og-image.4c07ae17.jpg?1665661200794' width="300" />](https://savee.it/)
 
 > The best way to save and share inspiration.
 
@@ -2676,11 +2676,11 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ---
 
-## [32. Common Tools](https://www.commontools.org/)
+## [32. Free Online Tools - Commontools.org](https://www.commontools.org/)
 
 [<img src='https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png' width="300" />](https://www.commontools.org/)
 
-> 
+> Free Online Tools For Students, Teachers, Writers, Researchers, Doctors, Developers. Check out our simple, accurate, and easy-to-use online toolset.
 
 
 ---
@@ -3406,7 +3406,7 @@ A collection of tools, website and AI for entrepreneurs, web designers, programm
 
 ## [1. Royalty Free Music for video creators | Epidemic Sound](https://www.epidemicsound.com/)
 
-[<img src='https://cdn.epidemicsound.com/curation-assets/commercial-release-cover-images/2275/300x300.jpg' width="300" />](https://www.epidemicsound.com/)
+[<img src='https://cdn.epidemicsound.com/curation-assets/commercial-release-cover-images/4441/300x300.jpg' width="300" />](https://www.epidemicsound.com/)
 
 > Download premium Royalty free Music and SFX! Our free trial gives you access to over 35,000 tracks and 90,000 sound effects for video, streaming and more!
 

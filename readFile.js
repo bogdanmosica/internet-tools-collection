@@ -40,10 +40,6 @@ const readFile = () => {
 			.map(async (url, index) => {
 				try {
 					const result = await parser(url);
-					// if (index === 0) {
-					// 	const CAARD = await parser("https://carrd.co/");
-					// 	console.log(CAARD);
-					// }
 					return result;
 				} catch (error) {
 					return {};
@@ -51,9 +47,10 @@ const readFile = () => {
 			});
 
 		Promise.all(promiseData).then(function (values) {
-			const appList = values.map(({ og, meta }, i) => ({
+			const appList = values.map(({ og, meta, images }, i) => ({
 				...og,
 				...meta,
+				...images,
 				...extractedData[i],
 			}));
 			const markdownModelContent = filteredH1Headers.reduce(
@@ -82,7 +79,16 @@ const readFile = () => {
 			const markdownModel = appList.reduce(
 				(
 					prev,
-					{ id, url, name, heading, title = "", image = "", description = "" }
+					{
+						id,
+						url,
+						name,
+						heading,
+						title = "",
+						image = "",
+						images = [],
+						description = "",
+					}
 				) => {
 					if (id === 1)
 						prev.push({
@@ -95,6 +101,7 @@ const readFile = () => {
 						link: {
 							title: `<img src='${
 								image ||
+								images[0] ||
 								"https://www.salonlfc.com/wp-content/uploads/2018/01/image-not-found-scaled-1150x647.png"
 							}' width="300" />`,
 							source: url,
