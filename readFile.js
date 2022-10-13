@@ -104,12 +104,13 @@ const readFile = () => {
 							[textHeaders.includes(heading) ? "h1" : "h2"]: heading,
 						});
 					const appTitle = {
-						h2: `[${id}. ${title || name}](${image})`,
+						h2: `[${id}. ${title || name}](${url})`,
 					};
 					const appIcon = {
 						link: {
 							title: `<img src=${
-								image || "https://static.thenounproject.com/png/4736179-200.png"
+								image ||
+								"http://www.digitalmesh.com/blog/wp-content/uploads/2020/05/404-error.jpg"
 							} width="300" />`,
 							source: url,
 						},
